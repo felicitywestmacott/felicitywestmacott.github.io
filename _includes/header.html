@@ -1,8 +1,94 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <base href="http://felicitywestmacott.co.uk" />
+    <link href="site.css" rel="stylesheet" type="text/css" />
+
     <title>{{ include.title }}</title>
+
+    <meta name="description" content="Felicity is a Bespoke Wedding Dressmaker with more than 10 years experience making one-off dresses from design to completion." />
+
   </head>
   <body>
+    <div class="bar">
+
+      {% if include.location == 'home' %}
+      <span class="nolink">
+        Home
+      </span>
+      {% else %}
+      <a href="index.html" alt="Felicity Westmacott - Bespoke Dress Maker" target="">
+        Home
+      </a>
+      {% endif %}
 
 
+      {% if include.location == 'ordering' %}
+      <span class="nolink">
+        Ordering
+      </span>
+      {% else %}
+      <a href="ordering.html" alt="Ordering your Bespoke Wedding Dress" target="">
+        Ordering
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'gallery' %}
+      <span class="nolink">
+        Gallery
+      </span>
+      {% else %}
+      <a href="portfolio/portfolio.html" alt="Pictures of Happy Clients" target="">
+        Gallery
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'thanks' %}
+      <span class="nolink">
+        Testimonials
+      </span>
+      {% else %}
+      <a href="thankyous.html" alt="Testimonials and Thank You messages" target="">
+        Testimonials
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'contact' %}
+      <span class="nolink">
+        Contact
+      </span>
+      {% else %}
+      <a href="contact.html" alt="Contact details and about me" target="">
+        Contact
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'links' %}
+      <span class="nolink">
+        Links
+      </span>
+      {% else %}
+      <a href="links.html" alt="Links to other sites" target="">
+        Links
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'fb' %}
+      <span class="nolink">
+        Facebook
+      </span>
+      {% else %}
+      <a href="http://www.facebook.com/pages/Felicity-Westmacott-Bespoke-Dressmaker/33628074097" alt="Visit me on Facebook" target="_blank">
+        Facebook
+      </a>
+      {% endif %}
+
+    </div>
+    <div class="content">
+<!-- Header End -->
