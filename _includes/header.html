@@ -24,17 +24,6 @@
       {% endif %}
 
 
-      {% if include.location == 'ordering' %}
-      <span class="nolink">
-        Ordering
-      </span>
-      {% else %}
-      <a href="ordering.html" alt="Ordering your Bespoke Wedding Dress" target="">
-        Ordering
-      </a>
-      {% endif %}
-
-
       {% if include.location == 'gallery' %}
       <span class="nolink">
         Gallery
@@ -53,6 +42,17 @@
       {% else %}
       <a href="thankyous.html" alt="Testimonials and Thank You messages" target="">
         Testimonials
+      </a>
+      {% endif %}
+
+
+      {% if include.location == 'ordering' %}
+      <span class="nolink">
+        F.A.Q.
+      </span>
+      {% else %}
+      <a href="ordering.html" alt="Ordering your Bespoke Wedding Dress" target="">
+        F.A.Q.
       </a>
       {% endif %}
 
