@@ -1,2 +1,3 @@
-baseurl: /test
-
+baseurl: /
+#baseref: http://localhost:4000/
+baseref: http://felicitywestmacott.github.io/

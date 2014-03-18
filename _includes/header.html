@@ -2,10 +2,10 @@
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <!-- <base href="http://felicitywestmacott.co.uk" /> -->
+    <base href="{{ site.baseref }}" />
     <link href="site.css" rel="stylesheet" type="text/css" />
 
-    <title>{{ include.title }}</title>
+    <title>{{ page.title }}</title>
 
     <meta name="description" content="Felicity is a Bespoke Wedding Dressmaker with more than 10 years experience making one-off dresses from design to completion." />
 
@@ -13,7 +13,7 @@
   <body>
     <div class="bar">
 
-      {% if include.location == 'home' %}
+      {% if page.location == 'home' %}
       <span class="nolink">
         Home
       </span>
@@ -24,7 +24,7 @@
       {% endif %}
 
 
-      {% if include.location == 'gallery' %}
+      {% if page.location == 'gallery' %}
       <span class="nolink">
         Gallery
       </span>
@@ -35,7 +35,7 @@
       {% endif %}
 
 
-      {% if include.location == 'thanks' %}
+      {% if page.location == 'thanks' %}
       <span class="nolink">
         Testimonials
       </span>
@@ -46,7 +46,7 @@
       {% endif %}
 
 
-      {% if include.location == 'ordering' %}
+      {% if page.location == 'ordering' %}
       <span class="nolink">
         F.A.Q.
       </span>
@@ -57,7 +57,7 @@
       {% endif %}
 
 
-      {% if include.location == 'contact' %}
+      {% if page.location == 'contact' %}
       <span class="nolink">
         Contact
       </span>
@@ -68,7 +68,7 @@
       {% endif %}
 
 
-      {% if include.location == 'links' %}
+      {% if page.location == 'links' %}
       <span class="nolink">
         Links
       </span>
@@ -79,7 +79,7 @@
       {% endif %}
 
 
-      {% if include.location == 'fb' %}
+      {% if page.location == 'fb' %}
       <span class="nolink">
         Facebook
       </span>
