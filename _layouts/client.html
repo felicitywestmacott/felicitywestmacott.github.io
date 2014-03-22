@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <META http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <base href="{{ site.baseref }}" />
+    <link href="site.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="portfolio/client.css" />
+    <title> {{ page.title }} </title>
+    <meta name="description" content="Felicity is a Bespoke Wedding Dressmaker with more than 10 years experience making one-off dresses from design to completion." />
+    <script src="portfolio/client.js" type="text/javascript"></script>
+</head>
+
+<body onload="preparePage('{{ site.baseimageref }}portfolio/images/{{ page.image }}', '{{ site.baseimageref }}portfolio/images/{{ page.nextpic }}.jpg');"
+      onresize="ensmall();">
+
+<div id="enbig">
+    Click anywhere to return. <br/>
+    <img src="{{ site.baseimageref }}{{ page.image }}" />
+</div>
+
+<table>
+    <tr>
+        <td class="header" colspan="4">
+            <div class="headerdiv">
+                <a href="portfolio/portfolio.html">Back to Gallery</a>
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <td onmouseout="ensmall();" onmousemove="enlarge(event);" id="leftside">
+
+            <div id="hubert"></div>
+
+            <div id="counter"> {{ page.counter }} </div>
+
+            {% if page.nextpic %}
+            <a id="next"
+               href="./portfolio/{{ page.nextpic }}.html"
+               onmousemove="stopEvent(event);"
+               onclick="stopEvent(event);">
+            </a>
+            {% endif %}
+
+            {% if page.prevpic %}
+            <a id="prev"
+               href="./portfolio/{{ page.prevpic }}.html"
+               onmousemove="stopEvent(event);"
+               onclick="stopEvent(event);">
+            </a>
+            {% endif %}
+
+            <div id="bobby"></div>
+
+        </td>
+        <td colspan="3" id="rightside">
+            <div class="about">
+
+{{ content }}
+
+            </div>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
