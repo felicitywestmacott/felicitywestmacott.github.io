@@ -11,12 +11,12 @@
     <script src="portfolio/client.js" type="text/javascript"></script>
 </head>
 
-<body onload="preparePage('{{ site.baseimageref }}portfolio/images/{{ page.image }}', '{{ site.baseimageref }}portfolio/images/{{ page.nextpic }}.jpg');"
+<body onload="preparePage('{{ site.baseimageref }}images/{{ page.image }}', '{{ site.baseimageref }}images/{{ page.nextpic }}.jpg');"
       onresize="ensmall();">
 
 <div id="enbig">
     Click anywhere to return. <br/>
-    <img src="{{ site.baseimageref }}{{ page.image }}" />
+    <img src="{{ site.baseimageref }}images/{{ page.image }}" />
 </div>
 
 <table>
@@ -36,7 +36,7 @@
 
             {% if page.nextpic %}
             <a id="next"
-               href="./portfolio/{{ page.nextpic }}.html"
+               href="portfolio/{{ page.nextpic }}.html"
                onmousemove="stopEvent(event);"
                onclick="stopEvent(event);">
             </a>
@@ -44,7 +44,7 @@
 
             {% if page.prevpic %}
             <a id="prev"
-               href="./portfolio/{{ page.prevpic }}.html"
+               href="portfolio/{{ page.prevpic }}.html"
                onmousemove="stopEvent(event);"
                onclick="stopEvent(event);">
             </a>

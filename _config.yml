@@ -1,4 +1,4 @@
 baseurl: /
 #baseref: http://localhost:4000/
 baseref: http://felicitywestmacott.github.io/
-baseimageref: http://felicitywestmacott.co.uk/
+baseimageref: http://felicitywestmacott.s3-website-eu-west-1.amazonaws.com/
