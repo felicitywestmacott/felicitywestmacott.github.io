@@ -1,0 +1,171 @@
+
+/* logo fuschia:	253, 227, 238  #fde3ee */
+/* logo text:		255, 206, 227  #ffcee3 */
+/* darker text:		255, 175, 211   */
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+//	position: relative;
+  background-color: #FFF;
+  font-family: "Arial";
+  color: #555;
+
+  width: 100%;
+  height:100%;
+  margin: 0px;
+}
+
+div#enbig {
+	display: none;
+	position: absolute;
+	min-width: 	100%;
+	min-height: 	100%;
+	background-color: #EEEEEE;
+	text-align: center;
+	z-index: 100;
+	padding-top: 5px;
+}
+
+table {
+  border-collapse:collapse;
+  width: 100%;
+  height:100%;
+}
+
+td.header {
+  height: 10px; // Just to keep it small, in fact expanded by inner div to larger than this.
+}
+
+td {
+  padding:0px;
+  height:100%;
+}
+
+td#leftside {
+  background-size: contain;
+  background-repeat:no-repeat;
+  background-position:center;
+  background-color: #EEEEEE;
+/*  cursor: url('./graphics/mag.png'), auto; */
+  width: 61.8%;
+  position: relative; /* For the links prev and next */
+  overflow:hidden;
+}
+
+td#rightside {
+  width: 38.2%;
+}
+
+div.about {
+  padding: 16px;
+  max-width: 500px;
+  max-height: 100%;
+  /*overflow-y:scroll;*/
+}
+
+div#bobby {
+	position:relative;
+}
+
+div#hubert {
+	position: absolute;
+}
+
+/*
+img#mag {
+  position: absolute;
+  top:5px;
+  left:5px;
+}
+*/
+
+
+
+div.headerdiv	{
+	background-image:	url('./graphics/headerClient.png');
+	background-position:	100% 2px;
+	background-repeat:	no-repeat;
+
+	text-align:	left;
+	border-bottom: 16px solid #ffcee3;
+//	height: 42px;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+div.headerdiv a:first-child {
+	margin-left:15px;
+}
+
+div.headerdiv a	{
+	display: inline-block;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+
+
+div#counter {
+  position:absolute;
+  right: 0px;
+  bottom: 0px;
+  margin: 5px;
+  padding: 2px;
+  cursor: auto;
+  background-color: rgba(238, 238, 238, 0.5);
+  border-radius:5px;
+}
+
+a#next {
+  position:absolute;
+  right: 0px;
+  top: 40%;
+  width:  50px;
+  height: 100px;
+  background-position:left;
+  display: block;
+  background-image: url('./graphics/nextprevA.png');
+  cursor: auto;
+  border: none;
+}
+a#prev{
+  position:absolute;
+  left: 0px;
+  top: 40%;
+  width:  50px;
+  height: 100px;
+  background-position:right;
+  display: block;
+  background-image: url('./graphics/nextprevA.png');
+  cursor: auto;
+  border: none;
+}
+a#next:hover {
+    background-image: url('./graphics/nextprevB.png');
+}
+a#prev:hover {
+    background-image: url('./graphics/nextprevB.png');
+}
+
+/*
+td.nav {
+  text-align: left;
+  padding: 10px;
+  border-top: 16px solid #FFAAAA;
+}
+
+td.prev {
+  text-align: left;
+}
+
+td.next {
+  text-align: right;
+}
+*/
