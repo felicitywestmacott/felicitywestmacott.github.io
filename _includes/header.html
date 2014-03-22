@@ -5,12 +5,26 @@
     <base href="{{ site.baseref }}" />
     <link href="site.css" rel="stylesheet" type="text/css" />
 
+    {% if page.extrastyle %}
+    <link href="{{ page.extrastyle }}" rel="stylesheet" type="text/css" />
+    {% endif %}
+
     <title>{{ page.title }}</title>
 
     <meta name="description" content="Felicity is a Bespoke Wedding Dressmaker with more than 10 years experience making one-off dresses from design to completion." />
 
+    {% if page.extrascript %}
+    <script src="{{ page.extrascript }}" type="text/javascript"></script>
+    {% endif %}
+
   </head>
+
+  {% if page.onload %}
+  <body onload="{{ page.onload }}">
+  {% else %}
   <body>
+  {% endif %}
+
     <div class="bar">
 
       {% if page.location == 'home' %}
@@ -90,12 +104,5 @@
       {% endif %}
 
     </div>
-    <div class="content">
-
-        <div class="header" style="text-align: center;">
-            <img alt="Felicity Westmacott - Bespoke Dressmaker 01737 773 282"
-                 style="max-width: 100%;"
-                 src="http://felicitywestmacott.co.uk/graphics/headerIndex.png" />
-        </div>
 
 <!-- Header End -->
