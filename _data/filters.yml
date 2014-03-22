@@ -1,0 +1,242 @@
+
+
+ - label: Theme
+   options:
+    - value: all
+      label: All
+    - value: vint
+      label: Vintage
+    - value: hist
+      label: Historical
+    - value: cont
+      label: Contempory
+    - value: trad
+      label: Traditional
+    - value: spec
+      label: Spectacular &amp; wild
+    - value: simp
+      label: Simple and unadorned
+    - value: inform
+      label: Informal wedding
+    - value: spar
+      label: Lots of sparkle
+    - value: colour
+      label: Coloured wedding dresses
+    
+ - label: Category
+   options:
+    - value: all
+      label: All
+    - value: bride
+      label: Bride
+    - value: bmaid
+      label: Bridesmaid
+    - value: mother
+      label: Mother of the Bride
+    - value: kids
+      label: Children &amp; Babies
+    - value: matern
+      label: Maternity
+    - value: men
+      label: Menswear
+    - value: prom
+      label: Evening &amp; Prom
+    - value: theatre
+      label: Theatrical Costume
+    - value: bolero
+      label: Boleros, Jackets, Coats
+    - value: tiara
+      label: Tiaras, Jewellry
+    - value: veil
+      label: Veils &amp; Fascinators
+    - value: beading
+      label: Embroidery &amp; Beading
+    - value: under
+      label: Underwear &amp; Corsets
+    - value: bags
+      label: Bags &amp; Shoes
+    - value: restyle
+      label: Alteration &amp; Restyling
+    
+ - label: Detail
+   options:
+    - value: all
+      label: All
+    - value: wstraps
+      label: With Straps
+    - value: nostraps
+      label: Strapless
+    - value: halter
+      label: Halterneck
+    - value: offshould
+      label: Off the shoulder
+    - value: high
+      label: High/Boatneck
+    - value: sweet
+      label: Sweetheart
+    - value: square
+      label: Square/Straight across
+    - value: round
+      label: Round
+    - value: cowl
+      label: Cowl
+    - value: vneck
+      label: V-neck
+    - value: over
+      label: Crossover
+    - value: asym
+      label: Asymmetric
+    - value: collar
+      label: Collar/Lapel
+    - value: cap
+      label: Short/cap
+    - value: quarter
+      label: Three quarter
+    - value: long
+      label: Long
+    - value: medieval
+      label: Medieval
+    - value: puffed
+      label: Gathered/puffed
+    - value: cuffs
+      label: with buttons/cuffs
+    - value: lowback
+      label: Backless/low back
+    - value: laceup
+      label: Lace-up/corset
+    - value: buttons
+      label: Buttons and loops
+    - value: zip
+      label: Zip
+    - value: wing
+      label: Wings
+    - value: sash
+      label: with sash
+    - value: nobone
+      label: Un-boned
+    - value: lightbone
+      label: Lightly boned
+    - value: firmbone
+      label: Firmly boned
+    - value: empire
+      label: Empire line - high waisted
+    - value: princess
+      label: Princess line
+    - value: dropped
+      label: Dropped waist
+    - value: loose
+      label: Loose fit
+    - value: two
+      label: Bodice &amp; Skirt ensemble
+    - value: aline
+      label: A-line
+    - value: fish
+      label: Fishtail
+    - value: pencil
+      label: Pencil
+    - value: straight
+      label: Straight
+    - value: flow
+      label: Full &amp; flowy/drapey
+    - value: full
+      label: Full and puffy/wide
+    - value: cloud
+      label: Cloud
+    - value: hoop
+      label: With hoop
+    - value: split
+      label: With split
+    - value: short
+      label: Short
+    - value: midi
+      label: Midi
+    - value: floor
+      label: Floor length
+    - value: notrain
+      label: No train
+    - value: puddle
+      label: Tiny/Puddle train
+    - value: chapel
+      label: Medium/Chapel train
+    - value: cathedral
+      label: Long/Cathedral train
+    - value: bias
+      label: Bias cut
+    - value: pleats
+      label: Pleats
+    - value: layers
+      label: Layers
+    - value: ruched
+      label: ruching
+    - value: peplum
+      label: Peplum
+    - value: water
+      label: Waterfall
+    
+ - label: Colour
+   options:
+    - value: all
+      label: All
+    - value: silver
+      label: Silver
+    - value: white
+      label: White
+    - value: ivory
+      label: Ivory
+    - value: cream
+      label: Cream
+    - value: gold
+      label: Gold
+    - value: brown
+      label: Coffee/Brown
+    - value: black
+      label: Blacks &amp; greys
+    - value: blue
+      label: Blues
+    - value: purple
+      label: Purple &amp; lilacs
+    - value: pink
+      label: Pinks
+    - value: red
+      label: Reds
+    - value: orange
+      label: Orange &amp; Yellow
+    - value: green
+      label: Greens
+    - value: turq
+      label: Turquoise
+    - value: multi
+      label: Multi-colour
+    
+ - label: Fabric
+   options:
+    - value: all
+      label: All
+    - value: silk
+      label: Silk
+    - value: man
+      label: Man-made
+    - value: satin
+      label: Satin
+    - value: taffeta
+      label: Taffeta
+    - value: chiffon
+      label: Chiffon/Organza/Georgette
+    - value: lacefab
+      label: Lace
+    - value: tulle
+      label: Tulle/Net
+    - value: embroid
+      label: Embroidered/Beaded
+    - value: velvet
+      label: Velvet
+    - value: brocade
+      label: Brocade
+    - value: dupion
+      label: Dupion
+    - value: bellish
+      label: Embellished
+    - value: corsage
+      label: Corsage/Flowers
+    - value: swar
+      label: Swarovski
