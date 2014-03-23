@@ -1,3 +1,5 @@
+---
+---
 
 /* logo fuschia:	253, 227, 238  #fde3ee */
 /* logo text:		255, 206, 227  #ffcee3 */
@@ -87,7 +89,7 @@ img#mag {
 
 
 div.headerdiv	{
-	background-image:	url('./graphics/headerClient.png');
+	background-image:	url('{{ site.baseimageref }}graphics/headerClient.png');
 	background-position:	100% 2px;
 	background-repeat:	no-repeat;
 
@@ -131,7 +133,7 @@ a#next {
   height: 100px;
   background-position:left;
   display: block;
-  background-image: url('./graphics/nextprevA.png');
+  background-image: url('{{ site.baseimageref }}graphics/nextprevA.png');
   cursor: auto;
   border: none;
 }
@@ -143,15 +145,15 @@ a#prev{
   height: 100px;
   background-position:right;
   display: block;
-  background-image: url('./graphics/nextprevA.png');
+  background-image: url('{{ site.baseimageref }}graphics/nextprevA.png');
   cursor: auto;
   border: none;
 }
 a#next:hover {
-    background-image: url('./graphics/nextprevB.png');
+    background-image: url('{{ site.baseimageref }}graphics/nextprevB.png');
 }
 a#prev:hover {
-    background-image: url('./graphics/nextprevB.png');
+    background-image: url('{{ site.baseimageref }}graphics/nextprevB.png');
 }
 
 /*

@@ -1,3 +1,5 @@
+---
+---
 
 var imgHeight;
 var imgWidth;
@@ -112,7 +114,7 @@ function ensmall() {
 		el.style.cursor='auto';
 	}
 	else {
-		el.style.cursor="url('./portfolio/graphics/mag.png') 12 12, auto";
+		el.style.cursor="url('{{ site.baseimageref }}graphics/mag.png') 12 12, auto";
 	}
 
 	//elA = document.getElementById("elA");
