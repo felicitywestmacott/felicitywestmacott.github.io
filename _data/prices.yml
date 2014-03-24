@@ -1,0 +1,13 @@
+
+
+materials:
+  - &hours     { name: Hours,          cost:  32 }
+  - &cheapsilk { name: Cheap Silk,     cost:   5 }
+  - &midsilk   { name: Mid-range Silk, cost:  12 }
+  - &expsilk   { name: Expensive Silk, cost:  32 }
+
+
+items:
+  fancydress: { *hours: 70, *expsilk: 20 }
+  cheapdress: { *hours: 10, *cheapsilk: 3 }
+

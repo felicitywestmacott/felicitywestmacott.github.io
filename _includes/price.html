@@ -1,0 +1,33 @@
+
+
+{% comment %}
+    This is the price calculation logic. It also rounds up to nearby whole-ish numbers.
+{% endcomment %}
+
+
+{% capture cumulative %}0{% endcapture %}
+
+{% for lineitem in site.data.prices.items[include.item] %}
+  {% capture cumulative %}{{ lineitem[0].cost | times: lineitem[1] | plus: cumulative }}{% endcapture %}
+{% endfor %}
+
+{% comment %} Effectively a cast to Number ?!? Couldn't make it work otherwise. :-( {% endcomment %}
+{% assign cumulative = cumulative | plus:0 %}
+
+{%    if cumulative > 1000 %} {% assign dividor = 100 %}
+{% elsif cumulative >  500 %} {% assign dividor =  50 %}
+{% elsif cumulative >  100 %} {% assign dividor =  10 %}
+{% elsif cumulative >   50 %} {% assign dividor =   5 %}
+{% else %}                    {% assign dividor =   1 %}
+{% endif %}
+
+{% assign over_by = cumulative | modulo: dividor %}
+{% assign floored = cumulative | minus: over_by %}
+{% assign total = floored | plus: dividor %}
+
+{% if total > 999 %}
+  £{{ total | divided_by: 1000 }},{{ total | modulo: 1000 }}
+{% else %}
+  £{{ total }}
+{% endif %}
+
