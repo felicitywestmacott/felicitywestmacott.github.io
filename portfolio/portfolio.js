@@ -51,16 +51,16 @@ function getParameterByName(name) {
 
 function filterBy(aclassname) {
 
-	var allSpans=document.getElementsByClassName('filterable');
+	var allSpans=document.getElementsByTagName('span');
 	for (i=0; i<allSpans.length; i++) {
-
+		if (allSpans[i].className.match('filterable')) {
 			if (allSpans[i].className.match(aclassname)) {
 				allSpans[i].style.display='inline-block';
 			}
 			else {
 				allSpans[i].style.display='none';
 			}
-
+		}
 	}
 }
 
