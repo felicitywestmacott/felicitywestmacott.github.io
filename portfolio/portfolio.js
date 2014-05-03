@@ -51,14 +51,14 @@ function getParameterByName(name) {
 
 function filterBy(aclassname) {
 
-	var allSpans=document.getElementsByTagName('span');
-	for (i=0; i<allSpans.length; i++) {
-		if (allSpans[i].className.match('filterable')) {
-			if (allSpans[i].className.match(aclassname)) {
-				allSpans[i].style.display='inline-block';
+	var allDivs=document.getElementsByTagName('div');
+	for (i=0; i<allDivs.length; i++) {
+		if (allDivs[i].className.match('filterable')) {
+			if (allDivs[i].className.match(aclassname)) {
+				allDivs[i].style.display='inline-block';
 			}
 			else {
-				allSpans[i].style.display='none';
+				allDivs[i].style.display='none';
 			}
 		}
 	}
