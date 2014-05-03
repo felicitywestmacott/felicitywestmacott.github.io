@@ -14,7 +14,7 @@ location: gallery
         Pictures are usually added 6-12 months after the occasion.
     </div>
 
-{% for client in site.data.portfolio %}{% if client.label %}<div class="divider"><div class="dividertxt">{{ client.label }}</div></div>{% elsif client.link %}<div class="filterable all {{ client.classes }}"><a class="client" href="portfolio/{{ client.link }}"><img class="faded" src="{{ site.baseimageref }}images/{{ client.tt }}" /></a></div>{% endif %}{% endfor %}
+{% for client in site.data.portfolio %}{% if client.label %}<div class="divider"><img src="graphics/div{{ client.label }}.png" /></div>{% elsif client.link %}<div class="filterable all {{ client.classes }}"><a class="client" href="portfolio/{{ client.link }}"><img class="faded" src="{{ site.baseimageref }}images/{{ client.tt }}" /></a></div>{% endif %}{% endfor %}
 
 </div>
 
