@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Client Page Set Generator</title>
+    <style>
+
+        body {
+            font-family: verdana;
+        }
+
+        div {
+            /*border: 1px solid black;*/
+        }
+
+        .big {
+            font-size: xx-large;
+            margin-left: 20px;
+            margin-right: 20px;
+            padding-left: 20px;
+            padding-right: 20px;
+            display: inline-block;
+        }
+
+        .hide {
+            visibility: hidden;
+        }
+
+        #portfolio {
+            resize: none;
+            font-family: monospace;
+        }
+
+        .lowercase {
+            text-transform: lowercase;
+        }
+
+        .category {
+            margin-top: 0;
+            margin-bottom: 0;
+            padding-top: 5px;
+            padding-bottom: 5px;
+        }
+        .category:nth-child(2n+0) {
+            border-top: 1px solid gray;
+            border-bottom: 1px solid gray;
+        }
+
+        .label {
+            background-color: rgb(244, 159, 201);
+            margin-right: 5px;
+            padding: 2px;
+        }
+
+        .categories {
+            margin-right: 20px;
+            border-right: 1px solid red;
+        }
+
+        div#pages div {
+            border: none;
+            padding: 10px;
+            margin: 5px;
+        }
+
+        div#pages div:nth-child(3n+0) {
+            background-color: rgb(255, 255, 200);
+        }
+
+        div#pages div:nth-child(3n+1) {
+            /*border: 5px solid rgb(200, 255, 255);*/
+            background-color: rgb(200, 255, 255);
+        }
+
+        div#pages div:nth-child(3n+2) {
+            /*border: 5px solid rgb(255, 200, 255);*/
+            background-color: rgb(255, 200, 255);
+        }
+
+    </style>
+    <script>
+
+        var currentNumber = 1;
+
+        var data = [];
+
+        function changeNumber(thing) {
+
+            if (thing) {
+                currentNumber = parseInt(thing.value);
+            }
+
+            document.getElementById("numberDisplay").innerHTML = "" + currentNumber;
+
+
+            var title = document.getElementById("pageTitle").value;
+            var clientName = document.getElementById("clientName").value.toLowerCase();
+            var recurrent = document.getElementById("recurrent").value;
+            var photoName = document.getElementById("photoName").value;
+            var photoWebsite = document.getElementById("photoWebsite").value;
+
+            var msg = "\n";
+            msg += " - link: " + clientName + ".html\n";
+            msg += "   tt: " + clientName + "tt.jpg\n";
+            msg += "   classes:";
+            var els = document.getElementsByClassName("categories");
+            for (var i = 0; i < els.length; i++) {
+                if (els[i].checked) {
+                    msg += " " + els[i].value;
+                }
+            }
+            document.getElementById("portfolio").innerHTML = msg + "\n";
+
+            for (var i = 1; i < 50; i++) {
+
+                var div = document.getElementById("page" + i);
+                var specific = document.getElementById("specific" + i).value;
+                var credit = document.getElementById("credit" + i).checked;
+
+                if (i <= currentNumber) {
+                    div.classList.remove("hide");
+                }
+                else {
+                    div.classList.add("hide");
+                }
+
+                if (i < currentNumber) {
+                    data[i].nextpic = i + 1;
+                }
+                else {
+                    delete data[i].nextpic;
+                }
+
+                var content = "---\n";
+                content += "layout: client\n";
+                content += "title: " + title + "\n";
+                content += "image: " + clientName + i + ".jpg\n";
+
+                if (data[i].nextpic) {
+                    content += "nextpic: " + data[i].nextpic
+                }
+                content += "\n";
+                if (data[i].prevpic) {
+                    content += "prevpic: " + data[i].prevpic;
+                }
+                content += "\n";
+                content += "counter: " + i + " / " + currentNumber + "\n";
+                content += "---\n";
+                content += "\n";
+
+                if (recurrent) {
+                    content += recurrent;
+                    content += "\n";
+                    content += "\n";
+                }
+
+                if (credit) {
+                    content += "<p>Photography by <a href=\"" + photoWebsite + "\">" + photoName + "</a></p>";
+                    content += "\n";
+                    content += "\n";
+                }
+
+                if (recurrent && specific) {
+                    content += "<hr />\n\n";
+                }
+
+                if (specific) {
+                    content += specific;
+                    content += "\n";
+                }
+
+                var ta = document.getElementById("content" + i);
+                ta.innerHTML = content;
+
+            }
+        }
+
+        function init() {
+
+            var pages = document.getElementById("pages");
+            for (var i = 1; i < 50; i++) {
+                var div = document.createElement("div");
+                div.setAttribute("id", "page" + i);
+//                div.setAttribute("class", "pageBlock");
+
+                var sp = document.createElement("span");
+                sp.innerHTML = "" + i;
+                sp.classList.add("big");
+                div.appendChild(sp);
+
+                var label = document.createElement("span");
+                label.setAttribute("class", "label");
+                label.innerHTML = "Credit photographer:";
+                div.appendChild(label);
+
+                var ph = document.createElement("input");
+                ph.setAttribute("id", "credit" + i);
+                ph.setAttribute("type", "checkbox");
+                ph.setAttribute("onchange", "changeNumber()");
+                div.appendChild(ph);
+
+                div.appendChild(document.createElement("br"));
+
+                var specific = document.createElement("textarea");
+                specific.setAttribute("id", "specific" + i);
+                specific.setAttribute("cols", "50");
+                specific.setAttribute("rows", "15");
+                specific.setAttribute("oninput", "changeNumber()");
+                div.appendChild(specific);
+
+                var ta = document.createElement("textarea");
+                ta.setAttribute("id", "content" + i);
+                ta.setAttribute("rows", "15");
+                ta.setAttribute("cols", "50");
+                div.appendChild(ta);
+
+                pages.appendChild(div);
+
+                data[i] = {
+                    number: i
+                };
+
+                if (i > 1) {
+                    data[i].prevpic = i - 1;
+                }
+
+            }
+
+            var number = document.getElementById("number");
+            number.value = 1;
+            changeNumber(number);
+        }
+
+    </script>
+</head>
+<body onload="init()">
+
+<span class="label">Client Name:</span><input id="clientName" class="lowercase" type="text" oninput="changeNumber()"/>
+<span class="label">Page Title:</span><input id="pageTitle" type="text" value="Wedding Dress for..." oninput="changeNumber()"/>
+<br/><br/>
+
+<div class="category">
+    <span class="label">Theme:</span>
+    <span>Vintage</span><input type="checkbox" class="categories" value="vint" onchange="changeNumber()"/>
+    <span>Historical</span><input type="checkbox" class="categories" value="hist" onchange="changeNumber()" />
+    <span>Contempory</span><input type="checkbox" class="categories" value="cont" onchange="changeNumber()" />
+    <span>Traditional</span><input type="checkbox" class="categories" value="trad" onchange="changeNumber()" />
+    <span>Spectacular &amp; wild</span><input type="checkbox" class="categories" value="spec" onchange="changeNumber()" />
+    <span>Simple and unadorned</span><input type="checkbox" class="categories" value="simp" onchange="changeNumber()" />
+    <span>Informal wedding</span><input type="checkbox" class="categories" value="inform" onchange="changeNumber()" />
+    <span>Lots of sparkle</span><input type="checkbox" class="categories" value="spar" onchange="changeNumber()" />
+    <span>Coloured wedding dresses</span><input type="checkbox" class="categories" value="colour" onchange="changeNumber()" />
+</div>
+
+<div class="category">
+    <span class="label">Category:</span>
+    <span>Bride</span><input type="checkbox" class="categories" value="bride" onchange="changeNumber()" />
+    <span>Bridesmaid</span><input type="checkbox" class="categories" value="bmaid" onchange="changeNumber()" />
+    <span>Mother of the Bride</span><input type="checkbox" class="categories" value="mother" onchange="changeNumber()" />
+    <span>Children &amp; Babies</span><input type="checkbox" class="categories" value="kids" onchange="changeNumber()" />
+    <span>Maternity</span><input type="checkbox" class="categories" value="matern" onchange="changeNumber()" />
+    <span>Menswear</span><input type="checkbox" class="categories" value="men" onchange="changeNumber()" />
+    <span>Evening &amp; Prom</span><input type="checkbox" class="categories" value="prom" onchange="changeNumber()" />
+    <span>Theatrical Costume</span><input type="checkbox" class="categories" value="theatre" onchange="changeNumber()" />
+    <span>Boleros, Jackets, Coats</span><input type="checkbox" class="categories" value="bolero" onchange="changeNumber()" />
+    <span>Tiaras, Jewellry</span><input type="checkbox" class="categories" value="tiara" onchange="changeNumber()" />
+    <span>Veils &amp; Fascinators</span><input type="checkbox" class="categories" value="veil" onchange="changeNumber()" />
+    <span>Embroidery &amp; Beading</span><input type="checkbox" class="categories" value="beading" onchange="changeNumber()" />
+    <span>Underwear &amp; Corsets</span><input type="checkbox" class="categories" value="under" onchange="changeNumber()" />
+    <span>Bags &amp; Shoes</span><input type="checkbox" class="categories" value="bags" onchange="changeNumber()" />
+    <span>Alteration &amp; Restyling</span><input type="checkbox" class="categories" value="restyle" onchange="changeNumber()" />
+</div>
+<div class="category">
+    <span class="label">Detail:</span>
+    <span>With Straps</span><input type="checkbox" class="categories" value="wstraps" onchange="changeNumber()" />
+    <span>Strapless</span><input type="checkbox" class="categories" value="nostraps" onchange="changeNumber()" />
+    <span>Halterneck</span><input type="checkbox" class="categories" value="halter" onchange="changeNumber()" />
+    <span>Off the shoulder</span><input type="checkbox" class="categories" value="offshould" onchange="changeNumber()" />
+    <span>High/Boatneck</span><input type="checkbox" class="categories" value="high" onchange="changeNumber()" />
+    <span>Sweetheart</span><input type="checkbox" class="categories" value="sweet" onchange="changeNumber()" />
+    <span>Square/Straight across</span><input type="checkbox" class="categories" value="square" onchange="changeNumber()" />
+    <span>Round</span><input type="checkbox" class="categories" value="round" onchange="changeNumber()" />
+    <span>Cowl</span><input type="checkbox" class="categories" value="cowl" onchange="changeNumber()" />
+    <span>V-neck</span><input type="checkbox" class="categories" value="vneck" onchange="changeNumber()" />
+    <span>Crossover</span><input type="checkbox" class="categories" value="over" onchange="changeNumber()" />
+    <span>Asymmetric</span><input type="checkbox" class="categories" value="asym" onchange="changeNumber()" />
+    <span>Collar/Lapel</span><input type="checkbox" class="categories" value="collar" onchange="changeNumber()" />
+    <span>Short/cap</span><input type="checkbox" class="categories" value="cap" onchange="changeNumber()" />
+    <span>Three quarter</span><input type="checkbox" class="categories" value="quarter" onchange="changeNumber()" />
+    <span>Long</span><input type="checkbox" class="categories" value="long" onchange="changeNumber()" />
+    <span>Medieval</span><input type="checkbox" class="categories" value="medieval" onchange="changeNumber()" />
+    <span>Gathered/puffed</span><input type="checkbox" class="categories" value="puffed" onchange="changeNumber()" />
+    <span>with buttons/cuffs</span><input type="checkbox" class="categories" value="cuffs" onchange="changeNumber()" />
+    <span>Backless/low back</span><input type="checkbox" class="categories" value="lowback" onchange="changeNumber()" />
+    <span>Lace-up/corset</span><input type="checkbox" class="categories" value="laceup" onchange="changeNumber()" />
+    <span>Buttons and loops</span><input type="checkbox" class="categories" value="buttons" onchange="changeNumber()" />
+    <span>Zip</span><input type="checkbox" class="categories" value="zip" onchange="changeNumber()" />
+    <span>Wings</span><input type="checkbox" class="categories" value="wing" onchange="changeNumber()" />
+    <span>with sash</span><input type="checkbox" class="categories" value="sash" onchange="changeNumber()" />
+    <span>Un-boned</span><input type="checkbox" class="categories" value="nobone" onchange="changeNumber()" />
+    <span>Lightly boned</span><input type="checkbox" class="categories" value="lightbone" onchange="changeNumber()" />
+    <span>Firmly boned</span><input type="checkbox" class="categories" value="firmbone" onchange="changeNumber()" />
+    <span>Empire line - high waisted</span><input type="checkbox" class="categories" value="empire" onchange="changeNumber()" />
+    <span>Princess line</span><input type="checkbox" class="categories" value="princess" onchange="changeNumber()" />
+    <span>Dropped waist</span><input type="checkbox" class="categories" value="dropped" onchange="changeNumber()" />
+    <span>Loose fit</span><input type="checkbox" class="categories" value="loose" onchange="changeNumber()" />
+    <span>Bodice &amp; Skirt ensemble</span><input type="checkbox" class="categories" value="two" onchange="changeNumber()" />
+    <span>A-line</span><input type="checkbox" class="categories" value="aline" onchange="changeNumber()" />
+    <span>Fishtail</span><input type="checkbox" class="categories" value="fish" onchange="changeNumber()" />
+    <span>Pencil</span><input type="checkbox" class="categories" value="pencil" onchange="changeNumber()" />
+    <span>Straight</span><input type="checkbox" class="categories" value="straight" onchange="changeNumber()" />
+    <span>Full &amp; flowy/drapey</span><input type="checkbox" class="categories" value="flow" onchange="changeNumber()" />
+    <span>Full and puffy/wide</span><input type="checkbox" class="categories" value="full" onchange="changeNumber()" />
+    <span>Cloud</span><input type="checkbox" class="categories" value="cloud" onchange="changeNumber()" />
+    <span>With hoop</span><input type="checkbox" class="categories" value="hoop" onchange="changeNumber()" />
+    <span>With split</span><input type="checkbox" class="categories" value="split" onchange="changeNumber()" />
+    <span>Short</span><input type="checkbox" class="categories" value="short" onchange="changeNumber()" />
+    <span>Midi</span><input type="checkbox" class="categories" value="midi" onchange="changeNumber()" />
+    <span>Floor length</span><input type="checkbox" class="categories" value="floor" onchange="changeNumber()" />
+    <span>No train</span><input type="checkbox" class="categories" value="notrain" onchange="changeNumber()" />
+    <span>Tiny/Puddle train</span><input type="checkbox" class="categories" value="puddle" onchange="changeNumber()" />
+    <span>Medium/Chapel train</span><input type="checkbox" class="categories" value="chapel" onchange="changeNumber()" />
+    <span>Long/Cathedral train</span><input type="checkbox" class="categories" value="cathedral" onchange="changeNumber()" />
+    <span>Bias cut</span><input type="checkbox" class="categories" value="bias" onchange="changeNumber()" />
+    <span>Pleats</span><input type="checkbox" class="categories" value="pleats" onchange="changeNumber()" />
+    <span>Layers</span><input type="checkbox" class="categories" value="layers" onchange="changeNumber()" />
+    <span>ruching</span><input type="checkbox" class="categories" value="ruched" onchange="changeNumber()" />
+    <span>Peplum</span><input type="checkbox" class="categories" value="peplum" onchange="changeNumber()" />
+    <span>Waterfall</span><input type="checkbox" class="categories" value="water" onchange="changeNumber()" />
+</div>
+<div class="category">
+    <span class="label">Colour:</span>
+    <span>Silver</span><input type="checkbox" class="categories" value="silver" onchange="changeNumber()" />
+    <span>White</span><input type="checkbox" class="categories" value="white" onchange="changeNumber()" />
+    <span>Ivory</span><input type="checkbox" class="categories" value="ivory" onchange="changeNumber()" />
+    <span>Cream</span><input type="checkbox" class="categories" value="cream" onchange="changeNumber()" />
+    <span>Gold</span><input type="checkbox" class="categories" value="gold" onchange="changeNumber()" />
+    <span>Coffee/Brown</span><input type="checkbox" class="categories" value="brown" onchange="changeNumber()" />
+    <span>Blacks &amp; greys</span><input type="checkbox" class="categories" value="black" onchange="changeNumber()" />
+    <span>Blues</span><input type="checkbox" class="categories" value="blue" onchange="changeNumber()" />
+    <span>Purple &amp; lilacs</span><input type="checkbox" class="categories" value="purple" onchange="changeNumber()" />
+    <span>Pinks</span><input type="checkbox" class="categories" value="pink" onchange="changeNumber()" />
+    <span>Reds</span><input type="checkbox" class="categories" value="red" onchange="changeNumber()" />
+    <span>Orange &amp; Yellow</span><input type="checkbox" class="categories" value="orange" onchange="changeNumber()" />
+    <span>Greens</span><input type="checkbox" class="categories" value="green" onchange="changeNumber()" />
+    <span>Turquoise</span><input type="checkbox" class="categories" value="turq" onchange="changeNumber()" />
+    <span>Multi-colour</span><input type="checkbox" class="categories" value="multi" onchange="changeNumber()" />
+</div>
+<div class="category">
+    <span class="label">Fabric:</span>
+
+    <span>Silk</span><input type="checkbox" class="categories" value="silk" onchange="changeNumber()" />
+    <span>Man-made</span><input type="checkbox" class="categories" value="man" onchange="changeNumber()" />
+    <span>Satin</span><input type="checkbox" class="categories" value="satin" onchange="changeNumber()" />
+    <span>Taffeta</span><input type="checkbox" class="categories" value="taffeta" onchange="changeNumber()" />
+    <span>Chiffon/Organza/Georgette</span><input type="checkbox" class="categories" value="chiffon" onchange="changeNumber()" />
+    <span>Lace</span><input type="checkbox" class="categories" value="lacefab" onchange="changeNumber()" />
+    <span>Tulle/Net</span><input type="checkbox" class="categories" value="tulle" onchange="changeNumber()" />
+    <span>Embroidered/Beaded</span><input type="checkbox" class="categories" value="embroid" onchange="changeNumber()" />
+    <span>Velvet</span><input type="checkbox" class="categories" value="velvet" onchange="changeNumber()" />
+    <span>Brocade</span><input type="checkbox" class="categories" value="brocade" onchange="changeNumber()" />
+    <span>Dupion</span><input type="checkbox" class="categories" value="dupion" onchange="changeNumber()" />
+    <span>Embellished</span><input type="checkbox" class="categories" value="bellish" onchange="changeNumber()" />
+    <span>Corsage/Flowers</span><input type="checkbox" class="categories" value="corsage" onchange="changeNumber()" />
+    <span>Swarovski</span><input type="checkbox" class="categories" value="swar" onchange="changeNumber()" />
+</div>
+<br/>
+<textarea id="portfolio" style="width: 100%;" rows="5" onclick="this.focus();this.select()" readonly="readonly"></textarea>
+<br/><br/>
+
+
+<span class="label">Photographer name:</span><input id="photoName" type="text" oninput="changeNumber()"/>
+<span class="label">Website:</span><input id="photoWebsite" type="text" oninput="changeNumber()"/><br/>
+<br/>
+<span class="label">Number of images:</span><span id="numberDisplay"></span><input id="number"
+                                                         type="range"
+                                                         min="1"
+                                                         max="50"
+                                                         value="2"
+                                                         style="width: 50%"
+                                                         oninput="changeNumber(this)"/><br/>
+<br/>
+<span class="label">Recurrent text:</span><textarea id="recurrent" rows="5" cols="50" oninput="changeNumber()"></textarea>
+<br/>
+
+
+<div id="pages">
+
+</div>
+
+</body>
+</html>
