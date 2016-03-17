@@ -1,5 +1,4 @@
 
-
  - label: Theme
    options:
     - value: all
@@ -22,7 +21,8 @@
       label: Lots of sparkle
     - value: colour
       label: Coloured wedding dresses
-    
+
+
  - label: Category
    options:
     - value: all
@@ -57,7 +57,8 @@
       label: Bags &amp; Shoes
     - value: restyle
       label: Alteration &amp; Restyling
-    
+
+
  - label: Detail
    options:
     - value: all
@@ -172,7 +173,8 @@
       label: Peplum
     - value: water
       label: Waterfall
-    
+
+
  - label: Colour
    options:
     - value: all
@@ -207,7 +209,8 @@
       label: Turquoise
     - value: multi
       label: Multi-colour
-    
+
+
  - label: Fabric
    options:
     - value: all
@@ -236,7 +239,6 @@
       label: Dupion
     - value: bellish
       label: Embellished
-    - value: corsage
-      label: Corsage/Flowers
     - value: swar
       label: Swarovski
+
