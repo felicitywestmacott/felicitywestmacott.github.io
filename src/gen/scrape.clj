@@ -68,6 +68,36 @@
 (def clients (edn/read-string (slurp "./resources/clients.edn")))
 (spit "./resources/clients.edn" (with-out-str (pprint/pprint clients)))
 
+
+
+
+(defn common-prefix-length
+  ([strings] (common-prefix-length 0 strings))
+  ([n strings]
+   (if (and (first (first strings))
+            (apply = (map first strings)))
+     (recur (inc n) (map rest strings))
+     n)))
+
+(defn reverse-to-safety [string]
+  (if (< (.lastIndexOf string ">") (.lastIndexOf string "<"))
+    (recur (.substring string 0 (dec (count string))))
+    string))
+
+(defn extract-common-blurb [{:keys [pics] :as data}]
+  (let [prefix-length (common-prefix-length (map :blurb pics))
+        common-blurb (.substring (:blurb (first pics)) 0 prefix-length)
+        safe-common-blurb (reverse-to-safety common-blurb)
+        safe-prefix-length (count safe-common-blurb)
+        prefix-remover #(when % (.substring % safe-prefix-length))
+        cut-pics (mapv #(update % :blurb prefix-remover) pics)]
+    (merge data {:blurb common-blurb
+                 :pics cut-pics})))
+
+(def clients (into {} (for [[name data] clients] [name (extract-common-blurb data)])))
+
+
+
 (def filters
   (let [raw (slurp "./_data/filters.yml")
         data (yaml/parse-string raw)]
