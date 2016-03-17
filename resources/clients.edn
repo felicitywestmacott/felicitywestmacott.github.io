@@ -36,27 +36,27 @@
     :prevpic "ennaunder6",
     :blurb
     "Historical corset and underpinnings for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nThe bodice of Eleanor's wedding dress was also lightly boned but the main structural support came from the historical corset below."}
-   {:image "ennaunder8.jpg",
-    :nextpic nil,
-    :prevpic "ennaunder11",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\n In this picture you can really see the shape of the hoop and bum-roll supporting the bustled skirt."}
-   {:image "ennaunder9.jpg",
-    :nextpic "ennaunder11",
-    :prevpic "ennaunder10",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThe skirt pleats into the bodice in 'cartridge pleats' from the sides round to the back. These are an\n Elizabethan technique, although cartridge pleating can be found used in other fashion periods too, people all throughout history have been inspired by\nthe fashions of the past. From the sides round to the front the skirt is pleated in softer large pleats\nlike the skirt in the picture above.\n<br />\n<br />\nThe way the skirt hooks up for dancing was designed to look a bit like the 'polonaise' style skirts of the 18th century shown \nhere (centre).\n<br />\n<br />\nThe longer bodice line (the seam is just below Eleanor's waistline not on it) comes from a later \nVictorian period."}
    {:image "ennaunder10.jpg",
     :nextpic "ennaunder9",
     :prevpic "ennaunder7",
     :blurb
     "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nEleanor's dress was not an historically accurate representation of any particular period in history\nbut was designed to look 'historical' in the sense that it did not conform to the common bridal \ntrends of 2010. We took inspiration from Elizabethan, 18th century and Victorian fashions to create a\nunique dress that flattered Eleanor's figure and style perfectly.\n<br />\n<br />\nThe basic corset and wide neckline are early Victorian shapes (1830's). The way the bodice is cut with\n panels that taper from shoulder to pointed front waist are also inspired by period design."}
+   {:image "ennaunder9.jpg",
+    :nextpic "ennaunder11",
+    :prevpic "ennaunder10",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThe skirt pleats into the bodice in 'cartridge pleats' from the sides round to the back. These are an\n Elizabethan technique, although cartridge pleating can be found used in other fashion periods too, people all throughout history have been inspired by\nthe fashions of the past. From the sides round to the front the skirt is pleated in softer large pleats\nlike the skirt in the picture above.\n<br />\n<br />\nThe way the skirt hooks up for dancing was designed to look a bit like the 'polonaise' style skirts of the 18th century shown \nhere (centre).\n<br />\n<br />\nThe longer bodice line (the seam is just below Eleanor's waistline not on it) comes from a later \nVictorian period."}
    {:image "ennaunder11.jpg",
     :nextpic "ennaunder8",
     :prevpic "ennaunder9",
     :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThese real period garments show elements for inspiration for Eleanor's dress. These are left (1830's) \nneckline and pointed waist, centre (1840's) swept-back bell shaped skirt and right (1790's) polonaise\nskirt with wide pleated frill."}],
-  :blurb "<b>\n"},
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThese real period garments show elements for inspiration for Eleanor's dress. These are left (1830's) \nneckline and pointed waist, centre (1840's) swept-back bell shaped skirt and right (1790's) polonaise\nskirt with wide pleated frill."}
+   {:image "ennaunder8.jpg",
+    :nextpic nil,
+    :prevpic "ennaunder11",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\n In this picture you can really see the shape of the hoop and bum-roll supporting the bustled skirt."}],
+  :blurb "<b>\n\n"},
  "felicia"
  {:title "Bespoke dressmaking for felicia",
   :pics
@@ -470,6 +470,11 @@
     :prevpic "tyler1",
     :blurb
     "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\">      Vivien Woods    </a>  </i></p><hr />  \n\n<p>\nThe dress has and empire line bodice, lightly boned with a sweetheart neckline and shaped straps. The skirt was made of layered satin and Georgette split at centre front to reveal the contrast fabric beneath. A train flowed out at the back and could be hooked up for dancing. The back bodice was cut away and filled with delicate cotton lace, framed by a satin cowl draping from the shoulders. More lace was cut and hand appliquéd to the front bodice and all around the edge of the back opening to blend the join between fabrics. \n</p>"}
+   {:image "tyler26.jpg",
+    :nextpic "tyler3",
+    :prevpic "tyler2",
+    :blurb
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\">      Vivien Woods    </a>  </i></p>"}
    {:image "tyler3.jpg",
     :nextpic "tyler4",
     :prevpic "tyler26",
@@ -499,6 +504,11 @@
     :prevpic "tyler7",
     :blurb
     "\n\n<hr />  \n\n<p>\nThe layers of Vicki's train were sewn so that they could easily be picked up all together. A wrist loop provided and easy way to carry them when just stepping across gravel or wet ground.\n</p>"}
+   {:image "tyler11.jpg",
+    :nextpic "tyler9",
+    :prevpic "tyler8",
+    :blurb
+    "\n\n<hr />  \n\n<p>\nI was privileged enough to be invited to the ceremony of Vicki's wedding which was close by where I live. Here is Vicki pictured with me, her dressmaker. I am approx 20 weeks pregnant in this picture, it's a baby not a food belly! And yes I made my outfit too, similar styles from £1000.\n</p>"}
    {:image "tyler9.jpg",
     :nextpic "tyler10",
     :prevpic "tyler11",
@@ -509,11 +519,6 @@
     :prevpic "tyler9",
     :blurb
     "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\">      Vivien Woods    </a>  </i></p>"}
-   {:image "tyler11.jpg",
-    :nextpic "tyler9",
-    :prevpic "tyler8",
-    :blurb
-    "\n\n<hr />  \n\n<p>\nI was privileged enough to be invited to the ceremony of Vicki's wedding which was close by where I live. Here is Vicki pictured with me, her dressmaker. I am approx 20 weeks pregnant in this picture, it's a baby not a food belly! And yes I made my outfit too, similar styles from £1000.\n</p>"}
    {:image "tyler12.jpg",
     :nextpic "tyler13",
     :prevpic "tyler10",
@@ -582,11 +587,6 @@
    {:image "tyler25.jpg",
     :nextpic nil,
     :prevpic "tyler24",
-    :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\">      Vivien Woods    </a>  </i></p>"}
-   {:image "tyler26.jpg",
-    :nextpic "tyler3",
-    :prevpic "tyler2",
     :blurb
     "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\">      Vivien Woods    </a>  </i></p>"}],
   :blurb
@@ -1010,10 +1010,6 @@
     :prevpic "ennabmaid1",
     :blurb
     "<b>\nAdult bridesmaids for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketch\n</i>"}
-   {:blurb nil}
-   {:blurb nil}
-   {:blurb nil}
-   {:blurb nil}
    {:image "ennabmaid7.jpg",
     :nextpic "ennabmaid8",
     :prevpic "ennabmaid2",
@@ -1052,19 +1048,20 @@
     :nextpic "ivens2",
     :prevpic nil,
     :blurb
-    "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>\n\n<hr />\n\n<p> The simple dress was made from layered satin and tulle to compliment the bride's Jenny Packham dress.</p>"}
+    "\n\n<hr />\n\n<p> The simple dress was made from layered satin and tulle to compliment the bride's Jenny Packham dress.</p>"}
    {:image "ivens2.jpg",
     :nextpic "ivens3",
     :prevpic "ivens1",
     :blurb
-    "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>\n\n<hr />\n\n<p> The tulle cape was trimmed all round with ivory satin bias binding.1,/p>"}
-   {:blurb nil}
-   {:image "ivens4.jpg",
-    :nextpic nil,
-    :prevpic "ivens3",
+    "\n\n<hr />\n\n<p> The tulle cape was trimmed all round with ivory satin bias binding.1,/p>"}
+   {:image "ivens3.jpg",
+    :nextpic "ivens4",
+    :prevpic "ivens2",
     :blurb
-    "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>"}],
-  :blurb ""},
+    "\n\n<hr />\n\n<p>Detail showing the tiny silver glass beads used to decorate the bodice</p>"}
+   {:image "ivens4.jpg", :nextpic nil, :prevpic "ivens3", :blurb ""}],
+  :blurb
+  "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>"},
  "cookbmaid"
  {:title "Bridesmaid dresses and men's accessories for Marie Cook",
   :pics
@@ -1130,6 +1127,10 @@
     :nextpic "alison11",
     :prevpic "alison3",
     :blurb ""}
+   {:image "alison11.jpg",
+    :nextpic "alison5",
+    :prevpic "alison4",
+    :blurb "\n<br />\n<i>\nOriginal design sketch\n<i/>"}
    {:image "alison5.jpg",
     :nextpic "alison6",
     :prevpic "alison11",
@@ -1153,11 +1154,10 @@
     :nextpic "alison10",
     :prevpic "alison8",
     :blurb ""}
-   {:image "alison10.jpg", :nextpic nil, :prevpic "alison9", :blurb ""}
-   {:image "alison11.jpg",
-    :nextpic "alison5",
-    :prevpic "alison4",
-    :blurb "\n<br />\n<i>\nOriginal design sketch\n<i/>"}],
+   {:image "alison10.jpg",
+    :nextpic nil,
+    :prevpic "alison9",
+    :blurb ""}],
   :blurb "<b>\nWedding dress for Alison Cowell\n</b>"},
  "leah"
  {:title "Wedding dress for Leah Gauthier",
@@ -1296,6 +1296,11 @@
     :prevpic "irene4",
     :blurb
     "other of the Bride Outfit for Irene Lester\n</b>\n <br />\n<i>Coat detail</i>\n<br />\n<br />\nIrene asked me to source her a brooch to complete the look of her dress. This one was sourced from\n<a href=\"http://www.etsy.com/\"> etsy.com</a> at £40 and is faux pearl and lapis lazuli."}
+   {:image "irene8.jpg",
+    :nextpic "irene6",
+    :prevpic "irene5",
+    :blurb
+    "other of the Bride Outfit for Irene Lester\n</b>\n <br />\n<i>Shoulder Detail</i>\n<br />\n<br />\nThe hand beading at the shoulder was created using Swarovksi crystals, seed-beads and torn strips\nof the shot-chiffon. Embedding the beads and chiffon into the ruched shoulder panels created an\nopulent and encrusted finish.\n<br />\n<br />\nGuide price for similar beading approx £160 per shoulder (front and back)"}
    {:image "irene6.jpg",
     :nextpic "irene7",
     :prevpic "irene8",
@@ -1305,12 +1310,7 @@
     :nextpic nil,
     :prevpic "irene6",
     :blurb
-    "en's Accessories for Irene Lester\n</b>\n <br />\nIrene also had accessories made in matching fabrics for her husband and various members of the bridal\nparty. For more pictures and prices <a href=\"portfolio/irenemen1.html\"> click here</a>"}
-   {:image "irene8.jpg",
-    :nextpic "irene6",
-    :prevpic "irene5",
-    :blurb
-    "other of the Bride Outfit for Irene Lester\n</b>\n <br />\n<i>Shoulder Detail</i>\n<br />\n<br />\nThe hand beading at the shoulder was created using Swarovksi crystals, seed-beads and torn strips\nof the shot-chiffon. Embedding the beads and chiffon into the ruched shoulder panels created an\nopulent and encrusted finish.\n<br />\n<br />\nGuide price for similar beading approx £160 per shoulder (front and back)"}],
+    "en's Accessories for Irene Lester\n</b>\n <br />\nIrene also had accessories made in matching fabrics for her husband and various members of the bridal\nparty. For more pictures and prices <a href=\"portfolio/irenemen1.html\"> click here</a>"}],
   :blurb "<b>\nM"},
  "simpson"
  {:title "Wedding dress for Amy Simpson",
@@ -1325,6 +1325,11 @@
     :prevpic "simpson1",
     :blurb
     "\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://mementopictures.net/\"> Nathan Horner</a>\n</i>\n<br />\n <br />\nAmy's dress length was very unusual but I think you'll agree absolutely stunning!"}
+   {:image "simpson33.jpg",
+    :nextpic "simpson3",
+    :prevpic "simpson2",
+    :blurb
+    "\n<br />\n<br />\nAmy's parents wrote: <i>We hope you and Peter will enjoy a meal out as our thank you for the love you put into every stitch on Amy's beautiful wedding dress. It is such a gorgeous dress and everyone loved it – we have had dozens of compliments about it.\n<br />\nWe are so grateful that you were able to make Amy's dress and for your incredible talent. We wish you every success for the future of your business and happiness in your life together.\n<br />\nWith much love, Beverley and George Simpson xx\n</i>"}
    {:image "simpson3.jpg",
     :nextpic "simpson4",
     :prevpic "simpson33",
@@ -1352,6 +1357,10 @@
     :nextpic "simpson34",
     :prevpic "simpson7",
     :blurb "\n<br />\n<i>\nOriginal design sketch\n</i>"}
+   {:image "simpson34.jpg",
+    :nextpic "simpson9",
+    :prevpic "simpson8",
+    :blurb "\n<br />\n<i>\nFinished dress on the stand</i>"}
    {:image "simpson9.jpg",
     :nextpic "simpson10",
     :prevpic "simpson34",
@@ -1464,16 +1473,7 @@
     :nextpic nil,
     :prevpic "simpson31",
     :blurb
-    "\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://mementopictures.net/\"> Nathan Horner</a>\n</i>\n<br />\n<br />\nMore lovely details of Amy's wedding, mini camper-vans, knitted cakes, paper flowers and converse for the boys"}
-   {:image "simpson33.jpg",
-    :nextpic "simpson3",
-    :prevpic "simpson2",
-    :blurb
-    "\n<br />\n<br />\nAmy's parents wrote: <i>We hope you and Peter will enjoy a meal out as our thank you for the love you put into every stitch on Amy's beautiful wedding dress. It is such a gorgeous dress and everyone loved it – we have had dozens of compliments about it.\n<br />\nWe are so grateful that you were able to make Amy's dress and for your incredible talent. We wish you every success for the future of your business and happiness in your life together.\n<br />\nWith much love, Beverley and George Simpson xx\n</i>"}
-   {:image "simpson34.jpg",
-    :nextpic "simpson9",
-    :prevpic "simpson8",
-    :blurb "\n<br />\n<i>\nFinished dress on the stand</i>"}],
+    "\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://mementopictures.net/\"> Nathan Horner</a>\n</i>\n<br />\n<br />\nMore lovely details of Amy's wedding, mini camper-vans, knitted cakes, paper flowers and converse for the boys"}],
   :blurb "<b>\nWedding dress for Amy Simpson\n</b>"},
  "katiemen"
  {:title "Cravat and hankies for Katie Darvall",
@@ -1494,13 +1494,18 @@
  {:title "Wedding dress for Faye",
   :pics
   [{:image "martinez1.jpg",
-    :nextpic "martinez1a",
+    :nextpic "martinez100",
     :prevpic nil,
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>\n<br />\n <br />\nFaye commissioned an unusual dress in black and red duchess satin. The inspiration for the design came from a dress worn by a \nlady in one of her favourite music videos! Faye's dress was created as a two piece, bodice and skirt but with several\n different ways the skirt and train could be worn to give different looks for the ceremony and into the evening. \n <br />\n  <br />\nFaye's dress has a fitted and heavily boned bodice with a sweetheart neckline edged with pleated black tulle and \nbeaded lace to soften the line. It laced shut at the back over a contrast colour modesty panel.\nThe skirt was fitted to her upper hip and then flared in an a-line over netting to the floor. A feature water-fall 'pick-up'\nwas pinned up to her bodice with a beautiful brooch, connecting the two halves of the design, and revealing the contrast red \nunderskirt. The red hip sash was finished with long sash ends at the back that flowed down Faye's train. See pictures further \ndown for how the skirt could be changed for day/evening looks. Further pictures also show pricing and details of fascinator \nand tie\n <br />\n <br />\n<b>\nSimilar styles from £1200 </b>\n\n\n</i>"}
+   {:image "martinez100.jpg",
+    :nextpic "martinez2",
+    :prevpic "martinez1",
+    :blurb
+    "<b>\nWedding dress, fascinator and tie for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>\n<br />\n<br />\nFaye also commissioned a tie for her groom in the same red satin as her dress.\n<a href=\"portfolio/martinezmen1.html\"> Click here</a> to see more pictures of the tie"}
    {:image "martinez2.jpg",
     :nextpic "martinez3",
-    :prevpic "martinez1a",
+    :prevpic "martinez100",
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>\n<br />\n<br />\nFaye also commissioned a tie for her groom in the same red satin as her dress.\n<a href=\"portfolio/martinezmen1.html\"> Click here</a> to see more pictures of the tie"}
    {:image "martinez3.jpg",
@@ -1538,7 +1543,6 @@
     :prevpic "martinez8",
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>"}
-   {:blurb nil}
    {:image "martinez11.jpg",
     :nextpic "martinez12",
     :prevpic "martinez9",
@@ -1599,14 +1603,11 @@
     :prevpic "martinez21",
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>\n\n<br />\n<br />\nDressing the bride!"}
-   {:blurb nil}
-   {:blurb nil}
    {:image "martinez25.jpg",
     :nextpic "martinez27",
     :prevpic "martinez22",
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>"}
-   {:blurb nil}
    {:image "martinez27.jpg",
     :nextpic "martinez28",
     :prevpic "martinez25",
@@ -1667,6 +1668,11 @@
     :prevpic "jenna5",
     :blurb
     "<i>\nOfficial Wedding pictures by <a href=\"http://www.aniaroth.com/\"> Ania Roth</a>\n</i>"}
+   {:image "jenna15.jpg",
+    :nextpic "jenna7",
+    :prevpic "jenna6",
+    :blurb
+    "<br />\nJenna wrote:\n<i>\nDear Felicity, Just a little note to say thank you for making my beautiful wedding dress. It was such a relief to have found you and I took great comfort from you lack of desire to cover me in sparkles! ..it was perfect, you made me feel fantastic.\n<br />\nWith great thanks\nJenna\n</i>"}
    {:image "jenna7.jpg",
     :nextpic "jenna8",
     :prevpic "jenna15",
@@ -1705,12 +1711,7 @@
     :nextpic nil,
     :prevpic "jenna13",
     :blurb
-    "<i>\nOfficial Wedding pictures by <a href=\"http://www.aniaroth.com/\"> Ania Roth</a>\n</i>\n<br />\n <br />\nA hidden 'something blue'."}
-   {:image "jenna15.jpg",
-    :nextpic "jenna7",
-    :prevpic "jenna6",
-    :blurb
-    "<br />\nJenna wrote:\n<i>\nDear Felicity, Just a little note to say thank you for making my beautiful wedding dress. It was such a relief to have found you and I took great comfort from you lack of desire to cover me in sparkles! ..it was perfect, you made me feel fantastic.\n<br />\nWith great thanks\nJenna\n</i>"}],
+    "<i>\nOfficial Wedding pictures by <a href=\"http://www.aniaroth.com/\"> Ania Roth</a>\n</i>\n<br />\n <br />\nA hidden 'something blue'."}],
   :blurb "<b>\nWedding dress for Jenna Barker\n</b>\n<br />\n<"},
  "waterhouse"
  {:title "Silk and Lace Wedding dress for Sarah-Louise",
@@ -1761,6 +1762,11 @@
     :prevpic "ailsa1",
     :blurb
     "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p>"}
+   {:image "ailsa23.jpg",
+    :nextpic "ailsa3",
+    :prevpic "ailsa2",
+    :blurb
+    "<hr />  \n\n<p>\nAilsa wrote:<i>I was absolutely delighted with my beautiful dress!  I really appreciated the time you took to \nexplain the different options and the effort you went to in order to make sure it looked perfect, including an \nextremely useful set of instructions for my bridesmaid on how to make the dress look its best on the day.  \nYour patience, enthusiasm and skill made the whole process a pleasure! \n</i>\n</p>\n<p>\nand later: <i> Dear Felicity,\nThank you once again for producing such a beautiful dress, and the time you took to make it look exactly right (including the veil!). \n<br /> Best wishes, Ailsa\n</i>\n</p>\n<p>\nAilsa's mum wrote: <i>\nThank you so much for  all the work you put into getting the dress just right for Ailsa and the helpful \nadvice with accessories etc. She looked lovely on the day and felt very comfortable and happy with the dress. \nThe dress fittings became a firm part of the wedding preparations and thank you for your welcome when we visited.\n Ian was especially pleased that he could join us for the final fitting.\nWith best wishes, Christine\n</i>\n</p>"}
    {:image "ailsa3.jpg",
     :nextpic "ailsa4",
     :prevpic "ailsa23",
@@ -1780,6 +1786,31 @@
     :nextpic "ailsa18",
     :prevpic "ailsa5",
     :blurb "<hr />  \n\n<p>\nOriginal design sketches\n\n</p>"}
+   {:image "ailsa18.jpg",
+    :nextpic "ailsa19",
+    :prevpic "ailsa6",
+    :blurb
+    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p>"}
+   {:image "ailsa19.jpg",
+    :nextpic "ailsa20",
+    :prevpic "ailsa18",
+    :blurb
+    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa's groom's tie was made to match in the same blue silk as her dress\n <br/>\n <b> \n Bespoke ties from £25 \n </b>\n  </p>"}
+   {:image "ailsa20.jpg",
+    :nextpic "ailsa21",
+    :prevpic "ailsa19",
+    :blurb
+    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa using her wrist hook-up to hold her train off the floor while walking\n </p>"}
+   {:image "ailsa21.jpg",
+    :nextpic "ailsa22",
+    :prevpic "ailsa20",
+    :blurb
+    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa had matching silk ribbons made to tie up her lovely shoes. I loved her shoes so much I got myself a pair too!\n</p>\n<p>\n<b>\nShoe Ribbons £25\n </b>\n  </p>"}
+   {:image "ailsa22.jpg",
+    :nextpic "ailsa7",
+    :prevpic "ailsa21",
+    :blurb
+    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p>"}
    {:image "ailsa7.jpg",
     :nextpic "ailsa8",
     :prevpic "ailsa22",
@@ -1790,6 +1821,11 @@
     :prevpic "ailsa7",
     :blurb
     "<hr />  \n\n<p>\n<i>\nPictures from 1st fitting\n\n</i>\n</p>\n<p>\nAt Ailsa's first 'official' fitting (not toile) only the inner bodice had been made. The white fabric is a polyester\nduchess satin, which is the boned understructure above which all the ruching was later placed.\n  </p>"}
+   {:image "ailsa11.jpg",
+    :nextpic "ailsa9",
+    :prevpic "ailsa8",
+    :blurb
+    "<hr />  \n\n<p>\n<i>\nPictures from intermediate fitting\n\n</i>\n</p>\n<p>\nAilsa had several intermediate fittings between the toile and the final finished dress where various aspects of fit and\nline were checked and tweaked.\n</p>"}
    {:image "ailsa9.jpg",
     :nextpic "ailsa10",
     :prevpic "ailsa11",
@@ -1800,11 +1836,6 @@
     :prevpic "ailsa9",
     :blurb
     "<hr />  \n\n<p>\n<i>\nRuching in progress on the stand\n\n</i>\n  </p>"}
-   {:image "ailsa11.jpg",
-    :nextpic "ailsa9",
-    :prevpic "ailsa8",
-    :blurb
-    "<hr />  \n\n<p>\n<i>\nPictures from intermediate fitting\n\n</i>\n</p>\n<p>\nAilsa had several intermediate fittings between the toile and the final finished dress where various aspects of fit and\nline were checked and tweaked.\n</p>"}
    {:image "ailsa12.jpg",
     :nextpic "ailsa13",
     :prevpic "ailsa10",
@@ -1834,37 +1865,7 @@
     :nextpic nil,
     :prevpic "ailsa16",
     :blurb
-    "<hr />  \n\n\n<p>\n<i>\nAll finished, steamed and hanging up ready to be collected\n\n</i>\n  \n</p>"}
-   {:image "ailsa18.jpg",
-    :nextpic "ailsa19",
-    :prevpic "ailsa6",
-    :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p>"}
-   {:image "ailsa19.jpg",
-    :nextpic "ailsa20",
-    :prevpic "ailsa18",
-    :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa's groom's tie was made to match in the same blue silk as her dress\n <br/>\n <b> \n Bespoke ties from £25 \n </b>\n  </p>"}
-   {:image "ailsa20.jpg",
-    :nextpic "ailsa21",
-    :prevpic "ailsa19",
-    :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa using her wrist hook-up to hold her train off the floor while walking\n </p>"}
-   {:image "ailsa21.jpg",
-    :nextpic "ailsa22",
-    :prevpic "ailsa20",
-    :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p><hr />  \n\n\n<p>\nAilsa had matching silk ribbons made to tie up her lovely shoes. I loved her shoes so much I got myself a pair too!\n</p>\n<p>\n<b>\nShoe Ribbons £25\n </b>\n  </p>"}
-   {:image "ailsa22.jpg",
-    :nextpic "ailsa7",
-    :prevpic "ailsa21",
-    :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.oxford-photography.co.uk/#/oxford-photography-wedding-gallery/\" target=\"_blank\">      Aimee Kirkham    </a>  </i></p>"}
-   {:image "ailsa23.jpg",
-    :nextpic "ailsa3",
-    :prevpic "ailsa2",
-    :blurb
-    "<hr />  \n\n<p>\nAilsa wrote:<i>I was absolutely delighted with my beautiful dress!  I really appreciated the time you took to \nexplain the different options and the effort you went to in order to make sure it looked perfect, including an \nextremely useful set of instructions for my bridesmaid on how to make the dress look its best on the day.  \nYour patience, enthusiasm and skill made the whole process a pleasure! \n</i>\n</p>\n<p>\nand later: <i> Dear Felicity,\nThank you once again for producing such a beautiful dress, and the time you took to make it look exactly right (including the veil!). \n<br /> Best wishes, Ailsa\n</i>\n</p>\n<p>\nAilsa's mum wrote: <i>\nThank you so much for  all the work you put into getting the dress just right for Ailsa and the helpful \nadvice with accessories etc. She looked lovely on the day and felt very comfortable and happy with the dress. \nThe dress fittings became a firm part of the wedding preparations and thank you for your welcome when we visited.\n Ian was especially pleased that he could join us for the final fitting.\nWith best wishes, Christine\n</i>\n</p>"}],
+    "<hr />  \n\n\n<p>\n<i>\nAll finished, steamed and hanging up ready to be collected\n\n</i>\n  \n</p>"}],
   :blurb
   "<b>\nWedding dress and veil for Ailsa \n</b>\n\n<p>\n  <b>\n    Similar styles from £1900\n  </b>\n  <br />\n  <i>\n    With materials and detailing as shown £2400\n  </i>\n</p>\n\n<p>\n  Ailsa commissioned a dress in blue silk satin designed to flatter her petite figure. \n</p>\n\n<"},
  "Huggett"
@@ -2076,6 +2077,11 @@
     :nextpic "mostert21",
     :prevpic "mostert7",
     :blurb ""}
+   {:image "mostert21.jpg",
+    :nextpic "mostert9",
+    :prevpic "mostert8",
+    :blurb
+    "<hr />  \n\n\n<i>Karen wrote: </i>Thank you for the amazing job you did in creating the perfect dress for me. It ticked all the boxes and had everyone commenting on how lovely I looked and what a gorgeous dress I had. We had the most fantastic day. \nThank you! Love Karen"}
    {:image "mostert9.jpg",
     :nextpic "mostert10",
     :prevpic "mostert21",
@@ -2127,12 +2133,7 @@
    {:image "mostert20.jpg",
     :nextpic nil,
     :prevpic "mostert19",
-    :blurb ""}
-   {:image "mostert21.jpg",
-    :nextpic "mostert9",
-    :prevpic "mostert8",
-    :blurb
-    "<hr />  \n\n\n<i>Karen wrote: </i>Thank you for the amazing job you did in creating the perfect dress for me. It ticked all the boxes and had everyone commenting on how lovely I looked and what a gorgeous dress I had. We had the most fantastic day. \nThank you! Love Karen"}],
+    :blurb ""}],
   :blurb
   "<b>\nWedding dress for Karen Mostert\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\n    With materials and detailing as shown £1700\n  </i>\n</p>\n\n<p>\nKaren commissioned a beautiful dress in layers of ivory lace and satin.  \n</p>"},
  "mcsweeny"
@@ -2590,12 +2591,12 @@
     :nextpic "keely2",
     :prevpic nil,
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's ethereal dress has a fitted and bond bodice with sweetheart neckline and tiny puffed tulle sleeves. The main dress is made from pale blue and gold shot taffeta, over layers and layers of tiff netting and a hoop to create the skirt shape. Layers of pale blue and ivory silk tulle are then draped and ruched over the bodice and skirt softening and blending the colours for this fairytale dress. A layer of sequin covered tulle is hidden beneath the top layers of the bodice and top part of the skirt so the sparkles subtly caught the light as Keely moved without being over powering.\n</p>\n<p> The back of the dress fastened with real buttons and loops, hiding a lace up under bodice to really cinch in Keely's waist. The skirt extended in a long train with pretty waterfall bustle detailing. More sequin patterned tulle was used at the train tip, just peeking out from under the silk tulle layers.\n</p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's ethereal dress has a fitted and bond bodice with sweetheart neckline and tiny puffed tulle sleeves. The main dress is made from pale blue and gold shot taffeta, over layers and layers of tiff netting and a hoop to create the skirt shape. Layers of pale blue and ivory silk tulle are then draped and ruched over the bodice and skirt softening and blending the colours for this fairytale dress. A layer of sequin covered tulle is hidden beneath the top layers of the bodice and top part of the skirt so the sparkles subtly caught the light as Keely moved without being over powering.\n</p>\n<p> The back of the dress fastened with real buttons and loops, hiding a lace up under bodice to really cinch in Keely's waist. The skirt extended in a long train with pretty waterfall bustle detailing. More sequin patterned tulle was used at the train tip, just peeking out from under the silk tulle layers.\n</p>"}
    {:image "keely2.jpg",
     :nextpic "keely3",
     :prevpic "keely1",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely3.jpg",
     :nextpic "keely4",
     :prevpic "keely2",
@@ -2604,7 +2605,7 @@
     :nextpic "keely5",
     :prevpic "keely3",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely5.jpg",
     :nextpic "keely6",
     :prevpic "keely4",
@@ -2614,47 +2615,47 @@
     :nextpic "keely7",
     :prevpic "keely5",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely7.jpg",
     :nextpic "keely8",
     :prevpic "keely6",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely8.jpg",
     :nextpic "keely9",
     :prevpic "keely7",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's amazing photographer took some very atmospheric photographs that perfectly captured the ethereal and fairytale feel of her dress.\n</p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's amazing photographer took some very atmospheric photographs that perfectly captured the ethereal and fairytale feel of her dress.\n</p>"}
    {:image "keely9.jpg",
     :nextpic "keely10",
     :prevpic "keely8",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nTo book Simon Hooley for a post wedding 'treasure the dress' photoshoot at his studio or on location (from £100 for a 2 hour shoot) just get in touch via his <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">website</a>.\n</p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nTo book Simon Hooley for a post wedding 'treasure the dress' photoshoot at his studio or on location (from £100 for a 2 hour shoot) just get in touch via his website. http://www.simonhooleyphotography.co.uk/\n</p>"}
    {:image "keely10.jpg",
     :nextpic "keely11",
     :prevpic "keely9",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely11.jpg",
     :nextpic "keely12",
     :prevpic "keely10",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely12.jpg",
     :nextpic "keely13",
     :prevpic "keely11",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's amazing photographer took some very atmospheric photographs that perfectly captured the ethereal and fairytale feel of her dress.\n</p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nKeely's amazing photographer took some very atmospheric photographs that perfectly captured the ethereal and fairytale feel of her dress.\n</p>"}
    {:image "keely13.jpg",
     :nextpic "keely14",
     :prevpic "keely12",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nDressing the bride; lacing the inner bodice and then all those teeny-tiny buttons and loops!\n</p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p><hr />  \n\n<p>\nDressing the bride; lacing the inner bodice and then all those teeny-tiny buttons and loops!\n</p>"}
    {:image "keely14.jpg",
     :nextpic "keely15",
     :prevpic "keely13",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}
    {:image "keely15.jpg",
     :nextpic "keely16",
     :prevpic "keely14",
@@ -2702,7 +2703,7 @@
     :nextpic nil,
     :prevpic "keely23",
     :blurb
-    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}],
+    "\n\n<p>  <i>    Official photographs by     <a href=\"http://www.mariannechua.com/\" target=\"_blank\">      Simon Hooley    </a>  </i></p>"}],
   :blurb
   "<b>\nWedding dress for Keely Williams \n</b>\n\n<p>\n  <b>\n    Similar styles from £2600\n  </b>\n  <br />\n  <i>\n    With materials and detailing as shown £4800\n\t<br/> Including £1400 on silk tulle alone.\n  </i>\n</p>\n\n<p>\n  Keely commissioned a dress in layered blue and ivory tulle over shot taffeta with ruched detailing and subtle sequin highlights. \n</p>"},
  "crawford"
@@ -2762,6 +2763,7 @@
     :prevpic "mei1",
     :blurb
     "\n\n<i> Official Wedding pictures by <a href=\"http://tohave-toholdphotography.co.uk/about\"> Simon Mackenzie</a> </i>\n<br />\n <br />\n\nMichele wrote: <i>\nHi Felicity!\n<br />\nThanks again SO much for all your help and amazing skill and work. The dress was so comfortable and beautiful, it really was the dream dress!\n<br />\nThanks so much\n<br />\n<br />\nBest\n<br />\nMichele x\n</i>"}
+   {:image "mei8.jpg", :nextpic "mei3", :prevpic "mei2", :blurb ""}
    {:image "mei3.jpg",
     :nextpic "mei4",
     :prevpic "mei8",
@@ -2778,7 +2780,6 @@
     :prevpic "mei6",
     :blurb
     "\n <br />\nToile fitting\n <br />\n  <br />\nA rough cut of the chiffon parts was made up and a pinned on while Michele wore the dress to asses fit and style. Look closely\nand you'll see the pins marking where her final neckline will go. The original dress had come with a very wide and bulky \nduchess satin sash which didn't suit Michele at all so we also experimented with softer ribbons at this fitting to find a sash\nstyle that would suit the dress and Michele's figure."}
-   {:image "mei8.jpg", :nextpic "mei3", :prevpic "mei2", :blurb ""}
    {:image "mei9.jpg",
     :nextpic "mei10",
     :prevpic "mei7",
@@ -3259,87 +3260,93 @@
     :nextpic "rachel2",
     :prevpic nil,
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n<p>\nThe two teen bridesmaids had v-neck ivory silk dupion bodices with wrap-over ruched detailing and a ruched sash. The younger\ngirl had a simple round necked bodice with sash. All the girls had romantic ballet length skirts in layers of gathered ivory \ntulle over yellow satin. \n </p>\n <p>\n See further pictures for details of the adults' dresses.\n</p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n<p>\nThe two teen bridesmaids had v-neck ivory silk dupion bodices with wrap-over ruched detailing and a ruched sash. The younger\ngirl had a simple round necked bodice with sash. All the girls had romantic ballet length skirts in layers of gathered ivory \ntulle over yellow satin. \n </p>\n <p>\n See further pictures for details of the adults' dresses.\n</p>"}
    {:image "rachel2.jpg",
     :nextpic "rachel3",
     :prevpic "rachel1",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n<p>\nRachel found the simple yellow linen shift dresses an brought them to me for style changes. We added a lace layer, keeping\nthe feature cut-out neckline and re-binding all the edges in the original yellow trim. The hems were finished with a pretty\nscalloped edge for a softer look. I also made the wide wrap around sashes in the same ivory silk as the younger bridesmaids.\n </p>\n <p>\nI don't take sizing alterations on anything other than wedding dresses but style changes to bought dresses are welcome as\npart of a larger dressmaking commission.\n  </p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n<p>\nRachel found the simple yellow linen shift dresses an brought them to me for style changes. We added a lace layer, keeping\nthe feature cut-out neckline and re-binding all the edges in the original yellow trim. The hems were finished with a pretty\nscalloped edge for a softer look. I also made the wide wrap around sashes in the same ivory silk as the younger bridesmaids.\n </p>\n <p>\nI don't take sizing alterations on anything other than wedding dresses but style changes to bought dresses are welcome as\npart of a larger dressmaking commission.\n  </p>"}
    {:image "rachel3.jpg",
     :nextpic "rachel4",
     :prevpic "rachel2",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
    {:image "rachel4.jpg",
     :nextpic "rachel5",
     :prevpic "rachel3",
-    :blurb "<hr />  \n\n\nOriginal design sketches"}
+    :blurb
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\n\nOriginal design sketches"}
    {:image "rachel5.jpg",
     :nextpic "rachel6",
     :prevpic "rachel4",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\n12 year old Cosima in her dress shaped to suit her age and figure"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\n12 year old Cosima in her dress shaped to suit her age and figure"}
    {:image "rachel6.jpg",
     :nextpic "rachel7",
     :prevpic "rachel5",
-    :blurb "<hr />  \n\nCosima at her final fitting, and on the stand"}
+    :blurb
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\nCosima at her final fitting, and on the stand"}
    {:image "rachel7.jpg",
     :nextpic "rachel8",
     :prevpic "rachel6",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\nThe younger girls show that pretty dresses are no restriction to dancing the night away"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\nThe younger girls show that pretty dresses are no restriction to dancing the night away"}
    {:image "rachel8.jpg",
     :nextpic "rachel9",
     :prevpic "rachel7",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\nThe youngest bridesmaid, Skye, aged 11 with simple round-necked bodice."}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\n\nThe youngest bridesmaid, Skye, aged 11 with simple round-necked bodice."}
    {:image "rachel9.jpg",
-    :nextpic "rachel9a",
+    :nextpic "rachel90",
     :prevpic "rachel8",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+   {:image "rachel90.jpg",
+    :nextpic "rachel10",
+    :prevpic "rachel9",
+    :blurb
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p><hr />  \n\nBridesmaids doing their duty"}
    {:image "rachel10.jpg",
     :nextpic "rachel11",
-    :prevpic "rachel9a",
+    :prevpic "rachel90",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
    {:image "rachel11.jpg",
     :nextpic "rachel12",
     :prevpic "rachel10",
     :blurb
-    "<hr />  \n\nRachel narrowed down her lace choice to just two from my samples book of hundreds. In the end she chose the lace on the right\nas it was a closer match to the lace for her own bolero."}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\nRachel narrowed down her lace choice to just two from my samples book of hundreds. In the end she chose the lace on the right\nas it was a closer match to the lace for her own bolero."}
    {:image "rachel12.jpg",
     :nextpic "rachel13",
     :prevpic "rachel11",
     :blurb
-    "<hr />  \n\n<b>\nBridesmaids for Rachel Jones \n</b>\n <br /><i>\nThe adults' dresses finished and on the stand\n </i>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\n<b>\nBridesmaids for Rachel Jones \n</b>\n <br /><i>\nThe adults' dresses finished and on the stand\n </i>"}
    {:image "rachel13.jpg",
     :nextpic "rachel14",
     :prevpic "rachel12",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
    {:image "rachel14.jpg",
     :nextpic "rachel15",
     :prevpic "rachel13",
     :blurb
-    "<hr />  \n\nKate's dress, finished and on the stand with neckline and bodice shaping to suit her 17 year old figure"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\nKate's dress, finished and on the stand with neckline and bodice shaping to suit her 17 year old figure"}
    {:image "rachel15.jpg",
     :nextpic "rachel16",
     :prevpic "rachel14",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}
    {:image "rachel16.jpg",
     :nextpic "rachel17",
     :prevpic "rachel15",
     :blurb
-    "<hr />  \n\n\nRachel's mum commissioned a traditional horseshoe as a surprise. She asked for it to be made to match the bridesmaids \ntheme in yellow satin and lace with a sprinkle of pearl."}
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<hr />  \n\n\nRachel's mum commissioned a traditional horseshoe as a surprise. She asked for it to be made to match the bridesmaids \ntheme in yellow satin and lace with a sprinkle of pearl."}
    {:image "rachel17.jpg",
     :nextpic nil,
     :prevpic "rachel16",
     :blurb
-    "<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}],
-  :blurb
-  "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<"},
+    "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n  <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\">      Robert Lawler    </a>  </i></p>"}],
+  :blurb ""},
  "travis"
  {:title "Wedding dress for Isabelle Travis",
   :pics
@@ -3890,32 +3897,6 @@
     :prevpic nil,
     :blurb
     "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\n\n\n\n The dress has a high boat-neckline and is loose fitting but pulled in at the waist by a sash. Three quarter\n length sleeves hang in waterfalls and are integral to the main dress, not sewn on. The neckline, sleeve edges \n and hem are all bound in wide satin bands to create interest. Lou had a very much loved old dress which she \n brought to the first consultation and we used it as the basis for her design."}
-   {:image "endersby2.jpg",
-    :nextpic "endersby7",
-    :prevpic "endersby9",
-    :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nLou Wrote:\n<i>\nHi Felicity,\nMy dress was fab, just what I wanted. We had a fantastic day - thank you. I have attached a couple of photos - we didn't have a photographer so they are a couple of snaps taken by some of our lovely friends.\nThank you for all your help. <br />\nThanks\nLou\n</i>"}
-   {:image "endersby3.jpg",
-    :nextpic "endersby5",
-    :prevpic "endersby7",
-    :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\n\nDetail of the sash passing into a bound slit."}
-   {:blurb nil}
-   {:image "endersby5.jpg",
-    :nextpic "endersby6",
-    :prevpic "endersby3",
-    :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nDetail of the decorative top stitching on one sleeve binding"}
-   {:image "endersby6.jpg",
-    :nextpic nil,
-    :prevpic "endersby5",
-    :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\n\nPictures of the finished dress on the stand"}
-   {:image "endersby7.jpg",
-    :nextpic "endersby3",
-    :prevpic "endersby2",
-    :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nDesign sketch"}
    {:image "endersby8.jpg",
     :nextpic "endersby9",
     :prevpic "endersby1",
@@ -3925,7 +3906,32 @@
     :nextpic "endersby2",
     :prevpic "endersby8",
     :blurb
-    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>"}],
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>"}
+   {:image "endersby2.jpg",
+    :nextpic "endersby7",
+    :prevpic "endersby9",
+    :blurb
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nLou Wrote:\n<i>\nHi Felicity,\nMy dress was fab, just what I wanted. We had a fantastic day - thank you. I have attached a couple of photos - we didn't have a photographer so they are a couple of snaps taken by some of our lovely friends.\nThank you for all your help. <br />\nThanks\nLou\n</i>"}
+   {:image "endersby7.jpg",
+    :nextpic "endersby3",
+    :prevpic "endersby2",
+    :blurb
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nDesign sketch"}
+   {:image "endersby3.jpg",
+    :nextpic "endersby5",
+    :prevpic "endersby7",
+    :blurb
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\n\nDetail of the sash passing into a bound slit."}
+   {:image "endersby5.jpg",
+    :nextpic "endersby6",
+    :prevpic "endersby3",
+    :blurb
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\nDetail of the decorative top stitching on one sleeve binding"}
+   {:image "endersby6.jpg",
+    :nextpic nil,
+    :prevpic "endersby5",
+    :blurb
+    "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>\n<hr />  \n\n\nPictures of the finished dress on the stand"}],
   :blurb ""},
  "casey"
  {:title "Wedding Dress for Katherine",
@@ -4043,7 +4049,6 @@
     :prevpic nil,
     :blurb
     "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.linaphotography.com/index.htm\" target=\"_blank\">      Lina Nyberg    </a>  </i></p><hr />  \n\n<p>\nLaura wanted her dress to be pretty and simple with Celtic/medieval elements. The dress itself was a modern, \nstrapless design with layers of silk chiffon and subtle silver lace with a simple underbust ribbon woven in a Celtic\nknot design. More medieval influence came through on the bolero with long lace-edged sleeves and a swarovski crystal\nfastening across Laura's collarbone.\n\nThe dress was made in five layers of silk: an inner lining in heather purple satin, revealed only when she lifted \nher skirts, then two layers of white satin to help the purple not show through. On top were two layers of white silk \nchiffon, one smooth and one gathered into the high waistline and split at centre front to reveal the layers beneath.\nThe bodice was covered with gathered silver lace and finished with Swarovski crystals. The chiffon hem edges were all\nedged with silver thread, also used around the edges of the bolero.\n</p>\n<p>\n The dress fastened with a concealed zip at centre back but underneath the short-waisted bodice was a hidden lace-up\n corset. This extended all the way to Laura's natural waist and could be laced as tight as was comfortable to provide support and security with her maternal shape\n under the strapless dress.\n</p>"}
-   {:blurb nil}
    {:image "laura3.jpg",
     :nextpic "laura4",
     :prevpic "laura1",
@@ -4084,45 +4089,6 @@
     :prevpic "laura9",
     :blurb
     "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.linaphotography.com/index.htm\" target=\"_blank\">      Lina Nyberg    </a>  </i></p>"}
-   {:image "laura11.jpg",
-    :nextpic "laura12",
-    :prevpic "laura28",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nLaura's dress came with a wrist loop for carrying her train, it could also be bustled up underneath for hands-free \ndancing. All the layers of her dress created a very pretty waterfall effect when the loop was picked up."}
-   {:image "laura12.jpg",
-    :nextpic "laura15",
-    :prevpic "laura11",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nDetail of the 'something blue' hidden by the wrist loop in the lining. I also added a pretty heather-purple rose\nto tone with Laura's inner lining fabric."}
-   {:blurb nil}
-   {:blurb nil}
-   {:image "laura15.jpg",
-    :nextpic "laura16",
-    :prevpic "laura12",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n<p>\nPartly made dress, on the stand\n</i>\n</p>\n<p>\nHere is the bodice before the skirt layers were attached. You can see the inner corset, longer than the outer\nbodice, extending below the main dress.\n  </p>"}
-   {:image "laura16.jpg",
-    :nextpic "laura17",
-    :prevpic "laura15",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n<p>\nFinished dress, on the stand\n</p>\n<p>\n The dress fastened with a concealed zip at centre back but underneath the short-waisted bodice was a hidden lace-up\n corset. This extended all the way to Laura's natural waist and could be laced tight to provide support and security\n under the strapless dress.\n  \n</p>"}
-   {:image "laura17.jpg",
-    :nextpic "laura19",
-    :prevpic "laura16",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\nFinished dress, on the stand"}
-   {:blurb nil}
-   {:image "laura19.jpg",
-    :nextpic "laura20",
-    :prevpic "laura17",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nDetail of the Swarovski crystal heart pendant and sterling silver chain used to fasten the bolero."}
-   {:image "laura20.jpg",
-    :nextpic nil,
-    :prevpic "laura19",
-    :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nFitting picture\n<br />\n <br />\n...and worn"}
-   {:blurb nil}
    {:image "laura22.jpg",
     :nextpic "laura23",
     :prevpic "laura10",
@@ -4157,7 +4123,42 @@
     :nextpic "laura11",
     :prevpic "laura27",
     :blurb
-    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.linaphotography.com/index.htm\" target=\"_blank\">      Lina Nyberg    </a>  </i></p>"}],
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.linaphotography.com/index.htm\" target=\"_blank\">      Lina Nyberg    </a>  </i></p>"}
+   {:image "laura11.jpg",
+    :nextpic "laura12",
+    :prevpic "laura28",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nLaura's dress came with a wrist loop for carrying her train, it could also be bustled up underneath for hands-free \ndancing. All the layers of her dress created a very pretty waterfall effect when the loop was picked up."}
+   {:image "laura12.jpg",
+    :nextpic "laura15",
+    :prevpic "laura11",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nDetail of the 'something blue' hidden by the wrist loop in the lining. I also added a pretty heather-purple rose\nto tone with Laura's inner lining fabric."}
+   {:image "laura15.jpg",
+    :nextpic "laura16",
+    :prevpic "laura12",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n<p>\nPartly made dress, on the stand\n</i>\n</p>\n<p>\nHere is the bodice before the skirt layers were attached. You can see the inner corset, longer than the outer\nbodice, extending below the main dress.\n  </p>"}
+   {:image "laura16.jpg",
+    :nextpic "laura17",
+    :prevpic "laura15",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n<p>\nFinished dress, on the stand\n</p>\n<p>\n The dress fastened with a concealed zip at centre back but underneath the short-waisted bodice was a hidden lace-up\n corset. This extended all the way to Laura's natural waist and could be laced tight to provide support and security\n under the strapless dress.\n  \n</p>"}
+   {:image "laura17.jpg",
+    :nextpic "laura19",
+    :prevpic "laura16",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\nFinished dress, on the stand"}
+   {:image "laura19.jpg",
+    :nextpic "laura20",
+    :prevpic "laura17",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nDetail of the Swarovski crystal heart pendant and sterling silver chain used to fasten the bolero."}
+   {:image "laura20.jpg",
+    :nextpic nil,
+    :prevpic "laura19",
+    :blurb
+    "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n  <b>\n    Similar styles from £1600\n  </b>\n  <br />\n  <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n  </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n<hr />  \n\n\nFitting picture\n<br />\n <br />\n...and worn"}],
   :blurb ""},
  "matthews"
  {:title "Occsionwear dress for Marie Mattews",
@@ -4182,6 +4183,11 @@
     :prevpic "matthews3",
     :blurb
     "Occasionwear dress for Marie Matthews\n</b>\n <br />\n<i>modelled by client</i>\n<br />\n <br />"}
+   {:image "matthews8.jpg",
+    :nextpic "matthews5",
+    :prevpic "matthews4",
+    :blurb
+    "Occasionwear dress for Marie Matthews\n</b>\n <br />\n<i>Close up of the materials before they were sewn up</i>\n<br />\n <br />"}
    {:image "matthews5.jpg",
     :nextpic "matthews6",
     :prevpic "matthews8",
@@ -4196,12 +4202,7 @@
     :nextpic nil,
     :prevpic "matthews6",
     :blurb
-    "Wedding dress for Marie Cook (later Matthews)\n</b>\n <br />\n<i>Modelled by Marie</i>\n <br />\n  <br />\nMarie first came to me when planning her wedding. To see more pictures of Marie's wedding dress <a href=\"portfolio/cook1.html\">click here</a>"}
-   {:image "matthews8.jpg",
-    :nextpic "matthews5",
-    :prevpic "matthews4",
-    :blurb
-    "Occasionwear dress for Marie Matthews\n</b>\n <br />\n<i>Close up of the materials before they were sewn up</i>\n<br />\n <br />"}],
+    "Wedding dress for Marie Cook (later Matthews)\n</b>\n <br />\n<i>Modelled by Marie</i>\n <br />\n  <br />\nMarie first came to me when planning her wedding. To see more pictures of Marie's wedding dress <a href=\"portfolio/cook1.html\">click here</a>"}],
   :blurb "<b>\n"},
  "fields"
  {:title "Wedding dress and bolero for Emma Fields",
@@ -4320,79 +4321,82 @@
     :nextpic "hunter2",
     :prevpic nil,
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>A fitted and boned bodice with beaded Parisian lace. The sweetheart neckline and straps are trimmed with scalloped edging. The lace extends over the full skirt in handkerchief points below a silk satin sash. The skirt is made of floaty silk chiffon divided at the front to reveal the shine of the satin below.</p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>A fitted and boned bodice with beaded Parisian lace. The sweetheart neckline and straps are trimmed with scalloped edging. The lace extends over the full skirt in handkerchief points below a silk satin sash. The skirt is made of floaty silk chiffon divided at the front to reveal the shine of the satin below.</p>"}
    {:image "hunter2.jpg",
     :nextpic "hunter3",
     :prevpic "hunter1",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\nEmily said <i>\"Almost everyone who came to the wedding commented on the dress. I spent a lot of the day telling people about you! People made such lovely comments about how beautiful it was and I cannot begin to tell you how wonderful I felt in it.\n<p/><p>\nA very happy newly-wed...\n<br/>Em<br/>\nxxx</i>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\nEmily said <i>\"Almost everyone who came to the wedding commented on the dress. I spent a lot of the day telling people about you! People made such lovely comments about how beautiful it was and I cannot begin to tell you how wonderful I felt in it.\n<p/><p>\nA very happy newly-wed...\n<br/>Em<br/>\nxxx</i>"}
    {:image "hunter3.jpg",
     :nextpic "hunter4",
     :prevpic "hunter2",
-    :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<hr />\n\n<p>Original design sketch</p>"}
+    :blurb "\n\n<hr />\n\n<p>Original design sketch</p>"}
    {:image "hunter4.jpg",
     :nextpic "hunter5",
     :prevpic "hunter3",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<hr />\n\n<p>This French lace was beaded to order and is known as 'Chantilly' lace.</p>"}
+    "\n\n<hr />\n\n<p>This French lace was beaded to order and is known as 'Chantilly' lace.</p>"}
    {:image "hunter5.jpg",
     :nextpic "hunter6",
     :prevpic "hunter4",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
    {:image "hunter6.jpg",
     :nextpic "hunter7",
     :prevpic "hunter5",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>The back of the bodice dipped low with the shear beaded lace used above, all closing with satin covered buttons and loops.</p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>The back of the bodice dipped low with the shear beaded lace used above, all closing with satin covered buttons and loops.</p>"}
    {:image "hunter7.jpg",
     :nextpic "hunter8",
     :prevpic "hunter6",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
    {:image "hunter8.jpg",
     :nextpic "hunter9",
     :prevpic "hunter7",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
    {:image "hunter9.jpg",
     :nextpic "hunter10",
     :prevpic "hunter8",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<hr />\n\n<p>The train was trimmed with pretty scalloped lace edging. </p>"}
+    "\n\n<hr />\n\n<p>The train was trimmed with pretty scalloped lace edging. </p>"}
    {:image "hunter10.jpg",
     :nextpic "hunter11",
     :prevpic "hunter9",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
    {:image "hunter11.jpg",
     :nextpic "hunter12",
     :prevpic "hunter10",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>"}
    {:image "hunter12.jpg",
     :nextpic "hunter13",
     :prevpic "hunter11",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<hr />\n\n<p>Emily had two changeable sashes, one in 'sand' for the ceremony and this royal purple for later in the day.</p>"}
+    "\n\n<hr />\n\n<p>Emily had two changeable sashes, one in 'sand' for the ceremony and this royal purple for later in the day.</p>"}
    {:image "hunter13.jpg",
     :nextpic "hunter14",
     :prevpic "hunter12",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>Detail of the buttons and loops on the lace at the back of the dress.</p>"}
+    "\n\n<p>Photography by <a href=\"www.jeaphotography.co.uk\">John Alexander</a></p>\n\n<hr />\n\n<p>Detail of the buttons and loops on the lace at the back of the dress.</p>"}
    {:image "hunter14.jpg",
     :nextpic "hunter15",
     :prevpic "hunter13",
+    :blurb ""}
+   {:image "hunter15.jpg",
+    :nextpic "hunter16",
+    :prevpic "hunter14",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>"}
-   {:blurb nil}
+    "\n\n<hr />\n\n<p>The making process includes a 'toile' or practice run where the dress is made in cheap fabrics to check the fit and design.</p>"}
    {:image "hunter16.jpg",
     :nextpic nil,
     :prevpic "hunter15",
     :blurb
-    "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>\n\n<hr />\n\n<p>Pictures from Emily's fittings show the dress with both colours of sash and with the train spread out and as hooked up for dancing.</p>"}],
-  :blurb ""},
+    "\n\n<hr />\n\n<p>Pictures from Emily's fittings show the dress with both colours of sash and with the train spread out and as hooked up for dancing.</p>"}],
+  :blurb
+  "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>"},
  "billigemen"
  {:title "Cravats and hankies for Amanda Billige",
   :pics
@@ -4418,95 +4422,103 @@
     :nextpic "miriam2",
     :prevpic nil,
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>\n<br />\n <br />\nMiriam  had me source her this beautiful 1950's silk and lace wedding dress. It then required \nextensive alteration and restyling to create Miriam's perfect dress. \n <br />\n  <br />\nThe dress is made from duchess satin cut in a princess line and with an empire-line seam under the bust. Extremely delicate \nChantilly lace covers the bodice with a scalloped edge along the slightly curved neckline. The dress is fitted to the\nwaist but not boned and then flares into a full skirt over netting with puddle train at the back. More of the lace flows \ndown the skirt dividing at the centre front to reveal the satin with the scalloped edging used to soften the divide.\n The finished dress had short lace sleeves (they were long when we started) the edges of which (and the bodice) were embellished\n with tiny pearl beads. The back of the dress originally closed with buttons and loops, but the elastic of the loops was no\n longer strong enough to hold the dress properly shut once it was fitted tight to Miriam's waist so we added a concealed zip\n over which the buttons fastened with new loops.\n <br />\n <br />\n<b>\nSimilar alteration and restyling work on vintage dresses from £25 per hour\n</b>\n<br />\n<i>The work Miriam had done came to 20 hours</i>\n<br />\n<br />\nI can also make new copies of vintage styles (including this dress) or help you source the \nperfect genuine vintage gown from £100\n<br />\nThis style or similar as a new bespoke dress from £1200\n<br />\n<br />\n<b> Bespoke veils from £50 </b>\n<br />\n<i>\nAs shown, simple two tier veil in ivory tulle, floor length + small train £75\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>\n<br />\n <br />\nMiriam  had me source her this beautiful 1950's silk and lace wedding dress. It then required \nextensive alteration and restyling to create Miriam's perfect dress. \n <br />\n  <br />\nThe dress is made from duchess satin cut in a princess line and with an empire-line seam under the bust. Extremely delicate \nChantilly lace covers the bodice with a scalloped edge along the slightly curved neckline. The dress is fitted to the\nwaist but not boned and then flares into a full skirt over netting with puddle train at the back. More of the lace flows \ndown the skirt dividing at the centre front to reveal the satin with the scalloped edging used to soften the divide.\n The finished dress had short lace sleeves (they were long when we started) the edges of which (and the bodice) were embellished\n with tiny pearl beads. The back of the dress originally closed with buttons and loops, but the elastic of the loops was no\n longer strong enough to hold the dress properly shut once it was fitted tight to Miriam's waist so we added a concealed zip\n over which the buttons fastened with new loops.\n <br />\n <br />\n<b>\nSimilar alteration and restyling work on vintage dresses from £25 per hour\n</b>\n<br />\n<i>The work Miriam had done came to 20 hours</i>\n<br />\n<br />\nI can also make new copies of vintage styles (including this dress) or help you source the \nperfect genuine vintage gown from £100\n<br />\nThis style or similar as a new bespoke dress from £1200\n<br />\n<br />\n<b> Bespoke veils from £50 </b>\n<br />\n<i>\nAs shown, simple two tier veil in ivory tulle, floor length + small train £75\n</i>"}
    {:image "miriam2.jpg",
     :nextpic "miriam3",
     :prevpic "miriam1",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam3.jpg",
-    :nextpic "miriam3a",
+    :nextpic "miriam30",
     :prevpic "miriam2",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+   {:image "miriam30.jpg",
+    :nextpic "miriam4",
+    :prevpic "miriam3",
+    :blurb
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam4.jpg",
     :nextpic "miriam5",
-    :prevpic "miriam3a",
+    :prevpic "miriam30",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam5.jpg",
     :nextpic "miriam6",
     :prevpic "miriam4",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam6.jpg",
     :nextpic "miriam7",
     :prevpic "miriam5",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam7.jpg",
     :nextpic "miriam8",
     :prevpic "miriam6",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}
    {:image "miriam8.jpg",
     :nextpic "miriam9",
     :prevpic "miriam7",
     :blurb
-    "\nThe dress before we began...\n</i>\n<br />\n<br />\nIt was a genuine 1950's wedding dress in ivory silk and very delicate lace. The original style differed little \nfrom how we finished. Here are the changes we made...\n<br />\n<br />\n\nThings Miriam had done:\n<br /> <i>\nTo make the dress fit we had to shorten the distance between the natural waistline and the bust at the underbust seam.\n<br />\nIt was taken in on the waist and hip to fit.\n<br />\nThe dress was also too wide for Miriam across the bodice and shoulders.\n<br />\nThe lace over the shoulders and back was mended and strengthened where time had caused it to weaken or perish.\n<br />\nWe Removed and re-set the sleeves for her narrower shoulders, and shortened them to above the elbow.\n<br />\nWe brought the lace above the front neckline down as they were too near Miriam's neck and tended to flop forward a lot. They were also wired to help them keep their shape while worn.\n<br />\nWe shortened the length of the dress at the front for Miriam's height but left the back long to create a puddle train.\n<br />\nA bespoke netting underskirt was created\n<br />\nThe sleeves were shorted and re-finished with scalloped edging.\n<br />\nWe removed all the buttons and loops at the back and added a concealed zip for a more secure fastening. The buttons were then replaced and new loops were added to the back fastening where the original elastic loops had perished. \n</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe dress before we began...\n</i>\n<br />\n<br />\nIt was a genuine 1950's wedding dress in ivory silk and very delicate lace. The original style differed little \nfrom how we finished. Here are the changes we made...\n<br />\n<br />\n\nThings Miriam had done:\n<br /> <i>\nTo make the dress fit we had to shorten the distance between the natural waistline and the bust at the underbust seam.\n<br />\nIt was taken in on the waist and hip to fit.\n<br />\nThe dress was also too wide for Miriam across the bodice and shoulders.\n<br />\nThe lace over the shoulders and back was mended and strengthened where time had caused it to weaken or perish.\n<br />\nWe Removed and re-set the sleeves for her narrower shoulders, and shortened them to above the elbow.\n<br />\nWe brought the lace above the front neckline down as they were too near Miriam's neck and tended to flop forward a lot. They were also wired to help them keep their shape while worn.\n<br />\nWe shortened the length of the dress at the front for Miriam's height but left the back long to create a puddle train.\n<br />\nA bespoke netting underskirt was created\n<br />\nThe sleeves were shorted and re-finished with scalloped edging.\n<br />\nWe removed all the buttons and loops at the back and added a concealed zip for a more secure fastening. The buttons were then replaced and new loops were added to the back fastening where the original elastic loops had perished. \n</i>"}
    {:image "miriam9.jpg",
     :nextpic "miriam10",
     :prevpic "miriam8",
-    :blurb "\nThe dress before we began, bodice detail\n</i>"}
+    :blurb
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe dress before we began, bodice detail\n</i>"}
    {:image "miriam10.jpg",
     :nextpic "miriam11",
     :prevpic "miriam9",
     :blurb
-    "\nThe dress before we began\n</i>\n<br />\n<br />\nMe standing next to the original dress. Compare the level of my shoulders with those of the dummy (I am 5'4\")- \nthe lady who wore this dress in 1950's must have been unusually tall. Or it might possibly have never been worn, and was simply\nmade very long in order that whoever bought the dress could have the length altered to fit.\n<br />\n<br />\nTo our advantage though, this did mean that although the dress was originally made with the skirt all one length (no train) when cut to the right \nlength for Miriam at the front we were left with a very pretty little puddle train at the back."}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe dress before we began\n</i>\n<br />\n<br />\nMe standing next to the original dress. Compare the level of my shoulders with those of the dummy (I am 5'4\")- \nthe lady who wore this dress in 1950's must have been unusually tall. Or it might possibly have never been worn, and was simply\nmade very long in order that whoever bought the dress could have the length altered to fit.\n<br />\n<br />\nTo our advantage though, this did mean that although the dress was originally made with the skirt all one length (no train) when cut to the right \nlength for Miriam at the front we were left with a very pretty little puddle train at the back."}
    {:image "miriam11.jpg",
     :nextpic "miriam12",
     :prevpic "miriam10",
     :blurb
-    "\nThe dress before we began, inside detail\n</i>\n<br />\n<br />\nIn the 'olden days' (before the 1970's in the case of this phenomenon) most dresses, \nskirts etc including high end wedding and occasion dresses were not lined as most people wore a slip as a matter of course. \nIt does make the inside of vintage clothing look very different from what we'd expect now from a dress that cost a lot of money.\n<br />\n<br />\nMiriam chose not to have the a new lining added, though that can be done for most vintage gowns. Nowadays we don't expect to \nwear dresses with a slip, or to be able to see the 'workings' on the inside."}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe dress before we began, inside detail\n</i>\n<br />\n<br />\nIn the 'olden days' (before the 1970's in the case of this phenomenon) most dresses, \nskirts etc including high end wedding and occasion dresses were not lined as most people wore a slip as a matter of course. \nIt does make the inside of vintage clothing look very different from what we'd expect now from a dress that cost a lot of money.\n<br />\n<br />\nMiriam chose not to have the a new lining added, though that can be done for most vintage gowns. Nowadays we don't expect to \nwear dresses with a slip, or to be able to see the 'workings' on the inside."}
    {:image "miriam12.jpg",
     :nextpic "miriam13",
     :prevpic "miriam11",
     :blurb
-    "\nThe underskirt\n</i>\n<br />\n<br />\nA removable netting underskirt was created \nto give the skirt some shape. The top panels are stretch-magic, like the tummy control knickers to give a lovely smooth\nline when worn beneath a dress, no visible bumps from a waist band - and it holds you in a bit!\n<br />\n<br />\n<b>\nNet skirts bespoke for any dress from £60 </b>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe underskirt\n</i>\n<br />\n<br />\nA removable netting underskirt was created \nto give the skirt some shape. The top panels are stretch-magic, like the tummy control knickers to give a lovely smooth\nline when worn beneath a dress, no visible bumps from a waist band - and it holds you in a bit!\n<br />\n<br />\n<b>\nNet skirts bespoke for any dress from £60 </b>"}
    {:image "miriam13.jpg",
     :nextpic "miriam14",
     :prevpic "miriam12",
     :blurb
-    "Miriam at an intermediate fitting - everything pinned in!</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>Miriam at an intermediate fitting - everything pinned in!</i>"}
    {:image "miriam14.jpg",
     :nextpic "miriam15",
     :prevpic "miriam13",
     :blurb
-    "At an intermediate fitting - with the sleeves totally removed, considering straps instead. </i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>At an intermediate fitting - with the sleeves totally removed, considering straps instead. </i>"}
    {:image "miriam15.jpg",
     :nextpic "miriam16",
     :prevpic "miriam14",
-    :blurb "\nFinished dress on the stand</i>"}
+    :blurb
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nFinished dress on the stand</i>"}
    {:image "miriam16.jpg",
     :nextpic "miriam17",
     :prevpic "miriam15",
     :blurb
-    "\nDetail of the beaded lace sleeve - the beads are original faux-pearls</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nDetail of the beaded lace sleeve - the beads are original faux-pearls</i>"}
    {:image "miriam17.jpg",
     :nextpic "miriam18",
     :prevpic "miriam16",
     :blurb
-    "\nThe finished dress at Miriam's final fitting, bodice detail</i>"}
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nThe finished dress at Miriam's final fitting, bodice detail</i>"}
    {:image "miriam18.jpg",
     :nextpic "miriam19",
     :prevpic "miriam17",
-    :blurb "\nAll changes complete, ready to go. </i>"}
+    :blurb
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nAll changes complete, ready to go. </i>"}
    {:image "miriam19.jpg",
     :nextpic nil,
     :prevpic "miriam18",
     :blurb
-    "\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}],
-  :blurb "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>"},
+    "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\"> Nick Scott</a>\n</i>"}],
+  :blurb ""},
  "ball"
  {:title "Bespoke dressmaking for ball",
   :pics
@@ -4604,7 +4616,6 @@
     :prevpic "wild13",
     :blurb
     "<b>\nWedding dress and veil for Lauren Wild\n</b>\n\n<p>\n  <b>\n    Similar styles from £2200\n  </b>\n  <br />\n  <i>\n    With materials and detailing as shown £6000\n\t<br/>\n\tLace edged veil as shown £670\n  </i>\n</p>\n\n<p>\n  Lauren's wedding dress was made from matt satin and hand embellished with delicate lace patterns \n</p>\n\n<p>  <i>    Official photographs by     <a href=\"http://www.bumbleandbrown.com/\" target=\"_blank\">      Bumble and Brown    </a>  </i></p><hr />Lauren's train came with a wrist loop so she could easily keep it from the dusty floor when she wanted to."}
-   {:blurb nil}
    {:image "wild16.jpg",
     :nextpic "wild17",
     :prevpic "wild14",
@@ -4809,16 +4820,16 @@
     :prevpic "angie14",
     :blurb
     "<b>\nWedding dress for Angie Dayman\n</b>\n <br />\n<i> Close up details of the lace and layering on bodice and skirt.\n </i>"}
-   {:image "angie16.jpg",
-    :nextpic nil,
-    :prevpic "angie17",
-    :blurb
-    "<b>\nWedding dress for Angie Dayman\n</b>\n <br />\n<i>modelled by client </i>"}
    {:image "angie17.jpg",
     :nextpic "angie16",
     :prevpic "angie15",
     :blurb
-    "<b>\nStole for Angie Dayman</b>\n<br />\n <br />\nAngie wanted something to wear round her shoulders in case the weather was not kind and for the evening. I created a\nshawl/stole using the same layered fabrics adding a few lace motifs from her scraps to complete the look.\n<br />\n <br />\n<b>\nSimilar styles from £40\n</b>\n <br />\n<i>\nWith materials as shown £65\n</i>"}],
+    "<b>\nStole for Angie Dayman</b>\n<br />\n <br />\nAngie wanted something to wear round her shoulders in case the weather was not kind and for the evening. I created a\nshawl/stole using the same layered fabrics adding a few lace motifs from her scraps to complete the look.\n<br />\n <br />\n<b>\nSimilar styles from £40\n</b>\n <br />\n<i>\nWith materials as shown £65\n</i>"}
+   {:image "angie16.jpg",
+    :nextpic nil,
+    :prevpic "angie17",
+    :blurb
+    "<b>\nWedding dress for Angie Dayman\n</b>\n <br />\n<i>modelled by client </i>"}],
   :blurb ""},
  "knox"
  {:title "Bespoke dressmaking for knox",
@@ -4907,11 +4918,21 @@
     :prevpic "ennamen2",
     :blurb
     "Waistcoat and bow-tie for Eleanor's page-boy\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nThis tiny waistcoat was made from the same brocade as the other groomsmen and we added a mini\nbow-tie in gold and blue shot silk dupion.\n<br />\n <br />\n<b>\nChidren's waistcoats from £35</b>\n<br />\n<i>\nWith fabrics and detailing as shown, waistcoat £95\n<br /> Pre-tied bow-tie £25\n<br />\n</i>"}
+   {:image "ennamen10.jpg",
+    :nextpic "ennamen4",
+    :prevpic "ennamen3",
+    :blurb
+    "Waistcoats for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketches for groomsmen and pageboy\n</i>"}
    {:image "ennamen4.jpg",
     :nextpic "ennamen9",
     :prevpic "ennamen10",
     :blurb
     "Coat for Martin Leonard-Smith\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i><br />\n<br />\nMartin and Eleanor in their period inspired wedding clothes. <a href=\"portfolio/enna1.html\">Click here</a> to see \nmore pictures of Eleanor's wedding dress."}
+   {:image "ennamen9.jpg",
+    :nextpic "ennamen5",
+    :prevpic "ennamen4",
+    :blurb
+    "Coat for Martin Leonard-Smith\n</b>\n<br />\n<i>\nDesign sketch\n</i>"}
    {:image "ennamen5.jpg",
     :nextpic "ennamen6",
     :prevpic "ennamen9",
@@ -4931,17 +4952,7 @@
     :nextpic nil,
     :prevpic "ennamen7",
     :blurb
-    "Waistcoat for Eleanor's page-boy\n</b>\n<br />\nBarnaby, Eleanor's page-boy with Abigail her little bridesmaid. <a href=\"portfolio/enna1.html\">Click here</a> to see more \npictures of Abigail's dress."}
-   {:image "ennamen9.jpg",
-    :nextpic "ennamen5",
-    :prevpic "ennamen4",
-    :blurb
-    "Coat for Martin Leonard-Smith\n</b>\n<br />\n<i>\nDesign sketch\n</i>"}
-   {:image "ennamen10.jpg",
-    :nextpic "ennamen4",
-    :prevpic "ennamen3",
-    :blurb
-    "Waistcoats for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketches for groomsmen and pageboy\n</i>"}],
+    "Waistcoat for Eleanor's page-boy\n</b>\n<br />\nBarnaby, Eleanor's page-boy with Abigail her little bridesmaid. <a href=\"portfolio/enna1.html\">Click here</a> to see more \npictures of Abigail's dress."}],
   :blurb "<b>\n"},
  "eastonmum"
  {:title "Dress and Bolero for Alice Easton",
@@ -5062,15 +5073,6 @@
     :blurb
     "Groom\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\"> Allan Breeze</a>\n</i>"}],
   :blurb "<b>\nTie for Faye's "},
- "tylerbaby"
- {:title "Christening gown for baby Tyler-Doel",
-  :pics
-  [{:image "tylerbaby1.jpg",
-    :nextpic "casey2",
-    :prevpic nil,
-    :blurb ""}],
-  :blurb
-  "<p>\n    Fusion 1930's and Victorian fantasy wedding dress.\n    Silk Satin with bloused bodice and bias-cut skirt trimmed in metallic lace appliqué.\n    Tulle, chiffon and lace bustle train in subtle pastel colours.\n    <br/><br/>\n    Similar styles from £2100, with fabrics as shown £2600\n</p>\n\n<hr/>\n\n<p>\n    I also made the groom's scrunchy-tie in fabric to match the brides dress.\n    Ties and cravats from £35.\n</p>"},
  "cherry"
  {:title "Bespoke dressmaking for cherry",
   :pics
@@ -5104,11 +5106,21 @@
     :prevpic "enna2",
     :blurb
     "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nEleanor's groom had his Victorian inspired coat and waistcoat made to order\n <br />\n<a href=\"portfolio/ennamen1.html\">Click here</a> to see more pictures of Martin's outfit."}
+   {:image "enna27.jpg",
+    :nextpic "enna4",
+    :prevpic "enna3",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketch\n</i>"}
    {:image "enna4.jpg",
     :nextpic "enna23",
     :prevpic "enna27",
     :blurb
     "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nLifting her skirts reveals the hoop worn beneath."}
+   {:image "enna23.jpg",
+    :nextpic "enna5",
+    :prevpic "enna4",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<br />\nEleanor also had her baby bridesmaid and pageboy's dress and waistcoat made to order. \n<a href=\"portfolio/ennakids1.html\">Click here</a> to see more pictures of Abigail and Barnaby's outfits.\n\nClick here"}
    {:image "enna5.jpg",
     :nextpic "enna6",
     :prevpic "enna23",
@@ -5159,6 +5171,21 @@
     :prevpic "enna13",
     :blurb
     "Wedding dress for Eleanor Parks Young\n</b>\n<i>\n<br />\nFittings pictures for the corset </i>\n<br />\n<br />\n<a href=\"portfolio/ennaunder1.html\">Click here</a> to see more pictures of the corset and underpinnings."}
+   {:image "enna26.jpg",
+    :nextpic "enna24",
+    :prevpic "enna14",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nEleanor's dress was not an historically accurate representation of any particular period in history\nbut was designed to look 'historical' in the sense that it did not conform to the common bridal \ntrends of 2010. We took inspiration from Elizabethan, 18th century and Victorian fashions to create a\nunique dress that flattered Eleanor's figure and style perfectly.\n<br />\n<br />\nThe basic corset and wide neckline are early Victorian shapes (1830's). The way the bodice is cut with\n panels that taper from shoulder to pointed front waist are also inspired by period design."}
+   {:image "enna24.jpg",
+    :nextpic "enna25",
+    :prevpic "enna26",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThe skirt pleats into the bodice in 'cartridge pleats' from the sides round to the back. These are an\n Elizabethan technique, although cartridge pleating can be found used in other fashion periods too, people all throughout history have been inspired by\nthe fashions of the past. From the sides round to the front the skirt is pleated in softer large pleats\nlike the skirt in the picture above.\n<br />\n<br />\nThe way the skirt hooks up for dancing was designed to look a bit like the 'polonaise' style skirts of the 18th century shown \nhere (centre).\n<br />\n<br />\nThe longer bodice line (the seam is just below Eleanor's waistline not on it) comes from a later \nVictorian period."}
+   {:image "enna25.jpg",
+    :nextpic "enna15",
+    :prevpic "enna24",
+    :blurb
+    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThese real period garments show elements for inspiration for Eleanor's dress. These are left (1830's) \nneckline and pointed waist, centre (1840's) swept-back bell shaped skirt and right (1790's) polonaise\nskirt with wide pleated frill."}
    {:image "enna15.jpg",
     :nextpic "enna16",
     :prevpic "enna25",
@@ -5198,32 +5225,7 @@
     :nextpic nil,
     :prevpic "enna21",
     :blurb
-    "Bridesmaids dresses for Eleanor Parks Young\n</b>\n<br />\n<br />\nEleanor also commissioned her five grown-up bridesmaids dresses, each made in a pretty spring colour.\n<a href=\"portfolio/ennabmaid1.html\">Click here</a> to see more pictures of the bridesmaids."}
-   {:image "enna23.jpg",
-    :nextpic "enna5",
-    :prevpic "enna4",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<br />\nEleanor also had her baby bridesmaid and pageboy's dress and waistcoat made to order. \n<a href=\"portfolio/ennakids1.html\">Click here</a> to see more pictures of Abigail and Barnaby's outfits.\n\nClick here"}
-   {:image "enna24.jpg",
-    :nextpic "enna25",
-    :prevpic "enna26",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThe skirt pleats into the bodice in 'cartridge pleats' from the sides round to the back. These are an\n Elizabethan technique, although cartridge pleating can be found used in other fashion periods too, people all throughout history have been inspired by\nthe fashions of the past. From the sides round to the front the skirt is pleated in softer large pleats\nlike the skirt in the picture above.\n<br />\n<br />\nThe way the skirt hooks up for dancing was designed to look a bit like the 'polonaise' style skirts of the 18th century shown \nhere (centre).\n<br />\n<br />\nThe longer bodice line (the seam is just below Eleanor's waistline not on it) comes from a later \nVictorian period."}
-   {:image "enna25.jpg",
-    :nextpic "enna15",
-    :prevpic "enna24",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nThese real period garments show elements for inspiration for Eleanor's dress. These are left (1830's) \nneckline and pointed waist, centre (1840's) swept-back bell shaped skirt and right (1790's) polonaise\nskirt with wide pleated frill."}
-   {:image "enna26.jpg",
-    :nextpic "enna24",
-    :prevpic "enna14",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nHistorical inspiration\n</i>\n<br />\n<br />\nEleanor's dress was not an historically accurate representation of any particular period in history\nbut was designed to look 'historical' in the sense that it did not conform to the common bridal \ntrends of 2010. We took inspiration from Elizabethan, 18th century and Victorian fashions to create a\nunique dress that flattered Eleanor's figure and style perfectly.\n<br />\n<br />\nThe basic corset and wide neckline are early Victorian shapes (1830's). The way the bodice is cut with\n panels that taper from shoulder to pointed front waist are also inspired by period design."}
-   {:image "enna27.jpg",
-    :nextpic "enna4",
-    :prevpic "enna3",
-    :blurb
-    "Wedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketch\n</i>"}],
+    "Bridesmaids dresses for Eleanor Parks Young\n</b>\n<br />\n<br />\nEleanor also commissioned her five grown-up bridesmaids dresses, each made in a pretty spring colour.\n<a href=\"portfolio/ennabmaid1.html\">Click here</a> to see more pictures of the bridesmaids."}],
   :blurb "<b>\n"},
  "hook"
  {:title "Wedding Dress For Ellie Hook",
@@ -5458,6 +5460,11 @@
     :prevpic "cook1",
     :blurb
     "Wedding dress for Marie Cook\n</b>\n <br />\n<i> modelled by client </i>"}
+   {:image "cook11.jpg",
+    :nextpic "cook3",
+    :prevpic "cook2",
+    :blurb
+    "Wedding dress for Marie Cook\n</b>\n <br />\nMarie wrote:<i> Thank you so much for the brilliant job you did making our dresses. The girls loved theirs and \nwill be wearing them again. My dress was fabulous and I really enjoyed wearing it. I felt glamorous \nand elegant in it. I was really quite sad to take it off at the end of the day. Everyone thought that \nwe all looked great and the look was topped off by the boys in their matching cravats and hankies. \nThank you again, Marie and Andy xx</i>"}
    {:image "cook3.jpg",
     :nextpic "cook4",
     :prevpic "cook11",
@@ -5497,12 +5504,7 @@
     :nextpic nil,
     :prevpic "cook9",
     :blurb
-    "Occasion wear dress for Marie Matthews\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\nMarie came back for more!\n <br />\n <br />\nMore than a year after being married Marie (now Matthews) commissioned a dress to \nwear to a winter wedding. <a href=\"portfolio/matthews1.html\">Click here</a> to see more pictures."}
-   {:image "cook11.jpg",
-    :nextpic "cook3",
-    :prevpic "cook2",
-    :blurb
-    "Wedding dress for Marie Cook\n</b>\n <br />\nMarie wrote:<i> Thank you so much for the brilliant job you did making our dresses. The girls loved theirs and \nwill be wearing them again. My dress was fabulous and I really enjoyed wearing it. I felt glamorous \nand elegant in it. I was really quite sad to take it off at the end of the day. Everyone thought that \nwe all looked great and the look was topped off by the boys in their matching cravats and hankies. \nThank you again, Marie and Andy xx</i>"}],
+    "Occasion wear dress for Marie Matthews\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\nMarie came back for more!\n <br />\n <br />\nMore than a year after being married Marie (now Matthews) commissioned a dress to \nwear to a winter wedding. <a href=\"portfolio/matthews1.html\">Click here</a> to see more pictures."}],
   :blurb "<b>\n"},
  "turner"
  {:title "Occasionwear dress and jacket for Jan turner",
@@ -5635,11 +5637,11 @@
  "ennakids"
  {:title "Flowergirl and page boy for Eleanor Parks Young",
   :pics
-  [{:image "ennakids1.jpg",
-    :nextpic nil,
-    :prevpic "ennakids8",
+  [{:image "ennakids9.jpg",
+    :nextpic "ennakids2",
+    :prevpic nil,
     :blurb
-    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nAbigail and Barnaby with the bride and groom.<br />\n<a href=\"portfolio/enna1.html\">Click here</a> to see more pictures of the Eleanor's period inspired wedding dress."}
+    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nEleanor commissioned the prettiest dress for her child bridesmaid in rose pink silk dupion with an ivory\nembroidered organza sash. The dress had a high waistline with full floor-length skirt below. The bodice had a \nsquare neckline embellished with embroidered flowers and Swarovski crystals and little puff sleeves. \n <br />\n  <br />\nEleanor's page boy had a simple waistcoat made in ivory brocade to match the other groomsmen. A little bow-tie\nin blue and gold silk dupion completed his outfit.\n <br />\n <br />\n<b>\nFlowergirl: Similar styles from £225 </b>\n<br />\n<i>\nWith silk fabrics and detailing as shown £330\n<br />\n</i>\n<b>\nPage boy: Similar styles from £90 (waistcoat and bow-tie set) </b>\n<br />\n<i>\nWith silk fabrics and detailing as shown £110\n<br />\n</i>"}
    {:image "ennakids2.jpg",
     :nextpic "ennakids3",
     :prevpic "ennakids9",
@@ -5650,6 +5652,11 @@
     :prevpic "ennakids2",
     :blurb
     "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\n In the background you can see the best man in his matching brocade waistcoat.<br />\n<a href=\"portfolio/ennamen1.html\">Click here</a> to see more pictures of the groomsmens' outfit.\n<br />\n</i>"}
+   {:image "ennakids10.jpg",
+    :nextpic "ennakids4",
+    :prevpic "ennakids3",
+    :blurb
+    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketches\n</i>"}
    {:image "ennakids4.jpg",
     :nextpic "ennakids5",
     :prevpic "ennakids10",
@@ -5675,14 +5682,9 @@
     :prevpic "ennakids7",
     :blurb
     "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nAbigail with the bride and grown up bridesmaids.<br />\n<a href=\"portfolio/ennabmaid1.html\">Click here</a> to see more pictures of the adult bridesmaids' dresses."}
-   {:image "ennakids9.jpg",
-    :nextpic "ennakids2",
-    :prevpic nil,
+   {:image "ennakids1.jpg",
+    :nextpic nil,
+    :prevpic "ennakids8",
     :blurb
-    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nEleanor commissioned the prettiest dress for her child bridesmaid in rose pink silk dupion with an ivory\nembroidered organza sash. The dress had a high waistline with full floor-length skirt below. The bodice had a \nsquare neckline embellished with embroidered flowers and Swarovski crystals and little puff sleeves. \n <br />\n  <br />\nEleanor's page boy had a simple waistcoat made in ivory brocade to match the other groomsmen. A little bow-tie\nin blue and gold silk dupion completed his outfit.\n <br />\n <br />\n<b>\nFlowergirl: Similar styles from £225 </b>\n<br />\n<i>\nWith silk fabrics and detailing as shown £330\n<br />\n</i>\n<b>\nPage boy: Similar styles from £90 (waistcoat and bow-tie set) </b>\n<br />\n<i>\nWith silk fabrics and detailing as shown £110\n<br />\n</i>"}
-   {:image "ennakids10.jpg",
-    :nextpic "ennakids4",
-    :prevpic "ennakids3",
-    :blurb
-    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nDesign sketches\n</i>"}],
+    "Flowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nAbigail and Barnaby with the bride and groom.<br />\n<a href=\"portfolio/enna1.html\">Click here</a> to see more pictures of the Eleanor's period inspired wedding dress."}],
   :blurb "<b>\n"}}

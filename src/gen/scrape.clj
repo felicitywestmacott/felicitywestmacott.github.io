@@ -5,32 +5,12 @@
 
 
 
-(defn try-read [filename]
-  (try
-    (edn/read-string (slurp filename))
-    (catch Exception _ nil)))
-
-(defn persist-state [file-name _ _ _ new-state]
-  (spit file-name (with-out-str (pprint/pprint new-state))))
-
-(defn persistent-atom [filename content]
-  (let [state (atom (or (try-read filename) content))]
-    (add-watch state :persistor (partial persist-state filename))))
-
-(def data (persistent-atom "./resources/data.edn" {}))
-
-
-
-
 
 (def directory (clojure.java.io/file "./portfolio"))
 (def files (file-seq directory))
 (take 10 files)
 
-(defn inc+ [n]
-  (if n (inc n) 1))
 
-(def empty-vec (vec (repeat 100 nil)))
 
 (defn add-pic [pics n image next prev blurb]
   (let [size (max n (count (or pics [])))
@@ -58,17 +38,14 @@
                 )))
       collector)))
 
-(def client (reduce reduction {} files))
-
-(spit "./resources/clients.edn" (with-out-str (pprint/pprint client)))
 
 
+(def clients-1 (reduce reduction {} files))
+(spit "./resources/clients_1.edn" (with-out-str (pprint/pprint clients-1)))
 
 
-(def clients (edn/read-string (slurp "./resources/clients.edn")))
-(spit "./resources/clients.edn" (with-out-str (pprint/pprint clients)))
 
-
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 (defn common-prefix-length
@@ -94,17 +71,43 @@
     (merge data {:blurb common-blurb
                  :pics cut-pics})))
 
-(def clients (into {} (for [[name data] clients] [name (extract-common-blurb data)])))
+(def clients-2 (into {} (for [[name data] clients-1] [name (extract-common-blurb data)])))
+(spit "./resources/clients_2.edn" (with-out-str (pprint/pprint clients-2)))
 
 
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(def filters
-  (let [raw (slurp "./_data/filters.yml")
-        data (yaml/parse-string raw)]
 
-    (println data)
+(defn pic-name [pic] (.replace (:image pic) ".jpg" ""))
 
-    ))
+(defn find-next [pics current]
+  (first (filter #(= current (:prevpic %)) pics)))
+
+(defn pics-chain [pic pics]
+  (if (nil? (:nextpic pic))
+    [pic]
+    (let [next (find-next pics (pic-name pic))]
+      (concat [pic] (pics-chain next pics)))))
+
+(defn sorted-pics [pics]
+  (let [first-pic (find-next pics nil)]
+    (pics-chain first-pic pics)))
+
+(def clients-3 (into {} (for [[n v] clients-2] [n (update v :pics #(into [] (sorted-pics %)))])))
+
+(spit "./resources/clients.edn" (with-out-str (pprint/pprint clients-3)))
+
+
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;
+;(def filters
+;  (let [raw (slurp "./_data/filters.yml")
+;        data (yaml/parse-string raw)]
+;
+;    (println data)
+;
+;    ))
 
 
 
