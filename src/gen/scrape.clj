@@ -55,7 +55,12 @@
      n)))
 
 (defn reverse-to-safety [string]
-  (if (< (.lastIndexOf string ">") (.lastIndexOf string "<"))
+  (if (and
+        (< 0 (count string))
+        (or (< (.lastIndexOf string ">") (.lastIndexOf string "<"))
+               (not (or (.endsWith string " ")
+                        (.endsWith string "\n")
+                        (.endsWith string ">")))))
     (recur (.substring string 0 (dec (count string))))
     string))
 
@@ -130,6 +135,8 @@
 
 
 (spit "./resources/clients.edn" (with-out-str (pprint/pprint clients-4)))
+
+(println "Done.")
 
 ;
 ;(def filters
