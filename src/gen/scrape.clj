@@ -66,7 +66,7 @@
         safe-prefix-length (count safe-common-blurb)
         prefix-remover #(when % (.substring % safe-prefix-length))
         cut-pics (mapv #(update % :blurb prefix-remover) pics)]
-    (merge data {:blurb common-blurb
+    (merge data {:blurb safe-common-blurb
                  :pics cut-pics})))
 
 (def clients-2 (into {} (for [[name data] clients-1] [name (extract-common-blurb data)])))

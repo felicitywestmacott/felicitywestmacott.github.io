@@ -105,7 +105,7 @@
     :prevpic "felicia8",
     :blurb
     "\n</b>\n <br />\n<i> modelled by Felicity Westmacott (nee Parks Young) </i>\n<br />\n <br />\nSome views of the dress as a 'work in progress'. \n <br />\nLeft: The toile or practice run of the bodice shape (back view)\n<br />\nTop right: a view of the inside of the bodice being pinned before sewing\n <br />\nBottom right: a view of the bodice being fitted before the gold lace was added"}],
-  :blurb "<b>\nMy Own Wedding dress\n"},
+  :blurb "<b>\nMy Own Wedding dress\n\n"},
  "pearson"
  {:title "Wedding dress for Claire-Michelle",
   :pics
@@ -329,7 +329,7 @@
     :blurb
     "<hr />A hidden inner bodice laced closed to provide support and security to Sophie's figure."}],
   :blurb
-  "<b>\nWedding dress for Sophie\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £1750\n</i>\n</p>\n\n<p>\nA classically beautiful dress in ivory silk dupion, layered tulle and subtle silk georgette.\n\n</p>\n\n<"},
+  "<b>\nWedding dress for Sophie\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £1750\n</i>\n</p>\n\n<p>\nA classically beautiful dress in ivory silk dupion, layered tulle and subtle silk georgette.\n\n</p>\n\n"},
  "candler"
  {:title "Wedding Dress for Rebecca",
   :pics
@@ -412,7 +412,7 @@
     :blurb
     "<hr />\n\n<p>A final fitting picture showing the wonderful net petticoat (and gorgeous bridesmaid).</p>"}],
   :blurb
-  "<p>A beautiful 1950's style wedding dress with delicate cream lace over Autumnal golden-orange silk.</p>\n\n<"},
+  "<p>A beautiful 1950's style wedding dress with delicate cream lace over Autumnal golden-orange silk.</p>\n\n"},
  "doani"
  {:title "Wedding dress for Thalia Doani",
   :pics
@@ -795,7 +795,7 @@
     :blurb
     "<hr /> \n\n<p>\nPictures from the final fitting in the finished dress.\n<br/>\nThe back of the dress lace plunge and the train held on the wrist loop with the little 'something blue' peeking out.\n\n</p>"}],
   :blurb
-  "<b>\nWedding dress for Reeta \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2500\n </i>\n</p>\n\n<p>\n Reeta commissioned a plunge back dress in buttermilk silk satin and ivory lace. \n</p>\n\n<"},
+  "<b>\nWedding dress for Reeta \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2500\n </i>\n</p>\n\n<p>\n Reeta commissioned a plunge back dress in buttermilk silk satin and ivory lace. \n</p>\n\n"},
  "kosterbmaid"
  {:title "Bridesmaids for Alison Koster",
   :pics
@@ -917,7 +917,7 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.greekweddingphotos.com/\" target=\"_blank\"> Nick and sla Karvounis </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Kelly Jones \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n \nSimple and elegant dress layered antique-silver lace over ivory silk dupion.\n</p>\n\n<"},
+  "<b>\nWedding dress for Kelly Jones \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n \nSimple and elegant dress layered antique-silver lace over ivory silk dupion.\n</p>\n\n"},
  "allen"
  {:title "Wedding Dress for Liz",
   :pics
@@ -1712,7 +1712,7 @@
     :prevpic "jenna13",
     :blurb
     "<i>\nOfficial Wedding pictures by <a href=\"http://www.aniaroth.com/\"> Ania Roth</a>\n</i>\n<br />\n <br />\nA hidden 'something blue'."}],
-  :blurb "<b>\nWedding dress for Jenna Barker\n</b>\n<br />\n<"},
+  :blurb "<b>\nWedding dress for Jenna Barker\n</b>\n<br />\n"},
  "waterhouse"
  {:title "Silk and Lace Wedding dress for Sarah-Louise",
   :pics
@@ -1867,7 +1867,7 @@
     :blurb
     "<hr /> \n\n<p>\n<i>\nAll finished, steamed and hanging up ready to be collected\n\n</i>\n \n</p>"}],
   :blurb
-  "<b>\nWedding dress and veil for Ailsa \n</b>\n\n<p>\n <b>\n Similar styles from £1900\n </b>\n <br />\n <i>\n With materials and detailing as shown £2400\n </i>\n</p>\n\n<p>\n Ailsa commissioned a dress in blue silk satin designed to flatter her petite figure. \n</p>\n\n<"},
+  "<b>\nWedding dress and veil for Ailsa \n</b>\n\n<p>\n <b>\n Similar styles from £1900\n </b>\n <br />\n <i>\n With materials and detailing as shown £2400\n </i>\n</p>\n\n<p>\n Ailsa commissioned a dress in blue silk satin designed to flatter her petite figure. \n</p>\n\n"},
  "Huggett"
  {:title "Wedding dress for Barbara",
   :pics
@@ -1930,7 +1930,7 @@
     :blurb
     "<hr />\n\n<p>Final fitting pictures showing the detachable train spread out and the lace peplum that is revealed when it is removed.</p>"}],
   :blurb
-  "<p>Edwardian inspired dress made from duchess satin and beaded Guipure lace. The dress is trimmed with gathered lace flounces and groups of pink flowers. Made in three pieces the lace over bodice has long sleeves and a high collar. The train attached with poppas and was trimmed with matching lace flounces. </p>\n\n<"},
+  "<p>Edwardian inspired dress made from duchess satin and beaded Guipure lace. The dress is trimmed with gathered lace flounces and groups of pink flowers. Made in three pieces the lace over bodice has long sleeves and a high collar. The train attached with poppas and was trimmed with matching lace flounces. </p>\n\n"},
  "joseph"
  {:title "Wedding Dress for Harriet",
   :pics
@@ -2014,7 +2014,7 @@
     :prevpic "joseph15",
     :blurb
     "<p>A boned bodice with sweetheart neckline covered with delicate French Chantilly lace . The lace layer has a boat neckline and elbow length sleeves. The a-line skirt is layered satin and silk organza with a small train and slate grey silk-satin sash.</p>\n\n<hr />\n\n<p> The dress came with a wrist loop so the train can be picked up and carried away from the dust when that is helpful. A hidden 'something blue' was sewn on to peek out when the train is lifted up.</p>"}],
-  :blurb "<"},
+  :blurb ""},
  "irenemen"
  {:title "Men's accessories for Irene Lester",
   :pics
@@ -2960,7 +2960,7 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://sarahmcdonnell.co.uk//\" target=\"_blank\"> Sarah McDonnell </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Charlotte Graham\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2250\n </i>\n</p>\n\n<p>\n Charlotte commissioned a dress in layered silk satin and Georgette with a dramatic low back filled with beaded lace.\n</p>\n\n<"},
+  "<b>\nWedding dress for Charlotte Graham\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2250\n </i>\n</p>\n\n<p>\n Charlotte commissioned a dress in layered silk satin and Georgette with a dramatic low back filled with beaded lace.\n</p>\n\n"},
  "eastonbmaid"
  {:title "Bespoke bridesmaids for Alice Easton",
   :pics
@@ -3416,7 +3416,7 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.andyhook.com\" target=\"_blank\"> Andy Hook </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Isabelle Travis\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £2400\n<br />Includes £800 budget for the hand appliqué of lace\n</i>\n</p>\n\n<p>\nSimple dress layered in satin and chiffon with hand appliqué lace highlights to sleeves and hem.\n\n</p>\n\n<"},
+  "<b>\nWedding dress for Isabelle Travis\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £2400\n<br />Includes £800 budget for the hand appliqué of lace\n</i>\n</p>\n\n<p>\nSimple dress layered in satin and chiffon with hand appliqué lace highlights to sleeves and hem.\n\n</p>\n\n"},
  "eastonkids"
  {:title "Child Bridesmaids for Alice Easton",
   :pics
@@ -3888,7 +3888,7 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nGerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish.\n</p>\n<p>\nSimilar work from £25/h\n<br/>\nAs shown here £125 including beaded black lace.\n</p>"}],
   :blurb
-  "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n<"},
+  "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n"},
  "endersby"
  {:title "Wedding dress for Lou Endersby",
   :pics
@@ -5545,7 +5545,7 @@
     :prevpic "turner7",
     :blurb
     "<i>The dress being worn at a South African wedding party.\n</i>"}],
-  :blurb "<b>\nDress and Jacket for Jan Turner \n</b>\n<br />\n<"},
+  :blurb "<b>\nDress and Jacket for Jan Turner \n</b>\n<br />\n"},
  "eastonmen"
  {:title "Bespoke Ties and Hankies for Alice Easton",
   :pics

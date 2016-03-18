@@ -104,7 +104,7 @@
 
 
 
-(mapv build-client-pages (take 1 (vals clients)))
+(mapv build-client-pages (vals clients))
 
 
 
