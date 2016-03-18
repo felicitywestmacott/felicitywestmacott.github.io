@@ -117,13 +117,29 @@
      (recur (inc n) (map rest strings))
      n)))
 
+
+(defn find-tags [string]
+  (re-seq #"<[^<>]+>" string))
+
+(defn count-closing-tags [string]
+  (count (filter #(.startsWith % "</") (find-tags string))))
+
+(defn count-opening-tags [string]
+  (count (filter #(not (or (.startsWith % "</")
+                           (.endsWith % "/>"))) (find-tags string))))
+
+(defn tags-matched? [string]
+  (= (count-opening-tags string)
+     (count-closing-tags string)))
+
 (defn reverse-to-safety [string]
   (if (and
         (< 0 (count string))
         (or (< (.lastIndexOf string ">") (.lastIndexOf string "<"))
-               (not (or (.endsWith string " ")
-                        (.endsWith string "\n")
-                        (.endsWith string ">")))))
+            (not (tags-matched? string))
+            (not (or (.endsWith string " ")
+                     (.endsWith string "\n")
+                     (.endsWith string ">")))))
     (recur (.substring string 0 (dec (count string))))
     string))
 
