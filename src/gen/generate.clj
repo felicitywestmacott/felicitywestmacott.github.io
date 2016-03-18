@@ -102,5 +102,16 @@
   (let [builder (partial build-client-page title blurb (count pics))]
     (mapv builder numbers-from-one (sorted-pics pics))))
 
-(mapv build-client-pages (take 2 (vals clients)))
 
+
+(mapv build-client-pages (take 1 (vals clients)))
+
+
+
+;
+;(def done (atom 0))
+;
+;(defn gen-some-clients [n]
+;  (let [so-far @done]
+;    (mapv build-client-pages (take n (drop so-far (vals clients))))
+;    (swap! done + n)))
