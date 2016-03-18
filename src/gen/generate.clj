@@ -16,7 +16,7 @@
                                           (for [[tag _] category] tag)))))
 
 (defn lightly-used-filters [usage-count]
-  (filter #(= (get filter-usage % 0) usage-count) defined-filters))
+  (filter #(and (not= % "all") (= (get filter-usage % 0) usage-count)) defined-filters))
 (println "Unused filters:" (lightly-used-filters 0))
 (println "Only used once:" (lightly-used-filters 1))
 (println "Only used twice:" (lightly-used-filters 2))
@@ -39,7 +39,11 @@
                                                       "      label: " label "\n")))
                                     "\n"))))
 
-(spit "./_data/filters.yml" filters-yaml)
+(defn write-filters []
+  (spit "./_data/filters.yml" filters-yaml))
+
+
+
 
 
 (defn build-portfolio-yaml [text-so-far entry]
@@ -52,7 +56,12 @@
 
 (def portfolio-yaml (reduce build-portfolio-yaml "" portfolio))
 
-(spit "./_data/portfolio.yml" portfolio-yaml)
+(defn write-portfolio []
+  (spit "./_data/portfolio.yml" portfolio-yaml))
+
+
+
+
 
 
 
@@ -93,5 +102,5 @@
   (let [builder (partial build-client-page title blurb (count pics))]
     (mapv builder numbers-from-one (sorted-pics pics))))
 
-(mapv build-client-pages (take 1 (vals clients)))
+(mapv build-client-pages (take 2 (vals clients)))
 
