@@ -41,9 +41,7 @@
 
 
 (def clients-1 (reduce reduction {} files))
-(spit "./resources/clients_1.edn" (with-out-str (pprint/pprint clients-1)))
-
-
+;(spit "./resources/clients_1.edn" (with-out-str (pprint/pprint clients-1)))
 
 ;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -72,8 +70,7 @@
                  :pics cut-pics})))
 
 (def clients-2 (into {} (for [[name data] clients-1] [name (extract-common-blurb data)])))
-(spit "./resources/clients_2.edn" (with-out-str (pprint/pprint clients-2)))
-
+;(spit "./resources/clients_2.edn" (with-out-str (pprint/pprint clients-2)))
 
 ;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
@@ -95,10 +92,44 @@
 
 (def clients-3 (into {} (for [[n v] clients-2] [n (update v :pics #(into [] (sorted-pics %)))])))
 
-(spit "./resources/clients.edn" (with-out-str (pprint/pprint clients-3)))
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
+
+
+(defn single-pass [string]
+  (let [s1 (.replaceAll string "  " " ")
+        s2 (.replaceAll s1 "\n\n\n" "\n\n")]
+    s2))
+
+(defn strip-excessive-whitespace [text]
+  (let [better (single-pass text)]
+    (if (= text better)
+      text
+      (recur better))))
+
+(defn strip-blurb-whitespace [data]
+  (update data :blurb strip-excessive-whitespace))
+
+(defn strip-all [data]
+  (-> data
+      strip-blurb-whitespace
+      (update :pics #(mapv strip-blurb-whitespace %))
+      ;(#(map strip-blurb-whitespace (:pics %)))
+      ;((fn [x] (map strip-blurb-whitespace (:pics x))))
+      ;println
+      )
+
+  ;(-> data
+  ;    strip-blurb-whitespace
+  ;    #(map strip-blurb-whitespace (:pics %)))
+  )
+
+(def clients-4 (into {} (for [[n v] clients-3] [n (strip-all v)])))
 
 ;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+(spit "./resources/clients.edn" (with-out-str (pprint/pprint clients-4)))
 
 ;
 ;(def filters
