@@ -5,10 +5,10 @@
 
 
 
+(def client-data (atom {}))
 
 (def directory (clojure.java.io/file "./portfolio"))
 (def files (file-seq directory))
-(take 10 files)
 
 
 
@@ -40,9 +40,72 @@
 
 
 
-(def clients-1 (reduce reduction {} files))
+(reset! client-data (reduce reduction {} files))
 ;(spit "./resources/clients_1.edn" (with-out-str (pprint/pprint clients-1)))
 
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;! SORT PICTURES                                                                ;;;
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+(defn pic-name [pic] (.replace (:image pic) ".jpg" ""))
+
+(defn find-next [pics current]
+  (first (filter #(= current (:prevpic %)) pics)))
+
+(defn pics-chain [pic pics]
+  (if (nil? (:nextpic pic))
+    [pic]
+    (let [next (find-next pics (pic-name pic))]
+      (concat [pic] (pics-chain next pics)))))
+
+(defn sorted-pics [pics]
+  (let [first-pic (find-next pics nil)]
+    (pics-chain first-pic pics)))
+
+
+(swap! client-data (fn [clients]
+                     (into {} (for [[n v] clients] [n (update v :pics #(into [] (sorted-pics %)))]))))
+
+
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;! Strip whitespace                                                             ;;;
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+(defn single-pass [string]
+  (let [s1 (.replaceAll string "  " " ")
+        s2 (.replaceAll s1 "\n\n\n" "\n\n")]
+    s2))
+
+(defn strip-excessive-whitespace [text]
+  (let [better (single-pass text)]
+    (if (= text better)
+      text
+      (recur better))))
+
+(defn strip-blurb-whitespace [data]
+  (update data :blurb strip-excessive-whitespace))
+
+(defn strip-all [data]
+  (-> data
+      ;strip-blurb-whitespace
+      (update :pics #(mapv strip-blurb-whitespace %))
+      ;(#(map strip-blurb-whitespace (:pics %)))
+      ;((fn [x] (map strip-blurb-whitespace (:pics x))))
+      ;println
+      )
+
+  ;(-> data
+  ;    strip-blurb-whitespace
+  ;    #(map strip-blurb-whitespace (:pics %)))
+  )
+
+;(def clients-4 (into {} (for [[n v] clients-1] [n (strip-all v)])))
+
+(swap! client-data (fn [clients]
+                     (into {} (for [[n v] clients] [n (strip-all v)]))))
+
+;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;! Common Blurb extraction                                                      ;;;
 ;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
@@ -74,67 +137,18 @@
     (merge data {:blurb safe-common-blurb
                  :pics cut-pics})))
 
-(def clients-2 (into {} (for [[name data] clients-1] [name (extract-common-blurb data)])))
+(swap! client-data (fn [clients]
+                     (into {} (for [[name data] clients] [name (extract-common-blurb data)]))))
+
 ;(spit "./resources/clients_2.edn" (with-out-str (pprint/pprint clients-2)))
 
 ;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
-(defn pic-name [pic] (.replace (:image pic) ".jpg" ""))
-
-(defn find-next [pics current]
-  (first (filter #(= current (:prevpic %)) pics)))
-
-(defn pics-chain [pic pics]
-  (if (nil? (:nextpic pic))
-    [pic]
-    (let [next (find-next pics (pic-name pic))]
-      (concat [pic] (pics-chain next pics)))))
-
-(defn sorted-pics [pics]
-  (let [first-pic (find-next pics nil)]
-    (pics-chain first-pic pics)))
-
-(def clients-3 (into {} (for [[n v] clients-2] [n (update v :pics #(into [] (sorted-pics %)))])))
-
-;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
 
-(defn single-pass [string]
-  (let [s1 (.replaceAll string "  " " ")
-        s2 (.replaceAll s1 "\n\n\n" "\n\n")]
-    s2))
-
-(defn strip-excessive-whitespace [text]
-  (let [better (single-pass text)]
-    (if (= text better)
-      text
-      (recur better))))
-
-(defn strip-blurb-whitespace [data]
-  (update data :blurb strip-excessive-whitespace))
-
-(defn strip-all [data]
-  (-> data
-      strip-blurb-whitespace
-      (update :pics #(mapv strip-blurb-whitespace %))
-      ;(#(map strip-blurb-whitespace (:pics %)))
-      ;((fn [x] (map strip-blurb-whitespace (:pics x))))
-      ;println
-      )
-
-  ;(-> data
-  ;    strip-blurb-whitespace
-  ;    #(map strip-blurb-whitespace (:pics %)))
-  )
-
-(def clients-4 (into {} (for [[n v] clients-3] [n (strip-all v)])))
-
-;;!;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-
-
-(spit "./resources/clients.edn" (with-out-str (pprint/pprint clients-4)))
+(spit "./resources/clients.edn" (with-out-str (pprint/pprint @client-data)))
 
 (println "Done.")
 
