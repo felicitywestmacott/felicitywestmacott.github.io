@@ -92,3 +92,11 @@
           (if (.exists file)
             (println "EXISTS!")
             (println "new file.")))))))
+
+
+
+;;; server - ring? / compojure?
+;;;   list of clients
+
+
+
