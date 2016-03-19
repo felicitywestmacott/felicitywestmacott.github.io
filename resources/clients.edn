@@ -56,7 +56,10 @@
     :prevpic "ennaunder11",
     :blurb
     "<b>\n\nWedding dress for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\" target=\"_blank\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\n In this picture you can really see the shape of the hoop and bum-roll supporting the bustled skirt."}],
-  :blurb ""},
+  :blurb "",
+  :link "ennaunder1.html",
+  :tt "ennaundertt.jpg",
+  :classes ["hist" "under" "firmbone" "full" "laceup"]},
  "felicia"
  {:title "Bespoke dressmaking for felicia",
   :pics
@@ -105,7 +108,34 @@
     :prevpic "felicia8",
     :blurb
     "<b>\nMy Own Wedding dress\n\n</b>\n <br />\n<i> modelled by Felicity Westmacott (nee Parks Young) </i>\n<br />\n <br />\nSome views of the dress as a 'work in progress'. \n <br />\nLeft: The toile or practice run of the bodice shape (back view)\n<br />\nTop right: a view of the inside of the bodice being pinned before sewing\n <br />\nBottom right: a view of the bodice being fitted before the gold lace was added"}],
-  :blurb ""},
+  :blurb "",
+  :link "felicia1.html",
+  :tt "feliciatt.jpg",
+  :classes
+  ["hist"
+   "colour"
+   "spec"
+   "bolero"
+   "bags"
+   "bride"
+   "beading"
+   "cuffs"
+   "buttons"
+   "firmbone"
+   "hoop"
+   "peplum"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "full"
+   "sweet"
+   "water"
+   "long"
+   "gold"
+   "green"
+   "dupion"
+   "lacefab"
+   "silk"]},
  "pearson"
  {:title "Wedding dress for Claire-Michelle",
   :pics
@@ -210,7 +240,29 @@
     :prevpic "pearson22",
     :blurb ""}],
   :blurb
-  "<b>\nWedding dress for Claire-Michelle Pearson\n</b>\n\n<p>\n<b>\nSimilar styles from £2900 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £4550\n<br />Includes £1250 for beading and embellishment\n</i>\n</p>\n\n<p>\nDuchess satin dress with Victorian design inspiration. Boned and waist cinching bodice and full waterfall skirt with hand beading and appliquéd lace.\n\n</p>"},
+  "<b>\nWedding dress for Claire-Michelle Pearson\n</b>\n\n<p>\n<b>\nSimilar styles from £2900 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £4550\n<br />Includes £1250 for beading and embellishment\n</i>\n</p>\n\n<p>\nDuchess satin dress with Victorian design inspiration. Boned and waist cinching bodice and full waterfall skirt with hand beading and appliquéd lace.\n\n</p>",
+  :link "pearson1.html",
+  :tt "pearsontt.jpg",
+  :classes
+  ["trad"
+   "colour"
+   "spec"
+   "bride"
+   "beading"
+   "firmbone"
+   "peplum"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "full"
+   "sweet"
+   "waterfall"
+   "laceup"
+   "ivory"
+   "blue"
+   "satin"
+   "man"
+   "bellish"]},
  "hegedus"
  {:title "Buttons and loops for Emma Cook",
   :pics
@@ -227,7 +279,10 @@
     :nextpic nil,
     :prevpic "hegedus2",
     :blurb ""}],
-  :blurb "<b>\n \nButtons and loops for Emma Cook\n</b>"},
+  :blurb "<b>\n \nButtons and loops for Emma Cook\n</b>",
+  :link "hegedus1.html",
+  :tt "hegedustt.jpg",
+  :classes ["trad" "bride" "restyle" "buttons" "ivory" "silk"]},
  "lizard"
  {:title "Bespoke dressmaking for lizard",
   :pics
@@ -242,7 +297,29 @@
     :blurb
     "exhibition at the Tate Gallery. My costume is the green one with the white face, centre back. I am also modelling a costume made by another student, middle right with the black face mask and red wig.\n\nMy costume was based on 'a lizard shedding it's skin'. Other people created designs based on lions, butterflies, birds, among others and inspired by the landscape of Venice, Carmen Miranda or New Orleans costumes."}],
   :blurb
-  "<b>\nCostume For the Tate Britain Gallery\n</b>\n <br />\n<i> modelled by Melanie Hemmings</i>\n<br />\n <br />\nWhile at University we were commissioned to design and create Venetian-style Carnival costumes for a walking "},
+  "<b>\nCostume For the Tate Britain Gallery\n</b>\n <br />\n<i> modelled by Melanie Hemmings</i>\n<br />\n <br />\nWhile at University we were commissioned to design and create Venetian-style Carnival costumes for a walking ",
+  :link "lizard1.html",
+  :tt "lizardtt.jpg",
+  :classes
+  ["hist"
+   "spec"
+   "theatre"
+   "beading"
+   "layers"
+   "hoop"
+   "wing"
+   "floor"
+   "two"
+   "quarter"
+   "full"
+   "split"
+   "chapel"
+   "square"
+   "gold"
+   "green"
+   "pink"
+   "chiffon"
+   "silk"]},
  "andrina"
  {:title "Bespoke dressmaking for andrina",
   :pics
@@ -256,7 +333,11 @@
     :prevpic "andrina1",
     :blurb
     "<b>\nChildrens bow ties for Andrina's pageboys\n</b>\n <br />\n<i> modelled by clients </i>\n<br />\n <br />\nAndrina ordered a two tiny bow ties made from the same striking blue silk as her own dress.\n <br />\nThe bow ties were pretied on resizable neckbands. \n<br />\n <br />\n<b>\nGuide Prices: \nBow ties £32 each</b>\n<br />\n<i>\nBasic making (1 hours) £22 \n<br />\nMaterials as shown £10 </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "andrina1.html",
+  :tt "andrinatt.jpg",
+  :classes
+  ["trad" "colour" "men" "buttons" "vneck" "blue" "dupion" "silk"]},
  "sophie"
  {:title "Wedding dress for Sophie",
   :pics
@@ -329,7 +410,31 @@
     :blurb
     "<hr />A hidden inner bodice laced closed to provide support and security to Sophie's figure."}],
   :blurb
-  "<b>\nWedding dress for Sophie\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £1750\n</i>\n</p>\n\n<p>\nA classically beautiful dress in ivory silk dupion, layered tulle and subtle silk georgette.\n\n</p>\n\n"},
+  "<b>\nWedding dress for Sophie\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £1750\n</i>\n</p>\n\n<p>\nA classically beautiful dress in ivory silk dupion, layered tulle and subtle silk georgette.\n\n</p>\n\n",
+  :link "sophie1.html",
+  :tt "sophiett.jpg",
+  :classes
+  ["trad"
+   "vint"
+   "bride"
+   "buttons"
+   "layers"
+   "firmbone"
+   "sash"
+   "ruched"
+   "train"
+   "wstraps"
+   "floor"
+   "sweet"
+   "vneck"
+   "aline"
+   "long"
+   "ivory"
+   "chiffon"
+   "tulle"
+   "dupion"
+   "silk"
+   "man"]},
  "candler"
  {:title "Wedding Dress for Rebecca",
   :pics
@@ -412,7 +517,20 @@
     :blurb
     "<hr />\n\n<p>A final fitting picture showing the wonderful net petticoat (and gorgeous bridesmaid).</p>"}],
   :blurb
-  "<p>A beautiful 1950's style wedding dress with delicate cream lace over Autumnal golden-orange silk.</p>\n\n"},
+  "<p>A beautiful 1950's style wedding dress with delicate cream lace over Autumnal golden-orange silk.</p>\n\n",
+  :link "candler1.html",
+  :tt "candlertt.jpg",
+  :classes
+  ["vint"
+   "bride"
+   "buttons"
+   "sash"
+   "peplum"
+   "halter"
+   "vneck"
+   "dupion"
+   "silk"
+   "lace"]},
  "doani"
  {:title "Wedding dress for Thalia Doani",
   :pics
@@ -456,7 +574,27 @@
     :prevpic "doani7",
     :blurb
     "<b>\nWedding dress for Thalia Doani\n</b>\n <br />\n<i> Pictures from first toile fitting </i>\n\n <br />\n <br />\n<b>What is a toile?</b>\n<br />\nAfter I take your measurements I draft a flat paper pattern for your dress. The pattern is then cut out in a cheap fabric (usually calico) and sewn together for a fitting. Any adjustments needed are pinned on and copied over to the paper pattern ready to be used on the real fabric. The toile stage saves expensive mistakes with your real materials and means you can check the fit and style are perfect in time for a complete change of mind if need be!"}],
-  :blurb ""},
+  :blurb "",
+  :link "doani1.html",
+  :tt "doanitt.jpg",
+  :classes
+  ["trad"
+   "hist"
+   "simp"
+   "bride"
+   "zip"
+   "nobone"
+   "princess"
+   "floor"
+   "sweet"
+   "aline"
+   "medieval"
+   "chapel"
+   "long"
+   "ivory"
+   "chiffon"
+   "satin"
+   "silk"]},
  "tyler"
  {:title "Wedding dress for Vicki Tyler",
   :pics
@@ -590,7 +728,30 @@
     :blurb
     "\n\n<p> <i> Official photographs by <a href=\"http://www.imagesstudio.co.uk/\" target=\"_blank\"> Vivien Woods </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Vicki Tyler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2260\n </i>\n</p>\n\n<p>\n Vicki commissioned a dress in ivory soft satin and Georgette with a cowl back and hand appliquéd lace.\n</p>"},
+  "<b>\nWedding dress for Vicki Tyler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2260\n </i>\n</p>\n\n<p>\n Vicki commissioned a dress in ivory soft satin and Georgette with a cowl back and hand appliquéd lace.\n</p>",
+  :link "tyler1.html",
+  :tt "tylertt.jpg",
+  :classes
+  ["cont"
+   "vint"
+   "bride"
+   "cowl"
+   "zip"
+   "layers"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "flow"
+   "sweet"
+   "empire"
+   "lightbone"
+   "split"
+   "lowback"
+   "ivory"
+   "chiffon"
+   "satin"
+   "lacefab"
+   "silk"]},
  "white"
  {:title "Wedding bolero for Emma White",
   :pics
@@ -624,7 +785,18 @@
     "\n\n<hr /> \n\nThe 'sneaky' picture taken by a friend that Emma sent me just a few days after she was married."}
    {:image "white7.jpg", :nextpic nil, :prevpic "white6", :blurb ""}],
   :blurb
-  "<b>\nWedding bolero for Emma White\n</b>\n\n<p>\n<b>\nSimilar styles from £150 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £270\n</i>\n</p>\n\n<p>\nEmma bought her dress from a high street bridal shop but came to me for a bespoke bolero to compliment and complete the ensemble.\n\n</p>"},
+  "<b>\nWedding bolero for Emma White\n</b>\n\n<p>\n<b>\nSimilar styles from £150 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £270\n</i>\n</p>\n\n<p>\nEmma bought her dress from a high street bridal shop but came to me for a bespoke bolero to compliment and complete the ensemble.\n\n</p>",
+  :link "white1.html",
+  :tt "whitett.jpg",
+  :classes
+  ["trad"
+   "bolero"
+   "bride"
+   "restyle"
+   "quarter"
+   "ivory"
+   "silver"
+   "lacefab"]},
  "ingram"
  {:title "Bridesmaid dresses for Victoria",
   :pics
@@ -676,7 +848,10 @@
     :blurb
     "\n\n<hr />\n\n<p>Worn without the under petticoat, the dress still looks very pretty, just less poofy!/p>"}],
   :blurb
-  "<p>Pretty dresses in ice blue silk dupion with ivory sashes. The boned bodices have sweetheart necklines with a 'ballet pinch'. The knee length skirts are cut full and hang over layers of netting. </p>"},
+  "<p>Pretty dresses in ice blue silk dupion with ivory sashes. The boned bodices have sweetheart necklines with a 'ballet pinch'. The knee length skirts are cut full and hang over layers of netting. </p>",
+  :link "ingram1.html",
+  :tt "ingramtt.jpg",
+  :classes ["bmaid" "princess" "midi" "blue" "silk" "dupion" "sash"]},
  "reeta"
  {:title "Wedding Dress for Reeta",
   :pics
@@ -795,7 +970,33 @@
     :blurb
     "<hr /> \n\n<p>\nPictures from the final fitting in the finished dress.\n<br/>\nThe back of the dress lace plunge and the train held on the wrist loop with the little 'something blue' peeking out.\n\n</p>"}],
   :blurb
-  "<b>\nWedding dress for Reeta \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2500\n </i>\n</p>\n\n<p>\n Reeta commissioned a plunge back dress in buttermilk silk satin and ivory lace. \n</p>\n\n"},
+  "<b>\nWedding dress for Reeta \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2500\n </i>\n</p>\n\n<p>\n Reeta commissioned a plunge back dress in buttermilk silk satin and ivory lace. \n</p>\n\n",
+  :link "reeta1.html",
+  :tt "reetatt.jpg",
+  :classes
+  ["spar"
+   "cont"
+   "vint"
+   "spec"
+   "bride"
+   "beading"
+   "zip"
+   "layers"
+   "wstraps"
+   "floor"
+   "sweet"
+   "empire"
+   "fish"
+   "lightbone"
+   "lowback"
+   "chapel"
+   "square"
+   "cream"
+   "ivory"
+   "satin"
+   "lacefab"
+   "silk"
+   "bellish"]},
  "kosterbmaid"
  {:title "Bridesmaids for Alison Koster",
   :pics
@@ -839,7 +1040,26 @@
     :prevpic "kosterbmaid7",
     :blurb
     "<b>\nBridesmaids dresses for Alison Koster\n</b>\n <br />\n<i> Dress modelled by Sophie </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "kosterbmaid1.html",
+  :tt "kosterbmaidtt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "bmaid"
+   "midi"
+   "zip"
+   "asym"
+   "princess"
+   "pencil"
+   "full"
+   "nostraps"
+   "lightbone"
+   "short"
+   "square"
+   "blue"
+   "dupion"
+   "silk"]},
  "jones"
  {:title "Wedding dress for Kelly Jones",
   :pics
@@ -917,7 +1137,29 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.greekweddingphotos.com/\" target=\"_blank\"> Nick and sla Karvounis </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Kelly Jones \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n \nSimple and elegant dress layered antique-silver lace over ivory silk dupion.\n</p>\n\n"},
+  "<b>\nWedding dress for Kelly Jones \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n \nSimple and elegant dress layered antique-silver lace over ivory silk dupion.\n</p>\n\n",
+  :link "jones1.html",
+  :tt "jonestt.jpg",
+  :classes
+  ["cont"
+   "bride"
+   "beading"
+   "zip"
+   "buttons"
+   "notrain"
+   "sweet"
+   "laceup"
+   "empire"
+   "nostraps"
+   "aline"
+   "lightbone"
+   "straight"
+   "ivory"
+   "silver"
+   "dupion"
+   "lacefab"
+   "silk"
+   "bellish"]},
  "allen"
  {:title "Wedding Dress for Liz",
   :pics
@@ -996,7 +1238,11 @@
     :prevpic "allen15",
     :blurb ""}],
   :blurb
-  "<p>Made in teal shot silk Liz's dress has a boned bodice with ruching to the hip and a wide off the shoulder neckline. The skirt falls in graduated tiers of waterfall frills. Hand appliqué of teal lace adds sparkle and texture to the neckline and skirt.</p>"},
+  "<p>Made in teal shot silk Liz's dress has a boned bodice with ruching to the hip and a wide off the shoulder neckline. The skirt falls in graduated tiers of waterfall frills. Hand appliqué of teal lace adds sparkle and texture to the neckline and skirt.</p>",
+  :link "allen1.html",
+  :tt "allentt.jpg",
+  :classes
+  ["bride" "zip" "offshoulder" "aline" "blue" "waterfall" "ruching"]},
  "ennabmaid"
  {:title "Bridesmaids for Eleanor Parks Young",
   :pics
@@ -1040,7 +1286,28 @@
     :prevpic "ennabmaid11",
     :blurb
     "<b>\nFlower girl and page boy, wedding dress and menswear for <br />Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\" target=\"_blank\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\n Eleanor's flower girl and page boy outfits were also made to order <a href=\"portfolio/ennakids1.html\">click here</a> to see more pictures \n of Abigail and Barnaby.\n <br />\n <br />\n For Eleanor's own stunning period inspired wedding dress <a href=\"portfolio/enna1.html\">click here</a>\n and her groom's coat <a href=\"portfolio/ennamen1.html\">click here</a>."}],
-  :blurb ""},
+  :blurb "",
+  :link "ennabmaid1.html",
+  :tt "ennabmaidtt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "bmaid"
+   "midi"
+   "zip"
+   "offshould"
+   "sash"
+   "wstraps"
+   "empire"
+   "aline"
+   "lightbone"
+   "square"
+   "gold"
+   "white"
+   "ivory"
+   "pink"
+   "dupion"
+   "silk"]},
  "ivens"
  {:title "Bridesmaid dress for Rachel Ivens",
   :pics
@@ -1061,7 +1328,10 @@
     "\n\n<hr />\n\n<p>Detail showing the tiny silver glass beads used to decorate the bodice</p>"}
    {:image "ivens4.jpg", :nextpic nil, :prevpic "ivens3", :blurb ""}],
   :blurb
-  "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>"},
+  "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>",
+  :link "ivens1.html",
+  :tt "ivenstt.jpg",
+  :classes ["kids" "bmaid" "embellish" "ivory" "silk"]},
  "cookbmaid"
  {:title "Bridesmaid dresses and men's accessories for Marie Cook",
   :pics
@@ -1105,7 +1375,28 @@
     :prevpic "cookbmaid7",
     :blurb
     "<b>\nBridesmaids for Marie Cook\n</b>\n <br />\n<i>Vicky wears her silver silk chiffon stole</i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "cookbmaid1.html",
+  :tt "cookbmaidtt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "prom"
+   "bmaid"
+   "men"
+   "midi"
+   "zip"
+   "offshould"
+   "princess"
+   "pencil"
+   "round"
+   "fish"
+   "lightbone"
+   "turq"
+   "green"
+   "blue"
+   "dupion"
+   "silk"]},
  "alison"
  {:title "Bespoke dressmaking for alison",
   :pics
@@ -1158,7 +1449,29 @@
     :nextpic nil,
     :prevpic "alison9",
     :blurb ""}],
-  :blurb "<b>\nWedding dress for Alison Cowell\n</b>"},
+  :blurb "<b>\nWedding dress for Alison Cowell\n</b>",
+  :link "alison1.html",
+  :tt "alisontt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "bride"
+   "zip"
+   "layers"
+   "offshould"
+   "ruched"
+   "princess"
+   "floor"
+   "flow"
+   "empire"
+   "aline"
+   "lightbone"
+   "chapel"
+   "long"
+   "ivory"
+   "tulle"
+   "satin"
+   "silk"]},
  "leah"
  {:title "Wedding dress for Leah Gauthier",
   :pics
@@ -1180,7 +1493,28 @@
     :nextpic nil,
     :prevpic "leah3",
     :blurb "<i>Modelled by client</i>"}],
-  :blurb "<b>\nWedding dress for Leah Gauthier\n</b>\n <br />\n"},
+  :blurb "<b>\nWedding dress for Leah Gauthier\n</b>\n <br />\n",
+  :link "leah1.html",
+  :tt "leahtt.jpg",
+  :classes
+  ["colour"
+   "cont"
+   "simp"
+   "bride"
+   "zip"
+   "sash"
+   "nobone"
+   "ruched"
+   "notrain"
+   "wstraps"
+   "floor"
+   "flow"
+   "round"
+   "empire"
+   "vneck"
+   "brown"
+   "chiffon"
+   "silk"]},
  "toulmin"
  {:title "Bridesmaids dresses for Lisa Toulmin",
   :pics
@@ -1244,7 +1578,23 @@
     :prevpic "toulmin11",
     :blurb
     "<b>\nBridesmaids dresses for Lisa Toulmin\n</b>\n <br />\n<i> Dresses modelled by Georgia and Katie </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "toulmin1.html",
+  :tt "toulmintt.jpg",
+  :classes
+  ["simp"
+   "bmaid"
+   "midi"
+   "zip"
+   "offshould"
+   "sash"
+   "ruched"
+   "wstraps"
+   "full"
+   "lightbone"
+   "blue"
+   "dupion"
+   "silk"]},
  "weedon"
  {:title "Bespoke dressmaking for weedon",
   :pics
@@ -1267,7 +1617,34 @@
     :prevpic "weedon3",
     :blurb
     "<i> Orignal design sketches, with option for skirt with box pleated front</i>"}],
-  :blurb "<b>\nAscot Outfit for Amanda Weedon\n</b>\n <br />\n"},
+  :blurb "<b>\nAscot Outfit for Amanda Weedon\n</b>\n <br />\n",
+  :link "weedon1.html",
+  :tt "weedontt.jpg",
+  :classes
+  ["prom"
+   "mother"
+   "bolero"
+   "midi"
+   "zip"
+   "nobone"
+   "princess"
+   "wstraps"
+   "full"
+   "cap"
+   "empire"
+   "vneck"
+   "aline"
+   "straight"
+   "long"
+   "collar"
+   "square"
+   "cream"
+   "ivory"
+   "brown"
+   "pink"
+   "dupion"
+   "satin"
+   "silk"]},
  "irene"
  {:title "Dress and Coat for Irene Lester",
   :pics
@@ -1311,7 +1688,36 @@
     :prevpic "irene6",
     :blurb
     "<b>\nMen's Accessories for Irene Lester\n</b>\n <br />\nIrene also had accessories made in matching fabrics for her husband and various members of the bridal\nparty. For more pictures and prices <a href=\"portfolio/irenemen1.html\"> click here</a>"}],
-  :blurb ""},
+  :blurb "",
+  :link "irene1.html",
+  :tt "irenett.jpg",
+  :classes
+  ["colour"
+   "cont"
+   "spec"
+   "mother"
+   "bolero"
+   "beading"
+   "cuffs"
+   "zip"
+   "ruched"
+   "notrain"
+   "princess"
+   "wstraps"
+   "floor"
+   "quarter"
+   "vneck"
+   "aline"
+   "lightbone"
+   "straight"
+   "collar"
+   "gold"
+   "brown"
+   "blue"
+   "chiffon"
+   "dupion"
+   "swar"
+   "silk"]},
  "simpson"
  {:title "Wedding dress for Amy Simpson",
   :pics
@@ -1474,7 +1880,32 @@
     :prevpic "simpson31",
     :blurb
     "\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://mementopictures.net/\" target=\"_blank\"> Nathan Horner</a>\n</i>\n<br />\n<br />\nMore lovely details of Amy's wedding, mini camper-vans, knitted cakes, paper flowers and converse for the boys"}],
-  :blurb "<b>\nWedding dress for Amy Simpson\n</b>"},
+  :blurb "<b>\nWedding dress for Amy Simpson\n</b>",
+  :link "simpson1.html",
+  :tt "simpsontt.jpg",
+  :classes
+  ["trad"
+   "vint"
+   "bride"
+   "midi"
+   "buttons"
+   "layers"
+   "firmbone"
+   "sash"
+   "ruched"
+   "notrain"
+   "wstraps"
+   "full"
+   "square"
+   "ivory"
+   "silver"
+   "tulle"
+   "satin"
+   "lacefab"
+   "swar"
+   "silk"
+   "man"
+   "bellish"]},
  "katiemen"
  {:title "Cravat and hankies for Katie Darvall",
   :pics
@@ -1489,7 +1920,10 @@
     :blurb
     "<br />\nKatie wrote: <i>\n\nI had so many compliments on the day itself and am still getting them now\nwhen people see the photos- I would highly recommend using Felicity's\nservices to anyone who is getting married.... Many thanks, Katie.\n</i>"}],
   :blurb
-  "﻿ \n<b>\nCravat and hankie for Katie Darvall \n</b>\n <br />\n<i>Official Wedding pictures by <a href=\"http://www.katebellinger-photography.co.uk/l\" target=\"_blank\"> Kate Bellinger</a></i>\n<br />\n"},
+  "﻿ \n<b>\nCravat and hankie for Katie Darvall \n</b>\n <br />\n<i>Official Wedding pictures by <a href=\"http://www.katebellinger-photography.co.uk/l\" target=\"_blank\"> Kate Bellinger</a></i>\n<br />\n",
+  :link "katiemen1.html",
+  :tt "katiementt.jpg",
+  :classes ["men" "turq" "green" "dupion" "silk"]},
  "martinez"
  {:title "Wedding dress for Faye",
   :pics
@@ -1618,7 +2052,31 @@
     :prevpic "martinez27",
     :blurb
     "<b>\nWedding dress and fascinator for Faye Martinez\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\" target=\"_blank\"> Allan Breeze</a>\n</i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "martinez1.html",
+  :tt "martineztt.jpg",
+  :classes
+  ["colour"
+   "spec"
+   "veil"
+   "bride"
+   "layers"
+   "firmbone"
+   "sash"
+   "floor"
+   "two"
+   "cathedral"
+   "sweet"
+   "laceup"
+   "nostraps"
+   "aline"
+   "water"
+   "red"
+   "black"
+   "tulle"
+   "satin"
+   "swar"
+   "man"]},
  "fabia"
  {:title "Bespoke dressmaking for fabia",
   :pics
@@ -1712,7 +2170,30 @@
     :prevpic "jenna13",
     :blurb
     "<i>\nOfficial Wedding pictures by <a href=\"http://www.aniaroth.com/\" target=\"_blank\"> Ania Roth</a>\n</i>\n<br />\n <br />\nA hidden 'something blue'."}],
-  :blurb "<b>\nWedding dress for Jenna Barker\n</b>\n<br />\n"},
+  :blurb "<b>\nWedding dress for Jenna Barker\n</b>\n<br />\n",
+  :link "jenna1.html",
+  :tt "jennatt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "bride"
+   "zip"
+   "buttons"
+   "sash"
+   "wstraps"
+   "floor"
+   "round"
+   "cap"
+   "aline"
+   "lightbone"
+   "chapel"
+   "collar"
+   "square"
+   "ivory"
+   "silver"
+   "chiffon"
+   "lacefab"
+   "man"]},
  "waterhouse"
  {:title "Silk and Lace Wedding dress for Sarah-Louise",
   :pics
@@ -1748,7 +2229,27 @@
     :prevpic "waterhouse6",
     :blurb "\n\n<hr/>\n\n<p>\n Silk flows so well...\n</p>"}],
   :blurb
-  "<p>\n Ruched silk georgette dress with gentle fishtail flare. Lace over-bodice with scalloped edging and button back.\n <br/>\n <br/>\n Similar styles from £1850, as shown £2400\n</p>\n\n<p>\n Photography by <a href=\"https://www.flickr.com/photos/sebastiangonearchi/\">Sebastian Lomas</a>\n</p>"},
+  "<p>\n Ruched silk georgette dress with gentle fishtail flare. Lace over-bodice with scalloped edging and button back.\n <br/>\n <br/>\n Similar styles from £1850, as shown £2400\n</p>\n\n<p>\n Photography by <a href=\"https://www.flickr.com/photos/sebastiangonearchi/\">Sebastian Lomas</a>\n</p>",
+  :link "waterhouse1.html",
+  :tt "waterhousett.jpg",
+  :classes
+  ["cont"
+   "trad"
+   "bride"
+   "nostraps"
+   "sweet"
+   "cap"
+   "zip"
+   "buttons"
+   "firmbone"
+   "fish"
+   "floor"
+   "chapel"
+   "ruched"
+   "ivory"
+   "silk"
+   "chiffon"
+   "lacefab"]},
  "ailsa"
  {:title "Wedding dress for Ailsa",
   :pics
@@ -1867,7 +2368,27 @@
     :blurb
     "<hr /> \n\n<p>\n<i>\nAll finished, steamed and hanging up ready to be collected\n\n</i>\n \n</p>"}],
   :blurb
-  "<b>\nWedding dress and veil for Ailsa \n</b>\n\n<p>\n <b>\n Similar styles from £1900\n </b>\n <br />\n <i>\n With materials and detailing as shown £2400\n </i>\n</p>\n\n<p>\n Ailsa commissioned a dress in blue silk satin designed to flatter her petite figure. \n</p>\n\n"},
+  "<b>\nWedding dress and veil for Ailsa \n</b>\n\n<p>\n <b>\n Similar styles from £1900\n </b>\n <br />\n <i>\n With materials and detailing as shown £2400\n </i>\n</p>\n\n<p>\n Ailsa commissioned a dress in blue silk satin designed to flatter her petite figure. \n</p>\n\n",
+  :link "ailsa1.html",
+  :tt "ailsatt.jpg",
+  :classes
+  ["colour"
+   "cont"
+   "simp"
+   "bride"
+   "firmbone"
+   "ruched"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "flow"
+   "sweet"
+   "laceup"
+   "aline"
+   "straight"
+   "blue"
+   "satin"
+   "silk"]},
  "Huggett"
  {:title "Wedding dress for Barbara",
   :pics
@@ -1930,7 +2451,20 @@
     :blurb
     "<hr />\n\n<p>Final fitting pictures showing the detachable train spread out and the lace peplum that is revealed when it is removed.</p>"}],
   :blurb
-  "<p>Edwardian inspired dress made from duchess satin and beaded Guipure lace. The dress is trimmed with gathered lace flounces and groups of pink flowers. Made in three pieces the lace over bodice has long sleeves and a high collar. The train attached with poppas and was trimmed with matching lace flounces. </p>\n\n"},
+  "<p>Edwardian inspired dress made from duchess satin and beaded Guipure lace. The dress is trimmed with gathered lace flounces and groups of pink flowers. Made in three pieces the lace over bodice has long sleeves and a high collar. The train attached with poppas and was trimmed with matching lace flounces. </p>\n\n",
+  :link "Huggett1.html",
+  :tt "Huggetttt.jpg",
+  :classes
+  ["bride"
+   "high"
+   "princess"
+   "floor"
+   "striaght"
+   "ivory"
+   "satin"
+   "man"
+   "lace"
+   "long"]},
  "joseph"
  {:title "Wedding Dress for Harriet",
   :pics
@@ -2014,7 +2548,19 @@
     :prevpic "joseph15",
     :blurb
     "<p>A boned bodice with sweetheart neckline covered with delicate French Chantilly lace . The lace layer has a boat neckline and elbow length sleeves. The a-line skirt is layered satin and silk organza with a small train and slate grey silk-satin sash.</p>\n\n<hr />\n\n<p> The dress came with a wrist loop so the train can be picked up and carried away from the dust when that is helpful. A hidden 'something blue' was sewn on to peek out when the train is lifted up.</p>"}],
-  :blurb ""},
+  :blurb "",
+  :link "joseph1.html",
+  :tt "josephtt.jpg",
+  :classes
+  ["trad"
+   "bride"
+   "buttons"
+   "zip"
+   "layers"
+   "sash"
+   "sweet"
+   "aline"
+   "ivory"]},
  "irenemen"
  {:title "Men's accessories for Irene Lester",
   :pics
@@ -2038,7 +2584,11 @@
     :prevpic "irenemen3",
     :blurb
     "<b>\nDress and coat for Irene Lester\n</b>\n <br />\nIrene's dress and coat were very splendid, for more pictures and prices <a href=\"portfolio/irene1.html\"> click here</a>"}],
-  :blurb ""},
+  :blurb "",
+  :link "irenemen1.html",
+  :tt "irenementt.jpg",
+  :classes
+  ["men" "gold" "green" "brown" "blue" "chiffon" "dupion" "silk"]},
  "mostert"
  {:title "Lace and satin wedding dress for Karen Mostert",
   :pics
@@ -2135,7 +2685,30 @@
     :prevpic "mostert19",
     :blurb ""}],
   :blurb
-  "<b>\nWedding dress for Karen Mostert\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1700\n </i>\n</p>\n\n<p>\nKaren commissioned a beautiful dress in layers of ivory lace and satin. \n</p>"},
+  "<b>\nWedding dress for Karen Mostert\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1700\n </i>\n</p>\n\n<p>\nKaren commissioned a beautiful dress in layers of ivory lace and satin. \n</p>",
+  :link "mostert1.html",
+  :tt "mosterttt.jpg",
+  :classes
+  ["vint"
+   "bride"
+   "zip"
+   "sash"
+   "ruched"
+   "wstraps"
+   "floor"
+   "sweet"
+   "cap"
+   "empire"
+   "fish"
+   "lightbone"
+   "lowback"
+   "chapel"
+   "cream"
+   "ivory"
+   "satin"
+   "lacefab"
+   "embroid"
+   "man"]},
  "mcsweeny"
  {:title "Party dress for Sam McSweeney",
   :pics
@@ -2161,7 +2734,25 @@
     :prevpic "mcsweeny4",
     :blurb
     "<i>Detail of the ruching with Swarovski crystal highlights</i>"}],
-  :blurb "<b>\nParty dress for Samantha McSweeney \n</b>\n<br />\n"},
+  :blurb "<b>\nParty dress for Samantha McSweeney \n</b>\n<br />\n",
+  :link "mcsweeny1.html",
+  :tt "mcsweenytt.jpg",
+  :classes
+  ["cont"
+   "prom"
+   "beading"
+   "zip"
+   "ruched"
+   "pencil"
+   "sweet"
+   "nostraps"
+   "lightbone"
+   "straight"
+   "short"
+   "gold"
+   "dupion"
+   "swar"
+   "silk"]},
  "sdarval"
  {:title "Wedding dress for Suzanne Darvall",
   :pics
@@ -2240,7 +2831,37 @@
     :prevpic "sdarval14",
     :blurb
     "<b>\nWedding dress for Suzanne Darvall\n</b>\n <br />\n<i> modelled by client </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "sdarval1.html",
+  :tt "sdarvaltt.jpg",
+  :classes
+  ["inform"
+   "colour"
+   "cont"
+   "prom"
+   "mother"
+   "bolero"
+   "bride"
+   "tiara"
+   "beading"
+   "cuffs"
+   "midi"
+   "zip"
+   "ruched"
+   "wstraps"
+   "sweet"
+   "aline"
+   "lightbone"
+   "split"
+   "long"
+   "green"
+   "brown"
+   "pink"
+   "chiffon"
+   "taffeta"
+   "swar"
+   "man"
+   "bellish"]},
  "kingbmaids"
  {:title "Bridesmaids for Elsa kingbmaids",
   :pics
@@ -2274,7 +2895,26 @@
     :prevpic "kingbmaids5",
     :blurb
     "<i>\nOfficial Wedding pictures by <a href=\"http://www.chrislegg.net\" target=\"_blank\"> Chris Legg</a>\n</i>"}],
-  :blurb "<b>\nBridesmaids for Elsa King\n</b>\n<br />\n"},
+  :blurb "<b>\nBridesmaids for Elsa King\n</b>\n<br />\n",
+  :link "kingbmaids1.html",
+  :tt "kingbmaidstt.jpg",
+  :classes
+  ["cont"
+   "bolero"
+   "bmaid"
+   "restyle"
+   "floor"
+   "halter"
+   "cap"
+   "empire"
+   "aline"
+   "lightbone"
+   "straight"
+   "square"
+   "purple"
+   "chiffon"
+   "satin"
+   "silk"]},
  "toulminkid"
  {:title "Flowergirl dress for Lisa Toulmin",
   :pics
@@ -2298,7 +2938,11 @@
     :prevpic "toulminkid3",
     :blurb
     "<b>\nBridesmaids for Lisa Toulmin\n</b>\n <br />\n<i>Modelled by Katie and Georgia</i>\n<br />\n<br />\nLisa's grown-up bridesmaids also had bespoke silk dresses made\n<br />\nTo see more pictures of the grown-up's dresses and guide prices <a href=\"portfolio/toulmin1.html\"> click here</a>"}],
-  :blurb ""},
+  :blurb "",
+  :link "toulminkid1.html",
+  :tt "toulminkidtt.jpg",
+  :classes
+  ["kids" "bmaid" "sash" "ivory" "blue" "chiffon" "dupion" "silk"]},
  "gaines"
  {:title "Wedding dress for Sara Gaines",
   :pics
@@ -2395,7 +3039,28 @@
     :blurb
     "\n\n<p> <i> Official photographs by <a href=\"http://www.andygaines.com/\" target=\"_blank\"> Andy Gaines </a> </i></p><hr /> \n\nSara with her lovely bridesmaids who's gunmetal grey dresses were also hand made (though not\nby me). Sara did however buy the silk dupion that they are made from through me, choosing\nfrom the 100's of fabrics I have in my sample books."}],
   :blurb
-  "<b>\nWedding dress for Sara Gaines\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1700\n </i>\n</p>\n\n<p>\n Sara commissioned a simple and elegant ruched dress in ivory silk dupion.\n</p>"},
+  "<b>\nWedding dress for Sara Gaines\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1700\n </i>\n</p>\n\n<p>\n Sara commissioned a simple and elegant ruched dress in ivory silk dupion.\n</p>",
+  :link "gaines1.html",
+  :tt "gainestt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "bride"
+   "zip"
+   "firmbone"
+   "offshould"
+   "ruched"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "round"
+   "over"
+   "vneck"
+   "aline"
+   "ivory"
+   "dupion"
+   "silk"]},
  "greer"
  {:title "Bridesmaid dress for Lisa Greer",
   :pics
@@ -2429,7 +3094,27 @@
     :prevpic "greer5",
     :blurb
     "<b>\nBridesmaid dress for Lisa Greer\n</b>\n<br />\nLisa and her daughter at the wedding."}],
-  :blurb ""},
+  :blurb "",
+  :link "greer1.html",
+  :tt "greertt.jpg",
+  :classes
+  ["cont"
+   "prom"
+   "bmaid"
+   "midi"
+   "zip"
+   "nobone"
+   "ruched"
+   "wstraps"
+   "over"
+   "empire"
+   "vneck"
+   "aline"
+   "water"
+   "turq"
+   "blue"
+   "taffeta"
+   "silk"]},
  "amanda"
  {:title "Bespoke dressmaking for amanda",
   :pics
@@ -2472,7 +3157,35 @@
     :prevpic "amanda7",
     :blurb
     "<i> modelled by client</i>\n<br />\n <br />\nAmanda's final fitting, back of dress and train"}],
-  :blurb "<b>\nWedding dress for Amanda Weedon\n</b>\n <br />\n"},
+  :blurb "<b>\nWedding dress for Amanda Weedon\n</b>\n <br />\n",
+  :link "amanda1.html",
+  :tt "amandatt.jpg",
+  :classes
+  ["hist"
+   "colour"
+   "vint"
+   "bride"
+   "zip"
+   "offshould"
+   "puffed"
+   "wstraps"
+   "floor"
+   "flow"
+   "empire"
+   "aline"
+   "bias"
+   "lightbone"
+   "chapel"
+   "square"
+   "gold"
+   "cream"
+   "ivory"
+   "brown"
+   "tulle"
+   "lacefab"
+   "embroid"
+   "silk"
+   "bellish"]},
  "harris"
  {:title "Wedding Dress for Isabella",
   :pics
@@ -2551,7 +3264,10 @@
     :prevpic "harris14",
     :blurb
     "<p>Caffe-latte coloured silk and black lace wedding dress. Very tight laced corset beneath ruched fishtail dress, button back and hand appliqué work.</p>\n\n<hr />\n<p>\nThree pictures from the making process, on the left, the 'toile' or practice run in cheap fabrics. The right is an intermediate fitting, with the black lining layers not yet covered with the ruched silk. In the centre Issey is at her second to last fitting with just the hem and black lace embellishment to finish. She was choosing, as well, between short or elbow length sleeves.\n</p>"}],
-  :blurb ""},
+  :blurb "",
+  :link "harris1.html",
+  :tt "harristt.jpg",
+  :classes ["bride" "embelish" "sweet" "fishtail"]},
  "phillips"
  {:title "Veil for Rachel Phillips",
   :pics
@@ -2582,7 +3298,26 @@
     :nextpic nil,
     :prevpic "phillips5",
     :blurb "<b>\nVeil for Rachel Phillips\n</b>"}],
-  :blurb ""},
+  :blurb "",
+  :link "phillips1.html",
+  :tt "phillipstt.jpg",
+  :classes
+  ["trad"
+   "veil"
+   "bride"
+   "buttons"
+   "princess"
+   "floor"
+   "empire"
+   "nostraps"
+   "lightbone"
+   "square"
+   "puddle"
+   "ivory"
+   "tulle"
+   "lacefab"
+   "man"
+   "bellish"]},
  "keely"
  {:title "Wedding dress for Keely Williams",
   :pics
@@ -2704,7 +3439,30 @@
     :blurb
     "\n\n<p> <i> Official photographs by <a href=\"http://www.simonhooleyphotography.co.uk/\" target=\"_blank\"> Simon Hooley </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Keely Williams \n</b>\n\n<p>\n <b>\n Similar styles from £2600\n </b>\n <br />\n <i>\n With materials and detailing as shown £4800\n\t<br/> Including £1400 on silk tulle alone.\n </i>\n</p>\n\n<p>\n Keely commissioned a dress in layered blue and ivory tulle over shot taffeta with ruched detailing and subtle sequin highlights. \n</p>"},
+  "<b>\nWedding dress for Keely Williams \n</b>\n\n<p>\n <b>\n Similar styles from £2600\n </b>\n <br />\n <i>\n With materials and detailing as shown £4800\n\t<br/> Including £1400 on silk tulle alone.\n </i>\n</p>\n\n<p>\n Keely commissioned a dress in layered blue and ivory tulle over shot taffeta with ruched detailing and subtle sequin highlights. \n</p>",
+  :link "keely1.html",
+  :tt "keelytt.jpg",
+  :classes
+  ["colour"
+   "spar"
+   "spec"
+   "bride"
+   "buttons"
+   "puffed"
+   "ruched"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "full"
+   "sweet"
+   "waterfall"
+   "cap"
+   "lightbone"
+   "ivory"
+   "blue"
+   "tulle"
+   "taffeta"
+   "silk"]},
  "crawford"
  {:title "Wedding dress for Tracey Crawford",
   :pics
@@ -2748,7 +3506,41 @@
     :prevpic "crawford7",
     :blurb
     "﻿ \n\n<b>\nWedding dress for Tracey Crawford\n</b>\n <br />\n<i> Offical wedding picture </i>\n<br />\n <br />\nDetail of the bodice: The bodice neckline was finished with ivory ribbon and freshwater pearl embellishment. You can also see the top-stitched boning channels on the velvet. Boned bodices and corsets can be made with boning channels a feature or hidden for a 'smooth' finish."}],
-  :blurb ""},
+  :blurb "",
+  :link "crawford1.html",
+  :tt "crawfordtt.jpg",
+  :classes
+  ["hist"
+   "colour"
+   "spec"
+   "bride"
+   "beading"
+   "dropped"
+   "cuffs"
+   "midi"
+   "layers"
+   "firmbone"
+   "puffed"
+   "notrain"
+   "two"
+   "pencil"
+   "full"
+   "laceup"
+   "fish"
+   "lowback"
+   "long"
+   "collar"
+   "square"
+   "cream"
+   "green"
+   "ivory"
+   "red"
+   "black"
+   "chiffon"
+   "tulle"
+   "velvet"
+   "silk"
+   "bellish"]},
  "mei"
  {:title "Wedding dress and bolero for Michele Mei",
   :pics
@@ -2824,7 +3616,27 @@
     :prevpic "mei18",
     :blurb
     "\n\n<i> Official Wedding pictures by <a href=\"http://tohave-toholdphotography.co.uk/about\" target=\"_blank\"> Simon Mackenzie</a> </i>\n<br />"}],
-  :blurb "<b>\nWedding dress for Michele Mei\n</b>\n<br />"},
+  :blurb "<b>\nWedding dress for Michele Mei\n</b>\n<br />",
+  :link "mei1.html",
+  :tt "meitt.jpg",
+  :classes
+  ["trad"
+   "vint"
+   "bride"
+   "restyle"
+   "zip"
+   "high"
+   "sash"
+   "floor"
+   "round"
+   "aline"
+   "lightbone"
+   "straight"
+   "puddle"
+   "white"
+   "chiffon"
+   "lacefab"
+   "silk"]},
  "caseybmaid"
  {:title "Bridesmaids Dresses for Katherine",
   :pics
@@ -2860,7 +3672,22 @@
     :blurb
     "\n\n<hr/>\n\n<p>\n Both dresses came with a hook up for the skirts,\n so dancing the night away presented no problem at all!\n</p>"}],
   :blurb
-  "<p>\n 1930's style bias cut bridesmaids dresses in soft peppermint satin.\n Criss-cross seaming, cowl necklines and necklace back detail.\n <br/><br/>\n Similar styles from £450 each, with fabric as shown £575\n</p>"},
+  "<p>\n 1930's style bias cut bridesmaids dresses in soft peppermint satin.\n Criss-cross seaming, cowl necklines and necklace back detail.\n <br/><br/>\n Similar styles from £450 each, with fabric as shown £575\n</p>",
+  :link "caseybmaid1.html",
+  :tt "caseybmaidtt.jpg",
+  :classes
+  ["vint"
+   "bmaid"
+   "kids"
+   "wstraps"
+   "cowl"
+   "cap"
+   "lowback"
+   "nobone"
+   "bias"
+   "green"
+   "satin"
+   "man"]},
  "graham"
  {:title "Wedding dress for Charlotte Graham",
   :pics
@@ -2959,7 +3786,31 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://sarahmcdonnell.co.uk//\" target=\"_blank\"> Sarah McDonnell </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Charlotte Graham\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2250\n </i>\n</p>\n\n<p>\n Charlotte commissioned a dress in layered silk satin and Georgette with a dramatic low back filled with beaded lace.\n</p>\n\n"},
+  "<b>\nWedding dress for Charlotte Graham\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With fabrics and detailing as shown £2250\n </i>\n</p>\n\n<p>\n Charlotte commissioned a dress in layered silk satin and Georgette with a dramatic low back filled with beaded lace.\n</p>\n\n",
+  :link "graham1.html",
+  :tt "grahamtt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "veil"
+   "bride"
+   "zip"
+   "layers"
+   "high"
+   "firmbone"
+   "princess"
+   "floor"
+   "sweet"
+   "nostraps"
+   "fish"
+   "lowback"
+   "chapel"
+   "cream"
+   "ivory"
+   "chiffon"
+   "satin"
+   "silk"]},
  "eastonbmaid"
  {:title "Bespoke bridesmaids for Alice Easton",
   :pics
@@ -3003,7 +3854,32 @@
     :prevpic "eastonbmaid7",
     :blurb
     "<br />\n<b>\nBridesmaids Dresses and ties for Alice Easton\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.laurencephotography.com/\" target=\"_blank\"> Laurence Photography</a>\n</i>\n<br />\n<br />\nThe groomsmens' ties were also made bespoke from the same silver\nsatin as the bridesmaids sashes.\n<br /><a href=\"portfolio/eastonmen1.html\"> Click here</a> to see more pictures of the men's ties."}],
-  :blurb "﻿ \n"},
+  :blurb "﻿ \n",
+  :link "eastonbmaid1.html",
+  :tt "eastonbmaidtt.jpg",
+  :classes
+  ["trad"
+   "spar"
+   "cont"
+   "bmaid"
+   "beading"
+   "zip"
+   "sash"
+   "ruched"
+   "princess"
+   "floor"
+   "nostraps"
+   "aline"
+   "lightbone"
+   "straight"
+   "square"
+   "silver"
+   "purple"
+   "dupion"
+   "satin"
+   "swar"
+   "silk"
+   "bellish"]},
  "wildbmaid"
  {:title "Bridesmaids for Lauren Wild",
   :pics
@@ -3078,7 +3954,23 @@
     :blurb
     "<p>\n <i>\n Official photographs by <a href=\"http://www.bumbleandbrown.com/\" target=\"_blank\">Bumble and Brown</a>\n </i>\n</p>"}],
   :blurb
-  "<b>\nBridesmaids dresses for Lauren Wild\n</b>\n\n<p>\n <b>\n Similar styles from £460\n </b>\n <br />\n <i>\n With materials and detailing as shown £630\n </i>\n</p>\n\n<p>\nLauren commissioned four bridesmaids dresses, two in each style, to flatter their different statures and match perfectly with her own dress.\n</p>\n\n"},
+  "<b>\nBridesmaids dresses for Lauren Wild\n</b>\n\n<p>\n <b>\n Similar styles from £460\n </b>\n <br />\n <i>\n With materials and detailing as shown £630\n </i>\n</p>\n\n<p>\nLauren commissioned four bridesmaids dresses, two in each style, to flatter their different statures and match perfectly with her own dress.\n</p>\n\n",
+  :link "wildbmaid1.html",
+  :tt "wildbmaidtt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "bmaid"
+   "cowl"
+   "buttons"
+   "high"
+   "princess"
+   "floor"
+   "aline"
+   "puddle"
+   "ivory"
+   "satin"
+   "man"]},
  "cristina"
  {:title "Wedding dress for Cristina",
   :pics
@@ -3142,7 +4034,26 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Cristina \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n Cristina commissioned a dress in palest pink silk georgette and satin draped to flatter her tiny waist and full bust. \n</p>\n\n"},
+  "<b>\nWedding dress for Cristina \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n Cristina commissioned a dress in palest pink silk georgette and satin draped to flatter her tiny waist and full bust. \n</p>\n\n",
+  :link "cristina1.html",
+  :tt "cristinatt.jpg",
+  :classes
+  ["colour"
+   "simp"
+   "bride"
+   "zip"
+   "ruched"
+   "notrain"
+   "wstraps"
+   "floor"
+   "flow"
+   "round"
+   "waterfall"
+   "lightbone"
+   "pink"
+   "chiffon"
+   "satin"
+   "silk"]},
  "mouatt"
  {:title "Dress and Jacket for Karen Mouatt",
   :pics
@@ -3191,7 +4102,31 @@
     :prevpic "mouatt9",
     :blurb "\n<br />"}],
   :blurb
-  "<b>\nMother of The Bride dress and jacket for Karen Mouatt\n</b>"},
+  "<b>\nMother of The Bride dress and jacket for Karen Mouatt\n</b>",
+  :link "mouatt1.html",
+  :tt "mouatttt.jpg",
+  :classes
+  ["cont"
+   "mother"
+   "bolero"
+   "cowl"
+   "cuffs"
+   "midi"
+   "zip"
+   "puffed"
+   "nobone"
+   "ruched"
+   "peplum"
+   "quarter"
+   "vneck"
+   "fish"
+   "lowback"
+   "brown"
+   "pink"
+   "chiffon"
+   "dupion"
+   "satin"
+   "silk"]},
  "billige"
  {:title "Bridesmaids dresses for Amanda Billige",
   :pics
@@ -3230,7 +4165,27 @@
     :prevpic "billige6",
     :blurb
     "<b>\n \nBridesmaids and cravats for Amanda Billige\n</b>\n <br />\n<i>\nModelled by Clients\n</i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "billige1.html",
+  :tt "billigett.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "vint"
+   "bmaid"
+   "midi"
+   "zip"
+   "princess"
+   "full"
+   "sweet"
+   "nostraps"
+   "aline"
+   "lightbone"
+   "orange"
+   "tulle"
+   "dupion"
+   "silk"]},
  "aineveil"
  {:title "Besopke veil for Aine Elshaw",
   :pics
@@ -3251,7 +4206,10 @@
     :nextpic nil,
     :prevpic "aineveil3",
     :blurb ""}],
-  :blurb "<b>\nWedding dress and veil for Aine Elshaw\n</b>"},
+  :blurb "<b>\nWedding dress and veil for Aine Elshaw\n</b>",
+  :link "aineveil1.html",
+  :tt "aineveiltt.jpg",
+  :classes ["trad" "veil" "white" "tulle"]},
  "rachel"
  {:title "Bridesmaids for Rachel Jones ",
   :pics
@@ -3344,7 +4302,27 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.robertlawler.co.uk\" target=\"_blank\"> Robert Lawler </a> </i></p>"}],
   :blurb
-  "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n"},
+  "<b>\nSpring bridesmaids for Rachel Jones \n</b>\n\n<p>\n <b>\nSimilar styles from...<br />\nChild: from £225, </b> <i>with materials as shown shown £330 </i>\n<br />\n<b>Teen: from £290 </b> <i>with materials as shown £400 </i>\n<br/>\n<b>\nAdults: alteration work from £32/h</b>\n<i>These changes cost £320 per dress with labour and materials </i>\n \n</p>\n\n<p>\nRachel commissioned three silk and tulle dresses for her younger bridesmaids and two shop bought dresses were customised for\nher grown-up attendants. \n</p>\n\n",
+  :link "rachel1.html",
+  :tt "racheltt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "kids"
+   "bmaid"
+   "midi"
+   "zip"
+   "sash"
+   "ruched"
+   "flow"
+   "vneck"
+   "gold"
+   "ivory"
+   "orange"
+   "satin"
+   "lacefab"
+   "silk"
+   "man"]},
  "travis"
  {:title "Wedding dress for Isabelle Travis",
   :pics
@@ -3414,7 +4392,27 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.andyhook.com\" target=\"_blank\"> Andy Hook </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress for Isabelle Travis\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £2400\n<br />Includes £800 budget for the hand appliqué of lace\n</i>\n</p>\n\n<p>\nSimple dress layered in satin and chiffon with hand appliqué lace highlights to sleeves and hem.\n\n</p>\n\n"},
+  "<b>\nWedding dress for Isabelle Travis\n</b>\n\n<p>\n<b>\nSimilar styles from £1600 </b>\n<br />\n<i>\n<br />\nWith materials and detailing as shown £2400\n<br />Includes £800 budget for the hand appliqué of lace\n</i>\n</p>\n\n<p>\nSimple dress layered in satin and chiffon with hand appliqué lace highlights to sleeves and hem.\n\n</p>\n\n",
+  :link "travis1.html",
+  :tt "travistt.jpg",
+  :classes
+  ["trad"
+   "vint"
+   "bride"
+   "cuffs"
+   "zip"
+   "buttons"
+   "notrain"
+   "floor"
+   "flow"
+   "sweet"
+   "empire"
+   "lightbone"
+   "long"
+   "ivory"
+   "chiffon"
+   "satin"
+   "lacefab"]},
  "eastonkids"
  {:title "Child Bridesmaids for Alice Easton",
   :pics
@@ -3473,7 +4471,31 @@
     :prevpic "eastonkids10",
     :blurb
     "<br />\n<b>\nChild Bridesmaids for Alice Easton\n</b>\n <br />\n<i>\nAll finished and ready to go\n</i>\n<br />\n<br />\nThe steamed dresses, each on their own pretty pink padded hanger, await collection ready for the big day.\n<br />"}],
-  :blurb "﻿ \n"},
+  :blurb "﻿ \n",
+  :link "eastonkids1.html",
+  :tt "eastonkidstt.jpg",
+  :classes
+  ["spar"
+   "cont"
+   "spec"
+   "kids"
+   "bmaid"
+   "beading"
+   "zip"
+   "layers"
+   "nobone"
+   "floor"
+   "full"
+   "cap"
+   "vneck"
+   "white"
+   "ivory"
+   "silver"
+   "chiffon"
+   "satin"
+   "swar"
+   "silk"
+   "bellish"]},
  "hood"
  {:title "Bespoke dressmaking for hood",
   :pics
@@ -3500,7 +4522,32 @@
     :nextpic nil,
     :prevpic "hood4",
     :blurb "<i>Original design sketch </i>"}],
-  :blurb "<b>\nWedding dress for Kate Hood\n</b>\n <br />\n"},
+  :blurb "<b>\nWedding dress for Kate Hood\n</b>\n <br />\n",
+  :link "hood1.html",
+  :tt "hoodtt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "vint"
+   "bride"
+   "cowl"
+   "zip"
+   "layers"
+   "wstraps"
+   "wing"
+   "floor"
+   "flow"
+   "sweet"
+   "empire"
+   "aline"
+   "lightbone"
+   "lowback"
+   "chapel"
+   "ivory"
+   "chiffon"
+   "lacefab"
+   "silk"]},
  "koster"
  {:title "Wedding dress for Alison Koster",
   :pics
@@ -3554,7 +4601,25 @@
     :prevpic "koster9",
     :blurb
     "﻿ \n\n<b>\nWedding dress for Alison Koster\n</b>\n <br />\n<i> modelled by client </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "koster1.html",
+  :tt "kostertt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "vint"
+   "bride"
+   "midi"
+   "zip"
+   "firmbone"
+   "offshould"
+   "ruched"
+   "notrain"
+   "wstraps"
+   "full"
+   "ivory"
+   "dupion"
+   "silk"]},
  "aine"
  {:title "Wedding dress for Aine Elshaw",
   :pics
@@ -3605,7 +4670,30 @@
     :nextpic nil,
     :prevpic "aine10",
     :blurb "<b>\nWedding dress and veil for Aine Elshaw\n</b>"}],
-  :blurb ""},
+  :blurb "",
+  :link "aine1.html",
+  :tt "ainett.jpg",
+  :classes
+  ["spar"
+   "cont"
+   "vint"
+   "bride"
+   "beading"
+   "midi"
+   "zip"
+   "firmbone"
+   "wstraps"
+   "full"
+   "vneck"
+   "aline"
+   "square"
+   "white"
+   "taffeta"
+   "lacefab"
+   "embroid"
+   "swar"
+   "man"
+   "bellish"]},
  "carroll"
  {:title "Wedding dress for Madeleine Carroll",
   :pics
@@ -3665,7 +4753,26 @@
     :blurb
     "\n\n<hr /> \n\n<p>\nPicture from the pen-ultimate fitting, all done except the hem length\n</p>"}],
   :blurb
-  "<b>\nWedding dress for Madeleine Carroll\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\nMadeleine commissioned a slim fitting wedding dress in ivory lace over duchess satin. \n</p>"},
+  "<b>\nWedding dress for Madeleine Carroll\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\nMadeleine commissioned a slim fitting wedding dress in ivory lace over duchess satin. \n</p>",
+  :link "carroll1.html",
+  :tt "carrolltt.jpg",
+  :classes
+  ["cont"
+   "simp"
+   "bride"
+   "zip"
+   "buttons"
+   "floor"
+   "cathedral"
+   "round"
+   "nostraps"
+   "fish"
+   "lightbone"
+   "lowback"
+   "ivory"
+   "satin"
+   "lacefab"
+   "man"]},
  "justine"
  {:title "Wedding dress for Justine Lewis",
   :pics
@@ -3709,7 +4816,33 @@
     :prevpic "justine7",
     :blurb
     "<b>\nWedding dress for Justine Lewis\n</b>\n <br />\n<i> Official wedding pictures </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "justine1.html",
+  :tt "justinett.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "bride"
+   "zip"
+   "ruched"
+   "princess"
+   "wstraps"
+   "wing"
+   "floor"
+   "sweet"
+   "over"
+   "vneck"
+   "fish"
+   "lightbone"
+   "lowback"
+   "chapel"
+   "white"
+   "ivory"
+   "chiffon"
+   "satin"
+   "silk"
+   "man"]},
  "thursfield"
  {:title "Bespoke dressmaking for thursfield",
   :pics
@@ -3743,7 +4876,32 @@
     :prevpic "thursfield5",
     :blurb
     "<b>\nTiara for Fiona Thursfield\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\nFiona ordered the 'Perdita' tiara from my collection to wear on her wedding day. The tiara was made up in silver with clear-plain and silver-shadow Swarovski crystals.\n <br />\n <br />\n<b>\nGuide Price: £75\n</b>\n<i>To order accessories online please visit my etsy shop by <a href=\"http://www.etsy.com/shop/felicitywestmacott?ref=seller_info\" target=\"_blank\">clicking here</a>\n <br />Or contact me via <a href=\"contact.html\">email or telephone.</a> Once we have confirmed your requirements I will send you an invoice which can be paid by cheque or PayPal. Your order will then by posted to you within 10 days. </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "thursfield1.html",
+  :tt "thursfieldtt.jpg",
+  :classes
+  ["trad"
+   "bolero"
+   "kids"
+   "bmaid"
+   "midi"
+   "zip"
+   "sash"
+   "puffed"
+   "wstraps"
+   "floor"
+   "round"
+   "full"
+   "cap"
+   "empire"
+   "aline"
+   "square"
+   "ivory"
+   "purple"
+   "dupion"
+   "lacefab"
+   "silk"
+   "bellish"]},
  "kelly"
  {:title "Wedding dress for Sarah Kelly",
   :pics
@@ -3798,7 +4956,27 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>"}],
   :blurb
-  "<b>\nWedding dress restyle (vintage) and bolero for Sarah Kelly\n</b>\n\n<p>\n <b>\n Similar restyling work from £500 </b> <i>(as shown £650)</i>\n\t<br/>\n\t<b>\n\tBoleros from £130 </b> <i> (with lace as shown £290)\n </i>\n \n</p>\n\n<p>\nSarah brought me her mother's wedding dress, vintage 1970's in lace with long sleeves to be restyled for a modern bride. I also made her a pretty lace bolero to compliment the fabric of the original gown.\n</p>\n\n"},
+  "<b>\nWedding dress restyle (vintage) and bolero for Sarah Kelly\n</b>\n\n<p>\n <b>\n Similar restyling work from £500 </b> <i>(as shown £650)</i>\n\t<br/>\n\t<b>\n\tBoleros from £130 </b> <i> (with lace as shown £290)\n </i>\n \n</p>\n\n<p>\nSarah brought me her mother's wedding dress, vintage 1970's in lace with long sleeves to be restyled for a modern bride. I also made her a pretty lace bolero to compliment the fabric of the original gown.\n</p>\n\n",
+  :link "kelly1.html",
+  :tt "kellytt.jpg",
+  :classes
+  ["simp"
+   "vint"
+   "bolero"
+   "bride"
+   "restyle"
+   "zip"
+   "sash"
+   "ruched"
+   "floor"
+   "sweet"
+   "cap"
+   "aline"
+   "lightbone"
+   "puddle"
+   "ivory"
+   "satin"
+   "lace"]},
  "butler"
  {:title "Wedding dress and veil for Gerry Butler",
   :pics
@@ -3886,7 +5064,29 @@
     :blurb
     "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nGerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish.\n</p>\n<p>\nSimilar work from £25/h\n<br/>\nAs shown here £125 including beaded black lace.\n</p>"}],
   :blurb
-  "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n"},
+  "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n",
+  :link "butler1.html",
+  :tt "butlertt.jpg",
+  :classes
+  ["trad"
+   "simp"
+   "bellish"
+   "veil"
+   "bride"
+   "zip"
+   "offshould"
+   "ruched"
+   "wstraps"
+   "floor"
+   "quarter"
+   "cathedral"
+   "sweet"
+   "over"
+   "fish"
+   "lightbone"
+   "ivory"
+   "dupion"
+   "silk"]},
  "endersby"
  {:title "Wedding dress for Lou Endersby",
   :pics
@@ -3928,7 +5128,28 @@
     :blurb
     "\n<hr /> \n\nPictures of the finished dress on the stand"}],
   :blurb
-  "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>"},
+  "<p>\n<b>\nWedding dress for Lou Endersby\n</b>\n</p>\n<p>\nWith materials and detailing as shown £500\n<br />\nPlease note I no longer take commissions for\nwedding dresses with budgets below £1600.\n\n</p>\n\n<p>\nLou commissioned a simple Kimono style dress in soft sand coloured silk satin to wear for her wedding day. This dress\nworn for a wedding day but was made to an evening dress budget, and so was not lined. \n\n</p>",
+  :link "endersby1.html",
+  :tt "endersbytt.jpg",
+  :classes
+  ["inform"
+   "cont"
+   "simp"
+   "bride"
+   "midi"
+   "high"
+   "sash"
+   "nobone"
+   "quarter"
+   "round"
+   "aline"
+   "water"
+   "straight"
+   "loose"
+   "gold"
+   "cream"
+   "satin"
+   "silk"]},
  "casey"
  {:title "Wedding Dress for Katherine",
   :pics
@@ -3992,7 +5213,36 @@
     :blurb
     "\n\n<hr/>\n\n<p>\n Never let it be said a dress has to get in the way of dancing!\n</p>"}],
   :blurb
-  "<p>\n Fusion 1930's and Victorian fantasy wedding dress.\n Silk Satin with bloused bodice and bias-cut skirt trimmed in metallic lace appliqué.\n Tulle, chiffon and lace bustle train in subtle pastel colours.\n <br/><br/>\n Similar styles from £2100, with fabrics as shown £2600\n</p>"},
+  "<p>\n Fusion 1930's and Victorian fantasy wedding dress.\n Silk Satin with bloused bodice and bias-cut skirt trimmed in metallic lace appliqué.\n Tulle, chiffon and lace bustle train in subtle pastel colours.\n <br/><br/>\n Similar styles from £2100, with fabrics as shown £2600\n</p>",
+  :link "casey1.html",
+  :tt "caseytt.jpg",
+  :classes
+  ["vint"
+   "hist"
+   "cont"
+   "spec"
+   "colour"
+   "bride"
+   "wstraps"
+   "high"
+   "lowback"
+   "sash"
+   "lightbone"
+   "dropped"
+   "loose"
+   "striaght"
+   "floor"
+   "chapel"
+   "bias"
+   "peplum"
+   "cream"
+   "gold"
+   "silk"
+   "satin"
+   "chiffon"
+   "lace"
+   "tulle"
+   "bellish"]},
  "parcell"
  {:title "Wedding dress for Jayde Parcell",
   :pics
@@ -4036,7 +5286,28 @@
     :prevpic "parcell8",
     :blurb "\n\n<hr/>\n\n<p>\n The lace and pearl appliqué\n</p>"}],
   :blurb
-  "<p>\n Blush duchess satin super tight sheath dress with lace up back, tulle fishtail skirt and hand appliqued lace and pearls detail.\n <br/><br/>\n Similar styles from £1850, as shown £2100\n</p>"},
+  "<p>\n Blush duchess satin super tight sheath dress with lace up back, tulle fishtail skirt and hand appliqued lace and pearls detail.\n <br/><br/>\n Similar styles from £1850, as shown £2100\n</p>",
+  :link "parcell1.html",
+  :tt "parcelltt.jpg",
+  :classes
+  ["cont"
+   "spec"
+   "colour"
+   "bride"
+   "beading"
+   "nostraps"
+   "sweet"
+   "laceup"
+   "firmbone"
+   "princess"
+   "fish"
+   "floor"
+   "notrain"
+   "pink"
+   "man"
+   "satin"
+   "tulle"
+   "bellish"]},
  "laura"
  {:title "Wedding dress for Laura Williams",
   :pics
@@ -4154,7 +5425,34 @@
     :blurb
     "<hr /> \n\nFitting picture\n<br />\n <br />\n...and worn"}],
   :blurb
-  "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n"},
+  "<b>\nWedding dress and bolero for Laura Williams\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\nWith silk, lace and detailing as shown dress £1600, bolero £350\n </i>\n</p>\n\n<p>\nLaura's wedding dress was styled with medieval touches and to flatter her 18 week pregnant bump. \n</p>\n\n",
+  :link "laura1.html",
+  :tt "lauratt.jpg",
+  :classes
+  ["hist"
+   "matern"
+   "bolero"
+   "bride"
+   "zip"
+   "layers"
+   "floor"
+   "flow"
+   "laceup"
+   "empire"
+   "nostraps"
+   "medieval"
+   "lightbone"
+   "straight"
+   "chapel"
+   "long"
+   "square"
+   "white"
+   "silver"
+   "chiffon"
+   "satin"
+   "lacefab"
+   "swar"
+   "silk"]},
  "matthews"
  {:title "Occsionwear dress for Marie Mattews",
   :pics
@@ -4198,7 +5496,28 @@
     :prevpic "matthews6",
     :blurb
     "<b>\nWedding dress for Marie Cook (later Matthews)\n</b>\n <br />\n<i>Modelled by Marie</i>\n <br />\n <br />\nMarie first came to me when planning her wedding. To see more pictures of Marie's wedding dress <a href=\"portfolio/cook1.html\">click here</a>"}],
-  :blurb ""},
+  :blurb "",
+  :link "matthews1.html",
+  :tt "matthewstt.jpg",
+  :classes
+  ["prom"
+   "mother"
+   "cowl"
+   "midi"
+   "zip"
+   "ruched"
+   "princess"
+   "wstraps"
+   "pencil"
+   "empire"
+   "lightbone"
+   "straight"
+   "square"
+   "red"
+   "black"
+   "chiffon"
+   "dupion"
+   "silk"]},
  "fields"
  {:title "Wedding dress and bolero for Emma Fields",
   :pics
@@ -4224,7 +5543,32 @@
     :nextpic nil,
     :prevpic "fields4",
     :blurb "\n<br/>\n<i>\nDetails of the sash and lace</i>"}],
-  :blurb "<b>\nWedding dress for Emma Fields\n</b>"},
+  :blurb "<b>\nWedding dress for Emma Fields\n</b>",
+  :link "fields1.html",
+  :tt "fieldstt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "vint"
+   "bolero"
+   "bride"
+   "zip"
+   "layers"
+   "firmbone"
+   "sash"
+   "floor"
+   "flow"
+   "full"
+   "cap"
+   "nostraps"
+   "chapel"
+   "square"
+   "cream"
+   "ivory"
+   "brown"
+   "chiffon"
+   "lacefab"
+   "silk"]},
  "katie"
  {:title "Wedding dress for Katie Darvall",
   :pics
@@ -4308,7 +5652,38 @@
     :prevpic "katie15",
     :blurb
     "﻿ \n<b>\nWedding dress for Katie Darvall\n</b>\n <br />\n<i>Official Wedding pictures by <a href=\"http://www.katebellinger-photography.co.uk/l\" target=\"_blank\"> Kate Bellinger</a></i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "katie1.html",
+  :tt "katiett.jpg",
+  :classes
+  ["colour"
+   "spar"
+   "cont"
+   "vint"
+   "spec"
+   "bride"
+   "beading"
+   "nobone"
+   "wstraps"
+   "wing"
+   "floor"
+   "halter"
+   "sweet"
+   "empire"
+   "aline"
+   "bias"
+   "straight"
+   "lowback"
+   "chapel"
+   "turq"
+   "green"
+   "ivory"
+   "blue"
+   "chiffon"
+   "dupion"
+   "swar"
+   "silk"
+   "bellish"]},
  "hunter"
  {:title "Wedding Dress for Emily",
   :pics
@@ -4391,7 +5766,21 @@
     :blurb
     "\n\n<hr />\n\n<p>Pictures from Emily's fittings show the dress with both colours of sash and with the train spread out and as hooked up for dancing.</p>"}],
   :blurb
-  "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>"},
+  "<p>This dress was made from layers of silk satin, chiffon and delicate beaded lace. Real button and loops closed the back and Emily had sashes in 'sand' and 'royal purple' made to wear for different parts of her day.</p>",
+  :link "hunter1.html",
+  :tt "huntertt.jpg",
+  :classes
+  ["sash"
+   "trad"
+   "bride"
+   "buttons"
+   "wstraps"
+   "floor"
+   "full"
+   "sweet"
+   "lightbone"
+   "ivory"
+   "lace"]},
  "billigemen"
  {:title "Cravats and hankies for Amanda Billige",
   :pics
@@ -4409,7 +5798,10 @@
     :prevpic "billigemen2",
     :blurb "<i>\nModelled by Clients\n</i>"}],
   :blurb
-  "<b>\n \nCravats for Amanda Billige's groom and groomsmen\n</b>\n <br />\n"},
+  "<b>\n \nCravats for Amanda Billige's groom and groomsmen\n</b>\n <br />\n",
+  :link "billigemen1.html",
+  :tt "billigementt.jpg",
+  :classes ["men" "orange" "dupion" "silk"]},
  "miriam"
  {:title "Vintage Wedding dress for Miriam",
   :pics
@@ -4510,7 +5902,29 @@
     :prevpic "miriam18",
     :blurb
     "<i>\nOfficial Wedding pictures by <a href=\"http://www.flickr.com/photos/nickscottphotography/\" target=\"_blank\"> Nick Scott</a>\n</i>"}],
-  :blurb "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n"},
+  :blurb "<b>\nWedding dress and veil for Miriam\n</b>\n<br />\n",
+  :link "miriam1.html",
+  :tt "miriamtt.jpg",
+  :classes
+  ["trad"
+   "vint"
+   "veil"
+   "bride"
+   "restyle"
+   "zip"
+   "nobone"
+   "princess"
+   "flow"
+   "full"
+   "cap"
+   "empire"
+   "square"
+   "puddle"
+   "ivory"
+   "satin"
+   "lacefab"
+   "silk"
+   "bellish"]},
  "ball"
  {:title "Bespoke dressmaking for ball",
   :pics
@@ -4534,7 +5948,21 @@
     :prevpic "ball3",
     :blurb
     "<b>\nButtons added to wedding dress for Carolynne Ball\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\nCarolynne bought her wedding dress from a bridal shop along with some extra matching silk \nin order to have covered buttons added all down the back centre seam. I have a traditional \nbutton covering machine so every button is perfect, covered in your own choice of fabric. We \napplied the buttons at 2 per inch to Carolynne's dress.\n<br />\n <br />\n<b>\nGuide Price: £128 or approx 80p per button <i>(labour and materials)</i>\n</b>\n <br />"}],
-  :blurb ""},
+  :blurb "",
+  :link "ball1.html",
+  :tt "balltt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "bolero"
+   "bride"
+   "restyle"
+   "buttons"
+   "quarter"
+   "long"
+   "cream"
+   "ivory"
+   "silk"]},
  "wild"
  {:title "Wedding dress and veil for Lauren Wild",
   :pics
@@ -4663,7 +6091,28 @@
     :blurb
     "<hr />After her wedding Lauren booked a 'treasure the dress' photo-shoot and came back with this (and other) wonderful fashion-spread style images. Similar shoots can be booked via <a href=\"http://www.theimagecella.co.uk/\" target=\"_blank\">The Image Cella</a>. Packages start at £100"}],
   :blurb
-  "<b>\nWedding dress and veil for Lauren Wild\n</b>\n\n<p>\n <b>\n Similar styles from £2200\n </b>\n <br />\n <i>\n With materials and detailing as shown £6000\n\t<br/>\n\tLace edged veil as shown £670\n </i>\n</p>\n\n<p>\n Lauren's wedding dress was made from matt satin and hand embellished with delicate lace patterns \n</p>\n\n"},
+  "<b>\nWedding dress and veil for Lauren Wild\n</b>\n\n<p>\n <b>\n Similar styles from £2200\n </b>\n <br />\n <i>\n With materials and detailing as shown £6000\n\t<br/>\n\tLace edged veil as shown £670\n </i>\n</p>\n\n<p>\n Lauren's wedding dress was made from matt satin and hand embellished with delicate lace patterns \n</p>\n\n",
+  :link "wild1.html",
+  :tt "wildtt.jpg",
+  :classes
+  ["trad"
+   "spec"
+   "veil"
+   "bride"
+   "beading"
+   "buttons"
+   "princess"
+   "floor"
+   "cathedral"
+   "sweet"
+   "nostraps"
+   "fish"
+   "lightbone"
+   "ivory"
+   "satin"
+   "lacefab"
+   "man"
+   "bellish"]},
  "macdonald"
  {:title "Bespoke dressmaking for macdonald",
   :pics
@@ -4733,7 +6182,33 @@
     :prevpic "macdonald13",
     :blurb ""}],
   :blurb
-  "<b>\nWedding-Ceilidh dress for Jacqueline Macdonald\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n\t<br/> Including bolero, petticoat and sashes\n </i>\n</p>\n\n<p>\n Jacqueline commissioned a beautiful dress deep green silk dupion with MacDonald Tartan highlights to wear for the \nCeilidh after her wedding ceremony. \n</p>"},
+  "<b>\nWedding-Ceilidh dress for Jacqueline Macdonald\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n\t<br/> Including bolero, petticoat and sashes\n </i>\n</p>\n\n<p>\n Jacqueline commissioned a beautiful dress deep green silk dupion with MacDonald Tartan highlights to wear for the \nCeilidh after her wedding ceremony. \n</p>",
+  :link "macdonald1.html",
+  :tt "macdonaldtt.jpg",
+  :classes
+  ["inform"
+   "colour"
+   "vint"
+   "spec"
+   "bolero"
+   "bride"
+   "cuffs"
+   "midi"
+   "zip"
+   "sash"
+   "notrain"
+   "wstraps"
+   "quarter"
+   "full"
+   "vneck"
+   "lightbone"
+   "collar"
+   "turq"
+   "green"
+   "red"
+   "multi"
+   "tulle"
+   "silk"]},
  "angie"
  {:title "Wedding dress for Angie Dayman",
   :pics
@@ -4822,7 +6297,45 @@
     :prevpic "angie17",
     :blurb
     "<b>\nWedding dress for Angie Dayman\n</b>\n <br />\n<i>modelled by client </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "angie1.html",
+  :tt "angiett.jpg",
+  :classes
+  ["inform"
+   "colour"
+   "vint"
+   "spec"
+   "bags"
+   "veil"
+   "bride"
+   "tiara"
+   "cuffs"
+   "midi"
+   "layers"
+   "notrain"
+   "peplum"
+   "princess"
+   "halter"
+   "full"
+   "sweet"
+   "laceup"
+   "empire"
+   "cloud"
+   "water"
+   "medieval"
+   "lightbone"
+   "ivory"
+   "silver"
+   "pink"
+   "blue"
+   "chiffon"
+   "tulle"
+   "lacefab"
+   "embroid"
+   "swar"
+   "silk"
+   "man"
+   "bellish"]},
  "knox"
  {:title "Bespoke dressmaking for knox",
   :pics
@@ -4861,7 +6374,27 @@
     :prevpic "knox6",
     :blurb
     "<b>\nDress and coat for Shirley Knox\n</b>\n<br />\n<i> modelled by client </i>\n<br />\n <br />\nShirley commissioned a beautiful coat in brown taffeta which was shot through with orange and black for a wonderful autumnal effect suitable for the Winter wedding.\n <br /><br />\nThe dress beneath was made in russety-orange silk dupion. The style was fitted with a shaped neckline and small sleeves.\n <br />\n <br />\n<b>\nPrices for similar from:\n<br /> Dress £240 and Coat £300 <br /></b>\n<i>\n<br /> With Materials as shown:\n<br />\nDress £350 and Coat £557\n<br />\nBasic making (26 hours) £572 \n<br />\nMaterials as shown £235\n<br /></i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "knox1.html",
+  :tt "knoxtt.jpg",
+  :classes
+  ["cont"
+   "kids"
+   "bmaid"
+   "cowl"
+   "zip"
+   "buttons"
+   "wstraps"
+   "floor"
+   "round"
+   "empire"
+   "aline"
+   "straight"
+   "red"
+   "black"
+   "velvet"
+   "dupion"
+   "silk"]},
  "fieldsbmaid"
  {:title "Flowergirls for Emma Fields",
   :pics
@@ -4891,7 +6424,24 @@
     :nextpic nil,
     :prevpic "fieldsbmaid5",
     :blurb ""}],
-  :blurb "<b>\n Child Bridesmaid dresses for Emma Fields\n</b>"},
+  :blurb "<b>\n Child Bridesmaid dresses for Emma Fields\n</b>",
+  :link "fieldsbmaid1.html",
+  :tt "fieldsbmaidtt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "simp"
+   "kids"
+   "bmaid"
+   "midi"
+   "high"
+   "sash"
+   "full"
+   "ivory"
+   "brown"
+   "tulle"
+   "satin"
+   "man"]},
  "ennamen"
  {:title "Groomsmen for Martin Leonard-Smith",
   :pics
@@ -4945,7 +6495,19 @@
     :prevpic "ennamen7",
     :blurb
     "<b>\nWaistcoat for Eleanor's page-boy\n</b>\n<br />\nBarnaby, Eleanor's page-boy with Abigail her little bridesmaid. <a href=\"portfolio/enna1.html\">Click here</a> to see more \npictures of Abigail's dress."}],
-  :blurb ""},
+  :blurb "",
+  :link "ennamen1.html",
+  :tt "ennamentt.jpg",
+  :classes
+  ["hist"
+   "men"
+   "cuffs"
+   "collar"
+   "ivory"
+   "blue"
+   "dupion"
+   "silk"
+   "brocade"]},
  "eastonmum"
  {:title "Dress and Bolero for Alice Easton",
   :pics
@@ -4979,7 +6541,28 @@
     :prevpic "eastonmum5",
     :blurb
     "<br /> \n<b>\nDress and Bolero for Karen Easton, Mother of the Bride\n</b>\n<br />\n<i>\nPicture taken at Karen's final fitting\n</i>\n<br />"}],
-  :blurb "﻿ \n"},
+  :blurb "﻿ \n",
+  :link "eastonmum1.html",
+  :tt "eastonmumtt.jpg",
+  :classes
+  ["prom"
+   "mother"
+   "bolero"
+   "midi"
+   "zip"
+   "wstraps"
+   "over"
+   "empire"
+   "vneck"
+   "aline"
+   "pleats"
+   "water"
+   "brown"
+   "pink"
+   "chiffon"
+   "dupion"
+   "satin"
+   "silk"]},
  "king"
  {:title "Wedding dress for Elsa King",
   :pics
@@ -5046,7 +6629,32 @@
     :blurb
     "\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.chrislegg.net\" target=\"_blank\"> Chris Legg</a>\n</i>"}
    {:image "king14.jpg", :nextpic nil, :prevpic "king13", :blurb ""}],
-  :blurb "<b>\nWedding dress for Elsa King\n</b>"},
+  :blurb "<b>\nWedding dress for Elsa King\n</b>",
+  :link "king1.html",
+  :tt "kingtt.jpg",
+  :classes
+  ["trad"
+   "spar"
+   "cont"
+   "bride"
+   "restyle"
+   "zip"
+   "buttons"
+   "sash"
+   "ruched"
+   "floor"
+   "round"
+   "cap"
+   "aline"
+   "fish"
+   "lightbone"
+   "chapel"
+   "ivory"
+   "tulle"
+   "satin"
+   "lacefab"
+   "man"
+   "bellish"]},
  "martinezmen"
  {:title "Tie for Faye Martinez",
   :pics
@@ -5064,7 +6672,10 @@
     :prevpic "martinezmen2",
     :blurb
     "<b>\nTie for Faye's Groom\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.allanbreezephotographer.co.uk/index.html\" target=\"_blank\"> Allan Breeze</a>\n</i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "martinezmen1.html",
+  :tt "martinezmentt.jpg",
+  :classes ["men" "red" "satin" "man"]},
  "cherry"
  {:title "Bespoke dressmaking for cherry",
   :pics
@@ -5078,7 +6689,27 @@
     :prevpic "cherry1",
     :blurb
     "<i> Modelled by Client</i>\n<br />\n <br />\nThe back of Cherrys dress was made to lace up with black ribbon over a matching satin-back shantung modesty panel. The sash pieces do not actually wrap all the way around but tuck into the v-shaped opening at the back.\n\n<br />\n <br />\n\nThe cross-over bolero was made from some lovely black and silver embroidered lace. The scalloped edge was used on the sleeves but the other edges were finished with a wide band of black satin-back shantung. The bolero fastened with hidden hooks and eyes under the front cross-over."}],
-  :blurb "<b>\nProm dress for Cherry Smith \n</b>\n<br />\n"},
+  :blurb "<b>\nProm dress for Cherry Smith \n</b>\n<br />\n",
+  :link "cherry1.html",
+  :tt "cherrytt.jpg",
+  :classes
+  ["prom"
+   "bolero"
+   "midi"
+   "layers"
+   "sash"
+   "wstraps"
+   "laceup"
+   "over"
+   "lightbone"
+   "long"
+   "square"
+   "turq"
+   "green"
+   "black"
+   "satin"
+   "lacefab"
+   "embroid"]},
  "enna"
  {:title "Wedding dress for Eleanor Parks Young",
   :pics
@@ -5217,7 +6848,27 @@
     :prevpic "enna21",
     :blurb
     "<b>\nBridesmaids dresses for Eleanor Parks Young\n</b>\n<br />\n<br />\nEleanor also commissioned her five grown-up bridesmaids dresses, each made in a pretty spring colour.\n<a href=\"portfolio/ennabmaid1.html\">Click here</a> to see more pictures of the bridesmaids."}],
-  :blurb ""},
+  :blurb "",
+  :link "enna1.html",
+  :tt "ennatt.jpg",
+  :classes
+  ["hist"
+   "colour"
+   "spec"
+   "bride"
+   "firmbone"
+   "offshould"
+   "hoop"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "round"
+   "full"
+   "pleats"
+   "blue"
+   "dupion"
+   "embroid"
+   "silk"]},
  "hook"
  {:title "Wedding Dress For Ellie Hook",
   :pics
@@ -5280,7 +6931,10 @@
     :prevpic "hook14",
     :blurb "\n\n<hr /> \n\nEllie at her final fitting."}],
   :blurb
-  "<b>\nWedding Dress For Ellie Hook\n</b>\n\n<p>\n <b>\n Similar styles from £1850\n </b>\n</p>\n\n<p>\n Gorgeous Ellie was married in Vegas on Halloween and her dress was a wonderful mixture of fifties shape, \n modern styling and sublte Halloween detail.\n</p>"},
+  "<b>\nWedding Dress For Ellie Hook\n</b>\n\n<p>\n <b>\n Similar styles from £1850\n </b>\n</p>\n\n<p>\n Gorgeous Ellie was married in Vegas on Halloween and her dress was a wonderful mixture of fifties shape, \n modern styling and sublte Halloween detail.\n</p>",
+  :link "hook1.html",
+  :tt "hooktt.jpg",
+  :classes ["bride"]},
  "easton"
  {:title "Wedding dress for Alice Easton",
   :pics
@@ -5374,7 +7028,31 @@
     :prevpic "easton17",
     :blurb
     "﻿ \n<b> \nTies for Alice Easton\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www.laurencephotography.com/\" target=\"_blank\"> Laurence Photography</a>\n</i>\n<br />\n <br />\nAlice's groom and the groomsmen all had ties and hankies made in silver satin to match the bridesmaid's sashes. \n<br />\nFor more details <a href=\"portfolio/eastonmen1.html\"> click here</a>"}],
-  :blurb ""},
+  :blurb "",
+  :link "easton1.html",
+  :tt "eastontt.jpg",
+  :classes
+  ["spar"
+   "cont"
+   "spec"
+   "bride"
+   "beading"
+   "zip"
+   "layers"
+   "firmbone"
+   "princess"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "full"
+   "vneck"
+   "white"
+   "ivory"
+   "silver"
+   "chiffon"
+   "swar"
+   "silk"
+   "bellish"]},
  "erica"
  {:title "Bespoke dressmaking for erica",
   :pics
@@ -5398,7 +7076,27 @@
     :prevpic "erica3",
     :blurb
     "<b>\nChild Bridesmaid Dress for Erica\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\n\nIvory satin dress with high waistline and a-line skirt. The bodice is made from butterfly jacquard and edged in wine coloured ribbon with a v-neckline.\n<br />\n<br />\n<b>\nSmilar styles from £175\n</b>\n <br />\n<i>\nWith fabrics and detail as shown £215\n\n</i>"}],
-  :blurb "﻿ \n\n"},
+  :blurb "﻿ \n\n",
+  :link "erica1.html",
+  :tt "ericatt.jpg",
+  :classes
+  ["trad"
+   "cont"
+   "spec"
+   "bride"
+   "beading"
+   "zip"
+   "wstraps"
+   "floor"
+   "cathedral"
+   "empire"
+   "aline"
+   "cream"
+   "ivory"
+   "satin"
+   "silk"
+   "man"
+   "bellish"]},
  "loney"
  {:title "Wedding dress for Hannah Loney",
   :pics
@@ -5437,7 +7135,35 @@
     :prevpic "loney6",
     :blurb
     "<b>\nWedding dress for Hannah Loney\n</b>\n <br />\n<i> close-up detail of pic 1</i>\n<br />\n <br />\nHannah wrote...\n<br />\n(Before the wedding)\n<br />\n<br />\n<i>Hi Felicity,\n<br />\nSorry been meaning to email you for the last week and only just got around to it...\n<br />\nJust to say thanks again for making my beautiful dress - it's just prefect and I really love it! I cant wait to show it to everybody!!!\n<br />\nThanks again! Will be sure to recommend you too...</i>\n<br />\n<br />\nand afterwards...\n <br />\n<i>Just thought Id send you a few pics of our big day.the dress was perfect\nand Dan absolutely loved it! And it travelled amazingly well considering it\ntook us a car, plane, coach and boat to get to the venue!\n <br />\nAnd wore it again for our party back in the UK so it did well.!\n <br />\nWe had a great time so thank you again.\n <br />\nAll the best!\n <br />\nHannah x </i>"}],
-  :blurb ""},
+  :blurb "",
+  :link "loney1.html",
+  :tt "loneytt.jpg",
+  :classes
+  ["hist"
+   "inform"
+   "colour"
+   "cont"
+   "simp"
+   "bride"
+   "zip"
+   "sash"
+   "ruched"
+   "floor"
+   "flow"
+   "empire"
+   "nostraps"
+   "bias"
+   "lightbone"
+   "straight"
+   "square"
+   "puddle"
+   "green"
+   "ivory"
+   "purple"
+   "tulle"
+   "taffeta"
+   "satin"
+   "silk"]},
  "cook"
  {:title "Wedding dress for Marie Cook",
   :pics
@@ -5496,7 +7222,28 @@
     :prevpic "cook9",
     :blurb
     "<b>\nOccasion wear dress for Marie Matthews\n</b>\n <br />\n<i> modelled by client </i>\n<br />\n <br />\nMarie came back for more!\n <br />\n <br />\nMore than a year after being married Marie (now Matthews) commissioned a dress to \nwear to a winter wedding. <a href=\"portfolio/matthews1.html\">Click here</a> to see more pictures."}],
-  :blurb ""},
+  :blurb "",
+  :link "cook1.html",
+  :tt "cooktt.jpg",
+  :classes
+  ["colour"
+   "cont"
+   "simp"
+   "bride"
+   "cowl"
+   "zip"
+   "offshould"
+   "princess"
+   "floor"
+   "round"
+   "fish"
+   "lightbone"
+   "chapel"
+   "white"
+   "silver"
+   "chiffon"
+   "dupion"
+   "silk"]},
  "turner"
  {:title "Occasionwear dress and jacket for Jan turner",
   :pics
@@ -5536,7 +7283,21 @@
     :prevpic "turner7",
     :blurb
     "<i>The dress being worn at a South African wedding party.\n</i>"}],
-  :blurb "<b>\nDress and Jacket for Jan Turner \n</b>\n<br />\n"},
+  :blurb "<b>\nDress and Jacket for Jan Turner \n</b>\n<br />\n",
+  :link "turner1.html",
+  :tt "turnertt.jpg",
+  :classes
+  ["mother"
+   "bolero"
+   "beading"
+   "midi"
+   "princess"
+   "cap"
+   "vneck"
+   "long"
+   "blue"
+   "man"
+   "bellish"]},
  "eastonmen"
  {:title "Bespoke Ties and Hankies for Alice Easton",
   :pics
@@ -5565,7 +7326,10 @@
     :prevpic "eastonmen4",
     :blurb
     "<br />\n<b>\nTies and hankies for Alice Easton\n</b>\n <br />\nAll done and ready to go.\n <br />"}],
-  :blurb "﻿ \n"},
+  :blurb "﻿ \n",
+  :link "eastonmen1.html",
+  :tt "eastonmentt.jpg",
+  :classes ["cont" "men" "silver" "satin" "silk"]},
  "thompson"
  {:title "Wedding dress for Kelly Thompson",
   :pics
@@ -5624,7 +7388,32 @@
     :prevpic "thompson10",
     :blurb
     "<b>\nWedding dress for Kelly Thompson\n</b>\n <br />\n<i> Some informal pictures</i>\n <br />\n<br />\nLeft: Fitting picture at Kelly's final fitting\n<br />\nRight: Dancing the night away"}],
-  :blurb ""},
+  :blurb "",
+  :link "thompson1.html",
+  :tt "thompsontt.jpg",
+  :classes
+  ["cont"
+   "vint"
+   "bride"
+   "beading"
+   "zip"
+   "sash"
+   "nobone"
+   "notrain"
+   "wstraps"
+   "floor"
+   "flow"
+   "over"
+   "empire"
+   "vneck"
+   "split"
+   "lowback"
+   "gold"
+   "cream"
+   "silver"
+   "chiffon"
+   "silk"
+   "bellish"]},
  "ennakids"
  {:title "Flowergirl and page boy for Eleanor Parks Young",
   :pics
@@ -5678,4 +7467,25 @@
     :prevpic "ennakids8",
     :blurb
     "<b>\nFlowergirl and page boy for Eleanor Parks Young\n</b>\n<br />\n<i>\nOfficial Wedding pictures by <a href=\"http://www4.clikpic.com/sebastianlomas/gallery_274506.html\" target=\"_blank\"> Sebastian Lomas</a>\n</i>\n<br />\n <br />\nAbigail and Barnaby with the bride and groom.<br />\n<a href=\"portfolio/enna1.html\">Click here</a> to see more pictures of the Eleanor's period inspired wedding dress."}],
-  :blurb ""}}
+  :blurb "",
+  :link "ennakids9.html",
+  :tt "ennakidstt.jpg",
+  :classes
+  ["hist"
+   "spec"
+   "kids"
+   "bmaid"
+   "zip"
+   "sash"
+   "nobone"
+   "floor"
+   "round"
+   "full"
+   "cap"
+   "empire"
+   "ivory"
+   "pink"
+   "chiffon"
+   "dupion"
+   "silk"
+   "brocade"]}}

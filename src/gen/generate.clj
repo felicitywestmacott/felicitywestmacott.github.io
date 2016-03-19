@@ -10,7 +10,7 @@
 (def clients (edn/read-string (slurp "./resources/clients.edn")))
 
 
-(def filter-usage (frequencies (mapcat :classes portfolio)))
+(def filter-usage (frequencies (mapcat :classes (vals clients))))
 (def used-filters (into #{} (keys filter-usage)))
 (def defined-filters (into #{} (flatten (for [[_ category] filters]
                                           (for [[tag _] category] tag)))))
@@ -42,43 +42,26 @@
 (defn write-filters []
   (spit "./_data/filters.yml" filters-yaml))
 
-
+(write-filters)
 
 
 
 (defn build-portfolio-yaml [text-so-far entry]
   (if-let [label (:label entry)]
     (str text-so-far "\n\n - label: " label "\n\n")
-    (str text-so-far "\n"
-         " - link: " (:link entry) "\n"
-         "   tt: " (:tt entry) "\n"
-         "   classes: " (apply str (interpose " " (:classes entry))) "\n")))
+    (let [client (clients (:client entry))]
+      (str text-so-far "\n"
+           " - link: " (:link client) "\n"
+           "   tt: " (:tt client) "\n"
+           "   classes: " (apply str (interpose " " (:classes client))) "\n"))))
 
 (def portfolio-yaml (reduce build-portfolio-yaml "" portfolio))
 
 (defn write-portfolio []
   (spit "./_data/portfolio.yml" portfolio-yaml))
 
+(write-portfolio)
 
-
-
-
-
-
-(defn pic-name [pic] (.replace (:image pic) ".jpg" ""))
-
-(defn find-next [pics current]
-  (first (filter #(= current (:prevpic %)) pics)))
-
-(defn pics-chain [pic pics]
-  (if (nil? (:nextpic pic))
-    [pic]
-    (let [next (find-next pics (pic-name pic))]
-      (concat [pic] (pics-chain next pics)))))
-
-(defn sorted-pics [pics]
-  (let [first-pic (find-next pics nil)]
-    (pics-chain first-pic pics)))
 
 
 
@@ -100,7 +83,7 @@
 
 (defn build-client-pages [{:keys [title pics blurb]}]
   (let [builder (partial build-client-page title blurb (count pics))]
-    (mapv builder numbers-from-one (sorted-pics pics))))
+    (mapv builder numbers-from-one pics)))
 
 
 
