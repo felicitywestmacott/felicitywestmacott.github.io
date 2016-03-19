@@ -65,25 +65,26 @@
 
 
 
-(defn build-client-page [title client-blurb total counter {:keys [image nextpic prevpic blurb]}]
+(defn build-client-page [title client-blurb total counter [{prev :name} {:keys [name blurb]} {next :name}]]
   (let [content (str "---\n"
                      "layout: client\n"
                      "title: " title "\n"
-                     "image: " image "\n"
-                     (if nextpic (str "nextpic: " nextpic "\n") "\n")
-                     (if prevpic (str "prevpic: " prevpic "\n") "\n")
+                     "image: " name ".jpg\n"
+                     (if next (str "nextpic: " next "\n") "\n")
+                     (if prev (str "prevpic: " prev "\n") "\n")
                      "counter: " counter " / " total "\n"
                      "---\n"
                      "\n"
                      client-blurb
                      "\n"
                      blurb)
-        filename (str "./portfolio/" (.replace image ".jpg" ".html"))]
+        filename (str "./portfolio/" name ".html")]
     (spit filename content)))
 
 (defn build-client-pages [{:keys [title pics blurb]}]
-  (let [builder (partial build-client-page title blurb (count pics))]
-    (mapv builder numbers-from-one pics)))
+  (let [builder (partial build-client-page title blurb (count pics))
+        pic-chain (partition 3 1 (concat [nil] pics [nil]))]
+    (mapv builder numbers-from-one pic-chain)))
 
 
 
