@@ -29,7 +29,6 @@
   :pics [{:name "snow1" :photo true :blurb ""}
          {:name "snow2" :photo true :blurb ""}
          {:name "snow3" :photo true :blurb ""}
-         {:name "snow4" :photo true :blurb ""}
          {:name "snow5" :photo true :blurb "Detail of the lace and silk roses on the skirt's train"}
          {:name "snow6" :photo true :blurb "Original design sketch"}
          {:name "snow7" :photo true :blurb ""}
