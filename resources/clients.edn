@@ -1,7 +1,25 @@
 {
+ "mckay"
+ {:title "Wedding Dress for Issie McKay"
+  :pics [{:name "mckay1" :photo true :blurb ""}
+         {:name "mckay2" :photo true :blurb ""}
+         {:name "mckay3" :photo false :blurb "Original design sketch"}
+         {:name "mckay4" :photo true :blurb ""}
+         {:name "mckay5" :photo true :blurb ""}
+         {:name "mckay6" :photo false :blurb "Fitting picture, sash tied at back for fitting, later 'tucked in' and sewn down"}
+         {:name "mckay7" :photo false :blurb "Fitting picture"}
+         {:name "mckay8" :photo false :blurb "Fitting picture with lace edged veil"}
+         {:name "mckay9" :photo false :blurb "Fitting picture"}
+         {:name "mckay10" :photo false :blurb "Fitting picture, bodice detail"}
+         {:name "mckay11" :photo true :blurb "Issie's tiny wrists really did fit inside these delicate lace sleeves!"}]
+  :blurb "Issie's dress was made with a boned satin bodice with pretty lace overlay. Long sleeves and a boat neckline were trimmed with a pretty scalloped edging. A simple silk dupion sash highlighted her tiny waist and the back fastened with buttons and loops. The full skirt was three layers of silk organza over linings and netting flowing out behind in a wide train. <br/> <br/> \n Similar styles from £1850, with silk materials as shown £2700 <br/> <br/> \n I also made Issie's very two tier long veil. The train part was trimmed in matching lace edging to her dress and the blusher (comes over her face) was edged with simple cording. As shown £175"
+  :link "mckay1.html"
+  :tt "mckaytt.jpg"
+  :classes ["trad" "bride" "veil" "high" "sweet" "long" "buttons" "sash" "firmbone" "full" "floor" "chapel" "ivory" "silk" "organza" "lace"]
+  :photo {:url "http://www.montysteedman.com/" :name "Monty Steedman Photography"}
+  :clean true}
  "lilac"
- {
-  :title "Lucie Wedding Dress for Photoshoot"
+ {:title "Lucie Wedding Dress for Photoshoot"
   :pics [{:name "lilac1" :photo true :blurb ""}
          {:name "lilac2" :photo true :blurb ""}
          {:name "lilac3" :photo true :blurb ""}
@@ -19,13 +37,11 @@
   :blurb "Wedding dress for photoshoot made in shot pale pink/lilac taffeta and silver lace. Fitted bodice with ruching into the waist and hip, neckline embellished with appliqué lace creeping to one side, echoed on the opposite hip. Full skirt with gathered flared panel from one side. Full, double waterfall train with silver lace and palest pink tulle showing from under the curls. A corsage of roses and a button and loop back finished the dress. A silver lace bolero with cut away front, tiny puffed sleeves and collar at the back compliments the style. <br/><br/> Similar style made bespoke from £1850, with materials and detail as shown £2600 <br/> <b>This dress is for sale</b>, offers over £500 considered. Size 10/12, but can be altered up or down a size easily. Worn once for the shoot it is in perfect condition except for a little dust under the train and few pin marks at the back. Alterations and delivery will be extra.",
   :link "lilac1.html",
   :tt "lilactt.jpg",
-  :classes ["con" "spec" "colour" "bride" "nostraps" "square" "cap" "puffed" "buttons" "firmbone" "full" "hoop" "floor" "cathedral" "ruched" "water" "silver" "purple" "man" "taffeta" "lace" "corsage"]
+  :classes ["con" "spec" "colour" "bride" "nostraps" "square" "cap" "puffed" "buttons" "firmbone" "full" "hoop" "floor" "cathedral" "ruched" "water" "silver" "purple" "man" "taffeta" "lace" "corsage" "bolero"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
-  :clean true
-  }
+  :clean true}
  "snow"
- {
-  :title "Ella Wedding Dress for Photoshoot"
+ {:title "Ella Wedding Dress for Photoshoot"
   :pics [{:name "snow1" :photo true :blurb ""}
          {:name "snow2" :photo true :blurb ""}
          {:name "snow3" :photo true :blurb ""}
@@ -41,9 +57,7 @@
   :tt "snowtt.jpg",
   :classes ["trad" "spec" "bride" "wstraps" "sweet" "laceup" "firmbone" "full" "hoop" "floor" "cathedral" "layers" "ivory" "silk" "tulle" "lace" "corsage"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
-  :clean true
-  }
-
+  :clean true}
  "ennaunder"
  {:title "Underpinnings for Eleanor Parks Young",
   :pics
