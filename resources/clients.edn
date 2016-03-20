@@ -1,4 +1,19 @@
-{
+{"catz"
+ {:title "Birthday Dress for Catz"
+  :pics [{:name "catz1" :blurb ""}
+         {:name "catz2" :blurb ""}
+         {:name "catz3" :blurb "The back of the dress laces over bare skin with saucy crimson ribbon."}
+         {:name "catz4" :blurb ""}
+         {:name "catz5" :blurb ""}
+         {:name "catz6" :blurb "The bodice was made of shaped panels to best accentuate Catherine's stunning figure. here we have begun placing the many embellishments to build towards the spectacular finished effect!"}
+         {:name "catz7" :blurb "A fitting picture half was through work on the embellishment."}
+         {:name "catz8" :blurb "Detail of the appliqué and subtle petrol black feathers."}
+         {:name "catz9" :blurb "Almost finished at a later fitting. The skirt was also trimmed with ostrich fringing to echo the feathers on the bodice."}]
+  :blurb "Evening dress for a themed twenty-first birthday party 'Burlesque'. Catherine commissioned this stunning black satin and organza dress with a feather and sequin embellished bodice and organza skirt. <br/> <br/> \n Similar styles from £450, with materials and embellishment as shown £700"
+  :link "catz1.html"
+  :tt "catztt.jpg"
+  :classes ["spec" "spar" "prom" "theatre" "wstraps" "laceup" "cloud" "midi" "black" "bellish"]
+  :clean true}
  "mckay"
  {:title "Wedding Dress for Issie McKay"
   :pics [{:name "mckay1" :photo true :blurb ""}
