@@ -64,25 +64,58 @@
 
 
 
+(defn basically-empty [string]
+  (= 0 (count (-> string
+                  (.replaceAll " " "")
+                  (.replaceAll "\n" "")
+                  (.replaceAll "<br/>" "")))))
 
-(defn build-client-page [title client-blurb total counter [{prev :name} {:keys [name blurb]} {next :name}]]
-  (let [content (str "---\n"
-                     "layout: client\n"
-                     "title: " title "\n"
-                     "image: " name ".jpg\n"
-                     (if next (str "nextpic: " next "\n") "\n")
-                     (if prev (str "prevpic: " prev "\n") "\n")
-                     "counter: " counter " / " total "\n"
-                     "---\n"
-                     "\n"
-                     client-blurb
-                     "\n"
+(defn has-content? [string]
+  (and string (< 0 (count string))))
+
+
+(defn build-client-page [title
+                         client-blurb
+                         {photo-url :url photo-name :name}
+                         clean
+                         total
+                         counter
+                         [{prev :name} {:keys [name blurb photo]} {next :name}]]
+  (let [
+        header (str "---\n"
+                    "layout: client\n"
+                    "title: " title "\n"
+                    "image: " name ".jpg\n"
+                    (if next (str "nextpic: " next "\n") "\n")
+                    (if prev (str "prevpic: " prev "\n") "\n")
+                    "counter: " counter " / " total "\n"
+                    "---\n"
+                    "\n")
+        photo-credit (if photo
+                       (str "<br/><br/>\n"
+                            "Official photographs by <a href=\""
+                            photo-url
+                            "\" target=\"_blank\">"
+                            photo-name
+                            "</a>"
+                            "<br/>\n")
+                       "")
+        joiner (if (and clean
+                        (has-content? blurb)
+                        (or photo
+                            (has-content? client-blurb)))
+                 "<hr/>\n"
+                 "")
+        content (str header
+                     client-blurb "\n"
+                     photo-credit
+                     joiner
                      blurb)
         filename (str "./portfolio/" name ".html")]
     (spit filename content)))
 
-(defn build-client-pages [{:keys [title pics blurb]}]
-  (let [builder (partial build-client-page title blurb (count pics))
+(defn build-client-pages [{:keys [title blurb photo clean pics]}]
+  (let [builder (partial build-client-page title blurb photo clean (count pics))
         pic-chain (partition 3 1 (concat [nil] pics [nil]))]
     (mapv builder numbers-from-one pic-chain)))
 

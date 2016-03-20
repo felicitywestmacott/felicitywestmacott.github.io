@@ -2,45 +2,47 @@
  "lilac"
  {
   :title "\"Lucie\" Wedding Dress for Photoshoot"
-  :pics [{:name "lilac1" :blurb ""}
-         {:name "lilac2" :blurb ""}
-         {:name "lilac3" :blurb ""}
-         {:name "lilac4" :blurb "Original design sketch"}
-         {:name "lilac5" :blurb ""}
-         {:name "lilac6" :blurb ""}
-         {:name "lilac7" :blurb ""}
-         {:name "lilac8" :blurb ""}
-         {:name "lilac9" :blurb "Cutting out the bolero from the beautiful silver lace."}
-         {:name "lilac10" :blurb "Making the dress; creating the bodice ruching on the stand."}
-         {:name "lilac11" :blurb "A picture I took myself at the shoot, with the detail of the silver lace appliqué to the one side of the hip."}
-         {:name "lilac12" :blurb "The two dresses I made for the shoot hanging up and ready to go!"}
-         {:name "lilac13" :blurb "We didn't really get any good pictures of the back of the dress as it was a bit too big for the model and had to be pinned shut. But this one I took myself show the beautiful waterfall bustle train."}
-         {:name "lilac14" :blurb ""}]
+  :pics [{:name "lilac1" :photo true :blurb ""}
+         {:name "lilac2" :photo true :blurb ""}
+         {:name "lilac3" :photo true :blurb ""}
+         {:name "lilac4" :photo true :blurb "Original design sketch"}
+         {:name "lilac5" :photo true :blurb ""}
+         {:name "lilac6" :photo true :blurb ""}
+         {:name "lilac7" :photo true :blurb ""}
+         {:name "lilac8" :photo true :blurb ""}
+         {:name "lilac9" :photo true :blurb "Cutting out the bolero from the beautiful silver lace."}
+         {:name "lilac10" :photo true :blurb "Making the dress; creating the bodice ruching on the stand."}
+         {:name "lilac11" :photo false :blurb "A picture I took myself at the shoot, with the detail of the silver lace appliqué to the one side of the hip."}
+         {:name "lilac12" :photo true :blurb "The two dresses I made for the shoot hanging up and ready to go!"}
+         {:name "lilac13" :photo true :blurb "We didn't really get any good pictures of the back of the dress as it was a bit too big for the model and had to be pinned shut. But this one I took myself show the beautiful waterfall bustle train."}
+         {:name "lilac14" :photo true :blurb ""}]
   :blurb "Wedding dress for photoshoot made in shot pale pink/lilac taffeta and silver lace. Fitted bodice with ruching into the waist and hip, neckline embellished with appliqué lace creeping to one side, echoed on the opposite hip. Full skirt with gathered flared panel from one side. Full, double waterfall train with silver lace and palest pink tulle showing from under the curls. A corsage of roses and a button and loop back finished the dress. A silver lace bolero with cut away front, tiny puffed sleeves and collar at the back compliments the style. <br/><br/> Similar style made bespoke from £1850, with materials and detail as shown £2600 <br/> <b>This dress is for sale</b>, offers over £500 considered. Size 10/12, but can be altered up or down a size easily. Worn once for the shoot it is in perfect condition except for a little dust under the train and few pin marks at the back. Alterations and delivery will be extra.",
   :link "lilac1.html",
   :tt "lilactt.jpg",
   :classes ["con" "spec" "colour" "bride" "nostraps" "square" "cap" "puffed" "buttons" "firmbone" "full" "hoop" "floor" "cathedral" "ruched" "water" "silver" "purple" "man" "taffeta" "lace" "corsage"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
+  :clean true
   }
  "snow"
  {
   :title "\"Ella\" Wedding Dress for Photoshoot"
-  :pics [{:name "snow1" :blurb ""}
-         {:name "snow2" :blurb ""}
-         {:name "snow3" :blurb ""}
-         {:name "snow4" :blurb ""}
-         {:name "snow5" :blurb "Detail of the lace and silk roses on the skirt's train"}
-         {:name "snow6" :blurb "Original design sketch"}
-         {:name "snow7" :blurb ""}
-         {:name "snow8" :blurb "A candid shot from my own camera between pictures at the photoshoot"}
-         {:name "snow9" :blurb "Making the dress; this is the 'shell' before any embellishment began."}
-         {:name "snow10" :blurb ""}
-         {:name "snow11" :blurb ""}]
+  :pics [{:name "snow1" :photo true :blurb ""}
+         {:name "snow2" :photo true :blurb ""}
+         {:name "snow3" :photo true :blurb ""}
+         {:name "snow4" :photo true :blurb ""}
+         {:name "snow5" :photo true :blurb "Detail of the lace and silk roses on the skirt's train"}
+         {:name "snow6" :photo true :blurb "Original design sketch"}
+         {:name "snow7" :photo true :blurb ""}
+         {:name "snow8" :photo false :blurb "A candid shot from my own camera between pictures at the photoshoot"}
+         {:name "snow9" :photo true :blurb "Making the dress; this is the 'shell' before any embellishment began."}
+         {:name "snow10" :photo true :blurb ""}
+         {:name "snow11" :photo true :blurb ""}]
   :blurb "Dress designed for photoshoot 'Snowflake'. Boned bodice in pale ivory silk dupion and overlaid with gathered tulle. The sweet heart neckline and the natural waistline are both edged with scalloped lace edging which also creeps up around the inside edge of the gathered tulle straps. The skirt is layers and layers of tulle, caught up with more lace and roses in a 'snowflake' scalloped shape that dips into the train at the back. It fastens with ribbon lacing. <br/> <br/> Similar style made bespoke from £1850, with materials and detail as shown £2600 <br/> <br/> <b>This dress is for sale</b>, offers over £500 considered. Size 10, but can be altered up or down a size easily. Worn once for the shoot it is in perfect condition except for a little dust under the train and a little make up on the lining. Alterations and delivery will be extra.",
   :link "snow1.html",
   :tt "snowtt.jpg",
   :classes ["trad" "spec" "bride" "wstraps" "sweet" "laceup" "firmbone" "full" "hoop" "floor" "cathedral" "layers" "ivory" "silk" "tulle" "lace" "corsage"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
+  :clean true
   }
 
  "ennaunder"

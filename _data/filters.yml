@@ -239,6 +239,8 @@
       label: Dupion
     - value: bellish
       label: Embellished
+    - value: corsage
+      label: Corsage/Flowers
     - value: swar
       label: Swarovski
 
