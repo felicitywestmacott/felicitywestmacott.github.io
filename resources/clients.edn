@@ -1,7 +1,7 @@
 {
  "lilac"
  {
-  :title "\"Lucie\" Wedding Dress for Photoshoot"
+  :title "Lucie Wedding Dress for Photoshoot"
   :pics [{:name "lilac1" :photo true :blurb ""}
          {:name "lilac2" :photo true :blurb ""}
          {:name "lilac3" :photo true :blurb ""}
@@ -25,7 +25,7 @@
   }
  "snow"
  {
-  :title "\"Ella\" Wedding Dress for Photoshoot"
+  :title "Ella Wedding Dress for Photoshoot"
   :pics [{:name "snow1" :photo true :blurb ""}
          {:name "snow2" :photo true :blurb ""}
          {:name "snow3" :photo true :blurb ""}
