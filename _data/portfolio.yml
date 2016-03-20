@@ -7,10 +7,6 @@
    tt: mckaytt.jpg
    classes: trad bride veil high sweet long buttons sash firmbone full floor chapel ivory silk organza lace
 
- - link: parcell1.html
-   tt: parcelltt.jpg
-   classes: cont spec colour bride beading nostraps sweet laceup firmbone princess fish floor notrain pink man satin tulle bellish
-
  - link: casey1.html
    tt: caseytt.jpg
    classes: vint hist cont spec colour bride wstraps high lowback sash lightbone dropped loose striaght floor chapel bias peplum cream gold silk satin chiffon lace tulle bellish
@@ -51,9 +47,9 @@
    tt: candlertt.jpg
    classes: vint bride buttons sash peplum halter vneck dupion silk lace
 
- - link: Huggett1.html
-   tt: Huggetttt.jpg
-   classes: bride high princess floor striaght ivory satin man lace long
+ - link: parcell1.html
+   tt: parcelltt.jpg
+   classes: cont spec colour bride beading nostraps sweet laceup firmbone princess fish floor notrain pink man satin tulle bellish
 
 
  - label: 2013
@@ -94,6 +90,10 @@
  - link: travis1.html
    tt: travistt.jpg
    classes: trad vint bride cuffs zip buttons notrain floor flow sweet empire lightbone long ivory chiffon satin lacefab
+
+ - link: Huggett1.html
+   tt: Huggetttt.jpg
+   classes: bride high princess floor striaght ivory satin man lace long
 
  - link: ivens1.html
    tt: ivenstt.jpg

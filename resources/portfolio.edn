@@ -1,6 +1,5 @@
 ({:label 2015}
  {:client "mckay"}
- {:client "parcell"}
  {:client "casey"}
  {:client "caseybmaid"}
  {:client "waterhouse"}
@@ -11,7 +10,7 @@
  {:client "harris"}
  {:client "joseph"}
  {:client "candler"}
- {:client "Huggett"}
+ {:client "parcell"}
  {:label 2013}
  {:client "sophie"}
  {:client "cristina"}
@@ -22,6 +21,7 @@
  {:client "hook"}
  {:client "ingram"}
  {:client "travis"}
+ {:client "Huggett"}
  {:client "ivens"}
  {:label 2012}
  {:client "carroll"}
