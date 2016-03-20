@@ -4,6 +4,7 @@
             [clj-yaml.core :as yaml]))
 
 
+(System/exit 1)                                             ; You probably don't want to do this anymore!
 
 (def client-data (atom {}))
 
