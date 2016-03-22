@@ -1,4 +1,25 @@
-{"catz"
+{
+ "madelei"
+ {:title "Vintage Dress Remodelling for Madelei"
+  :pics [{:name "madelei1" :photo true :blurb ""}
+         {:name "madelei2" :photo true :blurb ""}
+         {:name "madelei3" :photo true :blurb "The sleeves and collar are made with delicate lace snipped all round to create the soft uneven edge."}
+         {:name "madelei4" :blurb "Original Design Sketch"}
+         {:name "madelei5" :photo true :blurb ""}
+         {:name "madelei6" :photo true :blurb ""}
+         {:name "madelei7" :blurb "<b>Madelei Wrote:</b> <br/> <br/> \n Thank you so much for creating my wonderful dress! It collected many compliments and was so me! It brought tears to my MIL's eyes and mum said it was more than perfect! She is so glad we managed to reinvent her dress and will now be passed down generations. The groom was astonished in how it was exactly what he imagined me in. We feel blessed to have found your talent, patience and passion doing this work, and wish success for years to come."}
+         {:name "madelei8" :photo true :blurb "Detail of the lace with tiny daisy motifs added by hand."}
+         {:name "madelei9" :photo true :blurb "The buttons and sash were also from the original dress, used again to add pretty detail."}
+         {:name "madelei10" :blurb "Left: The vintage wedding dress, as it was brough to me and before we began work on the new creation. <br/> <br/> \n Right: Madelei in her toile (practice run)."}
+         {:name "madelei11" :blurb "Pictures from her final fitting"}
+         {:name "madelei12" :photo true :blurb ""}]
+  :blurb "Similar work from £800 <br/> <br/> \n Madelei brought me her mother's wedding dress which we remodelled. The bodice was made new but with elements of style reminiscent of the original. The skirt was raised at the waistline so it became tea length and the train just touched the floor. Delicate lace purchased from Madelei's native Brazil was added to skirt and bodice and trimmed with tiny daisy motifs."
+  :link "madelei1.html"
+  :tt "madeleitt.jpg"
+  :classes ["vint" "bride" "restyle" "round" "cap" "buttons" "sash" "nobone" "aline" "midi" "notrain" "layers" "ivory" "manmade" "chiffon" "lace"]
+  :photo {:url "http://www.glenjevon.com" :name "Glen Jevon Photography"}
+  :clean true}
+ "catz"
  {:title "Birthday Dress for Catz"
   :pics [{:name "catz1" :blurb ""}
          {:name "catz2" :blurb ""}
