@@ -16,7 +16,7 @@
   :blurb "Similar work from £800 <br/> <br/> \n Madelei brought me her mother's wedding dress which we remodelled. The bodice was made new but with elements of style reminiscent of the original. The skirt was raised at the waistline so it became tea length and the train just touched the floor. Delicate lace purchased from Madelei's native Brazil was added to skirt and bodice and trimmed with tiny daisy motifs."
   :link "madelei1.html"
   :tt "madeleitt.jpg"
-  :classes ["vint" "bride" "restyle" "round" "cap" "buttons" "sash" "nobone" "aline" "midi" "notrain" "layers" "ivory" "manmade" "chiffon" "lace"]
+  :classes ["vint" "bride" "restyle" "round" "cap" "buttons" "sash" "nobone" "aline" "midi" "notrain" "layers" "ivory" "man" "chiffon" "lacefab"]
   :photo {:url "http://www.glenjevon.com" :name "Glen Jevon Photography"}
   :clean true}
  "catz"
@@ -51,7 +51,7 @@
   :blurb "Issie's dress was made with a boned satin bodice with pretty lace overlay. Long sleeves and a boat neckline were trimmed with a pretty scalloped edging. A simple silk dupion sash highlighted her tiny waist and the back fastened with buttons and loops. The full skirt was three layers of silk organza over linings and netting flowing out behind in a wide train. <br/> <br/> \n Similar styles from £1850, with silk materials as shown £2700 <br/> <br/> \n I also made Issie's very two tier long veil. The train part was trimmed in matching lace edging to her dress and the blusher (comes over her face) was edged with simple cording. As shown £175"
   :link "mckay1.html"
   :tt "mckaytt.jpg"
-  :classes ["trad" "bride" "veil" "high" "sweet" "long" "buttons" "sash" "firmbone" "full" "floor" "chapel" "ivory" "silk" "organza" "lace"]
+  :classes ["trad" "bride" "veil" "high" "sweet" "long" "buttons" "sash" "firmbone" "full" "floor" "chapel" "ivory" "silk" "chiffon" "lacefab"]
   :photo {:url "http://www.montysteedman.com/" :name "Monty Steedman Photography"}
   :clean true}
  "lilac"
@@ -73,7 +73,7 @@
   :blurb "Wedding dress for photoshoot made in shot pale pink/lilac taffeta and silver lace. Fitted bodice with ruching into the waist and hip, neckline embellished with appliqué lace creeping to one side, echoed on the opposite hip. Full skirt with gathered flared panel from one side. Full, double waterfall train with silver lace and palest pink tulle showing from under the curls. A corsage of roses and a button and loop back finished the dress. A silver lace bolero with cut away front, tiny puffed sleeves and collar at the back compliments the style. <br/><br/> Similar style made bespoke from £1850, with materials and detail as shown £2600 <br/> <b>This dress is for sale</b>, offers over £500 considered. Size 10/12, but can be altered up or down a size easily. Worn once for the shoot it is in perfect condition except for a little dust under the train and few pin marks at the back. Alterations and delivery will be extra.",
   :link "lilac1.html",
   :tt "lilactt.jpg",
-  :classes ["con" "spec" "colour" "bride" "nostraps" "square" "cap" "puffed" "buttons" "firmbone" "full" "hoop" "floor" "cathedral" "ruched" "water" "silver" "purple" "man" "taffeta" "lace" "corsage" "bolero"]
+  :classes ["cont" "spec" "colour" "bride" "nostraps" "square" "cap" "puffed" "buttons" "firmbone" "full" "hoop" "floor" "cathedral" "ruched" "water" "silver" "purple" "man" "taffeta" "lacefab" "corsage" "bolero"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
   :clean true}
  "snow"
@@ -91,7 +91,7 @@
   :blurb "Dress designed for photoshoot 'Snowflake'. Boned bodice in pale ivory silk dupion and overlaid with gathered tulle. The sweet heart neckline and the natural waistline are both edged with scalloped lace edging which also creeps up around the inside edge of the gathered tulle straps. The skirt is layers and layers of tulle, caught up with more lace and roses in a 'snowflake' scalloped shape that dips into the train at the back. It fastens with ribbon lacing. <br/> <br/> Similar style made bespoke from £1850, with materials and detail as shown £2600 <br/> <br/> <b>This dress is for sale</b>, offers over £500 considered. Size 10, but can be altered up or down a size easily. Worn once for the shoot it is in perfect condition except for a little dust under the train and a little make up on the lining. Alterations and delivery will be extra.",
   :link "snow1.html",
   :tt "snowtt.jpg",
-  :classes ["trad" "spec" "bride" "wstraps" "sweet" "laceup" "firmbone" "full" "hoop" "floor" "cathedral" "layers" "ivory" "silk" "tulle" "lace" "corsage"]
+  :classes ["trad" "spec" "bride" "wstraps" "sweet" "laceup" "firmbone" "full" "hoop" "floor" "cathedral" "layers" "ivory" "silk" "tulle" "lacefab" "corsage"]
   :photo {:url "http://www.simonhooleyphotography.co.uk/" :name "Simon Hooley Photography"}
   :clean true}
  "ennaunder"
@@ -251,7 +251,7 @@
    "cathedral"
    "full"
    "sweet"
-   "waterfall"
+   "water"
    "laceup"
    "ivory"
    "blue"
@@ -371,7 +371,6 @@
    "firmbone"
    "sash"
    "ruched"
-   "train"
    "wstraps"
    "floor"
    "sweet"
@@ -446,7 +445,7 @@
    "vneck"
    "dupion"
    "silk"
-   "lace"]},
+   "lacefab"]},
  "doani"
  {:title "Wedding dress for Thalia Doani",
   :pics
@@ -910,7 +909,7 @@
   :link "allen1.html",
   :tt "allentt.jpg",
   :classes
-  ["bride" "zip" "offshoulder" "aline" "blue" "waterfall" "ruching"]},
+  ["bride" "zip" "offshould" "aline" "blue" "water" "ruched"]},
  "ennabmaid"
  {:title "Bridesmaids for Eleanor Parks Young",
   :pics
@@ -977,7 +976,7 @@
   "<p>Child bridesmaid dress in ivory silk satin with hand beading and tulle cape. </p>",
   :link "ivens1.html",
   :tt "ivenstt.jpg",
-  :classes ["kids" "bmaid" "embellish" "ivory" "silk"]},
+  :classes ["kids" "bmaid" "bellish" "ivory" "silk"]},
  "cookbmaid"
  {:title "Bridesmaid dresses and men's accessories for Marie Cook",
   :pics
@@ -1750,11 +1749,11 @@
    "high"
    "princess"
    "floor"
-   "striaght"
+   "straight"
    "ivory"
    "satin"
    "man"
-   "lace"
+   "lacefab"
    "long"]},
  "joseph"
  {:title "Wedding Dress for Harriet",
@@ -2304,7 +2303,7 @@
   :blurb "",
   :link "harris1.html",
   :tt "harristt.jpg",
-  :classes ["bride" "embelish" "sweet" "fishtail"]},
+  :classes ["bride" "bellish" "sweet" "fish"]},
  "phillips"
  {:title "Veil for Rachel Phillips",
   :pics
@@ -2428,7 +2427,7 @@
    "cathedral"
    "full"
    "sweet"
-   "waterfall"
+   "water"
    "cap"
    "lightbone"
    "ivory"
@@ -2850,7 +2849,7 @@
    "floor"
    "flow"
    "round"
-   "waterfall"
+   "water"
    "lightbone"
    "pink"
    "chiffon"
@@ -3515,7 +3514,7 @@
    "puddle"
    "ivory"
    "satin"
-   "lace"]},
+   "lacefab"]},
  "butler"
  {:title "Wedding dress and veil for Gerry Butler",
   :pics
@@ -3684,7 +3683,7 @@
    "lightbone"
    "dropped"
    "loose"
-   "striaght"
+   "straight"
    "floor"
    "chapel"
    "bias"
@@ -3694,7 +3693,7 @@
    "silk"
    "satin"
    "chiffon"
-   "lace"
+   "lacefab"
    "tulle"
    "bellish"]},
  "parcell"
@@ -4071,7 +4070,7 @@
    "sweet"
    "lightbone"
    "ivory"
-   "lace"]},
+   "lacefab"]},
  "billigemen"
  {:title "Cravats and hankies for Amanda Billige",
   :pics
