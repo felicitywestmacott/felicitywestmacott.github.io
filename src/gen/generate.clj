@@ -110,7 +110,7 @@
                      client-blurb "\n"
                      photo-credit
                      joiner
-                     blurb)
+                     (or blurb ""))
         filename (str "./portfolio/" name ".html")]
     (spit filename content)))
 

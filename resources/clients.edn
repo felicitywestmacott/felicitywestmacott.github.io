@@ -1,4 +1,18 @@
 {
+ "gibbon"
+ {:title "Christening Gown for Baby Gibbon"
+  :pics [{:name "gibbon1" :blurb ""}
+         {:name "gibbon2" :blurb ""}
+         {:name "gibbon3" :blurb ""}
+         {:name "gibbon4" :blurb ""}
+         {:name "gibbon5" :blurb ""}
+         {:name "gibbon6" :blurb ""}
+         {:name "gibbon7" :blurb ""}]
+  :blurb "Christening gown for baby Gibbon in beautiful pale gold beaded lace. A simple bodice with folded chiffon sash and real buttons and loops to close. Little puffed sleeves in matching lace complete the picture. <br/> <br/> \n Christening gowns from £150, with fabrics as shown £300"
+  :link "gibbon1.html"
+  :tt "gibbontt.jpg"
+  :classes ["kids" "puffed" "gold" "lacefab"]
+  :clean true}
  "madelei"
  {:title "Vintage Dress Remodelling for Madelei"
   :pics [{:name "madelei1" :photo true :blurb ""}
