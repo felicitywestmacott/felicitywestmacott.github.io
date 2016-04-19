@@ -1,4 +1,25 @@
 {
+ "alexandra"
+ {:title " Wedding Dress for Alexandra"
+  :pics [{:name "alexandra1" :blurb "I also made this veil for Alexandra, single tier, ivory tulle on a comb. Similar veils from £60"}
+         {:name "alexandra2"}
+         {:name "alexandra3" :blurb "The silk tulle drape on the back of the dress was tricky to get right, but well worth the effort!"}
+         {:name "alexandra4" :blurb "Alexandra's own design sketches; front and back."}
+         {:name "alexandra5"}
+         {:name "alexandra6" :blurb "The delicate ivory tulle that supported the lace on Alexandra's shoulders and back was fine enough to almost invisable!"}
+         {:name "alexandra7" :blurb "Alexandra did the lace appliqué and beading herself. I am always happy to accommodate a clients' desire to create parts of their dress."}
+         {:name "alexandra8" :blurb ""}
+         {:name "alexandra9"}
+         {:name "alexandra10"}
+         {:name "alexandra11" :blurb "A fitting picture from the middle of the making process, before the skirt has been attached or the side zip added. <br/> <br/> \n Also from the back, see just how shear the tulle over her skin is, ready for the lace to 'float' over her back."}
+         {:name "alexandra12" :blurb "Placing the silk tulle drape at the back was fiddly ...but what a difference adding all the beading makes!"}
+         {:name "alexandra13" :blurb "Fitting picture... Alexandra examines the neckline"}
+         {:name "alexandra14"}]
+  :blurb "Palest blush satin with ivory organza and tulle layered on top. This commission was lots of fun as the bride is a designer herself and really only wanted me for the labour, all the design was her own! Alexandra also did all the lace and beading work herself, on a spectacular dress that I created for her as a canvas. <br/> <br/> \n Similar styles from £1850 plus fabric, with similar lace work £3000+"
+  :link "alexandra1.html"
+  :tt "alexandratt.jpg"
+  :classes ["trad" "spec" "spar" "colour" "bride" "beading" "veil" "wstraps" "sweet" "lowback" "zip" "firmbone" "flow" "floor" "cathedral" "ivory" "pink" "tulle" "satin" "bellish"]
+  :clean true}
  "gibbon"
  {:title "Christening Gown for Baby Gibbon"
   :pics [{:name "gibbon1" :blurb ""}
