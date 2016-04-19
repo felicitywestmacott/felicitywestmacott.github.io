@@ -51,10 +51,6 @@
    tt: candlertt.jpg
    classes: vint bride buttons sash peplum halter vneck dupion silk lacefab
 
- - link: gibbon1.html
-   tt: gibbontt.jpg
-   classes: kids puffed gold lacefab
-
  - link: parcell1.html
    tt: parcelltt.jpg
    classes: cont spec colour bride beading nostraps sweet laceup firmbone princess fish floor notrain pink man satin tulle bellish
@@ -102,6 +98,10 @@
  - link: Huggett1.html
    tt: Huggetttt.jpg
    classes: bride high princess floor straight ivory satin man lacefab long
+
+ - link: gibbon1.html
+   tt: gibbontt.jpg
+   classes: kids puffed gold lacefab
 
  - link: ivens1.html
    tt: ivenstt.jpg
