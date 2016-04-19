@@ -1,4 +1,24 @@
 {
+ "parkinson"
+ {:title "Wedding Dress For Sofia"
+  :pics [{:name "parkinson1" :blurb "Here the train is hooked up behind to keep it off the floor, all my dresses come with bustle buttons for the train."}
+         {:name "parkinson2" :blurb "I also made Sofia's simple two tier veil, similar styles from £75"}
+         {:name "parkinson3"}
+         {:name "parkinson4" :blurb "Design sketch"}
+         {:name "parkinson5" :blurb "We made the back of Sofia's dress with a completely hidden fastening. The satin bodice did up with a zip underneath and then the lace design poppered shut over the top, for a seamless finish."}
+         {:name "parkinson6" :blurb "The bride, all dressed and ready to go!"}
+         {:name "parkinson7" :blurb "Sofia's train was left unlined for an unusual shear look. The skirt lining beneath was floor length all round."}
+         {:name "parkinson8"}
+         {:name "parkinson9"}
+         {:name "parkinson10" :blurb "Pictures from the toile (practice run) fitting"}
+         {:name "parkinson11" :blurb "Picture from the final fitting, just the hem length to finish. From the back, showing the shear (unlined) train, which came with a hook up for the evening."}
+         {:name "parkinson12" :blurb "Picture from the final fitting showing the beautiful lace of the bodice and sash detail at the waist."}
+         {:name "parkinson13"}]
+  :blurb "Classic lace and tulle dress with boned satin bodice and romantic layered skirt. Similar styles from £1850, with materials as shown £2200."
+  :link "parkinson1.html"
+  :tt "parkinsontt.jpg"
+  :classes ["trad" "bride" "veil" "wstraps" "high" "sweet" "quarter" "sash" "firmbone" "full" "floor" "chapel" "ivory" "satin" "lacefab" "tulle"]
+  :clean true}
  "alexandra"
  {:title " Wedding Dress for Alexandra"
   :pics [{:name "alexandra1" :blurb "I also made this veil for Alexandra, single tier, ivory tulle on a comb. Similar veils from £60"}
@@ -7,7 +27,7 @@
          {:name "alexandra4" :blurb "Alexandra's own design sketches; front and back."}
          {:name "alexandra5"}
          {:name "alexandra6" :blurb "The delicate ivory tulle that supported the lace on Alexandra's shoulders and back was fine enough to almost invisable!"}
-         {:name "alexandra7" :blurb "Alexandra did the lace appliqué and beading herself. I am always happy to accommodate a clients' desire to create parts of their dress."}
+         {:name "alexandra7" :blurb "Alexandra did the lace appliqué and beading herself. I am always happy to accommodate a client's desire to create parts of their dress."}
          {:name "alexandra8" :blurb ""}
          {:name "alexandra9"}
          {:name "alexandra10"}
