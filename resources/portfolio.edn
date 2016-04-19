@@ -3,7 +3,7 @@
  {:client "casey"}
  {:client "caseybmaid"}
  {:client "waterhouse"}
- ;{:client "alexandra"}
+ {:client "alexandra"}
  {:client "snow"}
  {:client "lilac"}
  {:label 2014}
