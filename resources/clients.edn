@@ -21,7 +21,7 @@
   :blurb "Stunning dress in winter white duchess satin and bold guipure lace."
   :link "ayesha1.html"
   :tt "ayeshatt.jpg"
-  :classes []
+  :classes ["cont" "bride" "veil" "vneck" "cap" "lowback" "buttons" "nobone" "fish" "floor" "chapel" "white" "satin" "lacefab" "man"]
   :clean true}
  "brabbsbmaid"
  {:title "Bridesmaids for Karen Williams"
@@ -38,7 +38,7 @@
   :blurb "Stunning 1950's style bridesmaids dresses in 'Cadbury' purple with with black sashes and pretty butterfly detail."
   :link "brabbsbmaid1.html"
   :tt "brabbsbmaidtt.jpg"
-  :classes []
+  :classes ["bmaid" "halter" "sweet" "zip" "midi" "purple" "silk" "dupion"]
   :clean true}
  "brabbs"
  {:title   "Wedding dress and hand embroidery for Karen Williams"
@@ -64,7 +64,7 @@
   :blurb   "Simple modern wedding dress in ivory silk dupion with contrast purple silk detail. Hand embroidered butterflies in silk thread and lace appliqué complete the picture."
   :link    "brabbs1.html"
   :tt      "brabbstt.jpg"
-  :classes []
+  :classes ["trad" "colour" "bride" "beading" "nostraps" "sweet" "laceup" "firmbone" "princess" "floor" "chapel" "ivory" "purple" "silk" "lacefab" "embroid" "dupion" "hoop" "split"]
   :clean   true}
  "parkinson"
  {:title "Wedding Dress For Sofia"
