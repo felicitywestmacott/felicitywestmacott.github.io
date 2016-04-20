@@ -3593,7 +3593,7 @@
    {:blurb "<p> A picture of the vintage dress 'before' at it's last outing in the 1970's on Sarah's mum's wedding day. </p>",
     :name "kelly4"}
    {:name "kelly5" :photo true}
-   {:blurb "\n<hr /> \n\n<p> \nA hidden inner corset lace shut to cinch Sarah's waist and give a support the strapless shape.\n</p>",
+   {:blurb "A hidden inner corset laced shut to cinch Sarah's waist and give support to the strapless shape.",
     :name "kelly6" :photo true}
    {:name "kelly7" :photo true}
    {:name "kelly8" :photo true}
