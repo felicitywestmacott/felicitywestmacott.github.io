@@ -1,4 +1,47 @@
 {
+ "brabbsbmaid"
+ {:title "Bridesmaids for Karen Williams"
+  :pics [{:name "brabbsbmaid1" :blurb "The dresses are all simple boned bodices with a 'ballet pinch' detail just below the sweetheart neckline. A halterneck is flattering and provided peace of mind to the wearer. The full circle skirts lie over netting skirts in bright contrast colours of turquoise, green and fuchsia. Black silk sashes emphasise tiny waists with pre-tied bows at the back and concealed zip closure."}
+         {:name "brabbsbmaid2"}
+         {:name "brabbsbmaid3" :blurb "Three pretty bridesmaids with their dressmaker."}
+         {:name "brabbsbmaid4" :blurb "Original design sketch. The petticoats were separate garments so the dresses could be worn for other occasions with less 'poof'."}
+         {:name "brabbsbmaid5" :blurb "With the bride, who also had her dress made by me. Click <a href=\"brabbs1.html\">here</a> to see more of Karen's stunning wedding dress."}
+         {:name "brabbsbmaid6"}
+         {:name "brabbsbmaid7" :blurb "Pictures from a fitting and a finished dress on the stand. Tiny ivory organza butterflies were sewn in different places on each dress so it looked like a flight of the pretty insects had just alighted on the girls. Each butterfly was made of two layers of organza with Swarovski crystals added for a little sparkle."}
+         {:name "brabbsbmaid8" :blurb "Detail of the butterflies on one dress."}
+         {:name "brabbsbmaid9"}
+         {:name "brabbsbmaid10" :blurb "The coloured petticoats looked fabulous as they peeked out when the girls danced, sat down or walked around."}]
+  :blurb "Stunning 1950's style bridesmaids dresses in 'Cadbury' purple with with black sashes and pretty butterfly detail."
+  :link "brabbsbmaid1.html"
+  :tt "brabbsbmaidtt.jpg"
+  :classes []
+  :clean true}
+ "brabbs"
+ {:title   "Wedding dress and hand embroidery for Karen Williams"
+  :pics    [{:name "brabbs1" :blurb "Karen's dress has a boned bodice with slight sweetheart neckline, trimmed in palest pink and silver floral lace and highlighted with hand sewn Swarovski crystals. The dress has symmetric ruching and a split at the front to reveal a dramatic 'Cadbury' purple silk hand appliquéd with beaded black lace motifs. At the back the dress laces closed with purple ribbon above a long train embellished with hand embroidered butterflies. Each butterfly is finished with more crystals as they fly randomly among symmetrically placed silver and pink lace appliqué motifs."}
+            {:name "brabbs2" :blurb "Lacing the bride into her dress with dramatic purple ribbon lacing."}
+            {:name "brabbs3"}
+            {:name "brabbs4" :blurb "Original design sketch. The placement of the the butterflies and lace appliqué was done at a fitting with the bride there to help. We cut out and coloured lots of butterfly designs and pinned them to the dress to decide a balanced but natural formation."}
+            {:name "brabbs5"}
+            {:name "brabbs6" :blurb "The train finished on the stand, the butterflies fly at random amongst the symmetrically placed lace motifs."}
+            {:name "brabbs7" :blurb "Each butterfly is hand sewn using Japanese silk threads. A single butterfly takes a whole day to create."}
+            {:name "brabbs8" :blurb "There were six types of butterfly on her dress, each with at least two of it's kind present. I didn't want any butterflies to feel lonely!"}
+            {:name "brabbs9" :blurb "Stage one of creating a butterfly. The outline is drawn onto the reverse of the fabric and then running stitch pushes the design through onto the front. With the fabric in a frame to keep it tight the colours are gradually filled in."}
+            {:name "brabbs10" :blurb "More colours are added and at the end the crystal body is sewn down the middle."}
+            {:name "brabbs11" :blurb "The lace motifs are also each sewn to the dress by hand. In palest pink and silver they provided somewhere for the butterflies to land."}
+            {:name "brabbs12" :blurb "The lace at the neckline had a pretty scalloped edge to soften the line. Hundreds of Swarovski crystals highlighted the middle of each flower. On one side, I used a few pale blue crystals for a hidden 'something blue'."}
+            {:name "brabbs13" :blurb "This was the only 'single' butterfly, larger than the others and in three dimensions. It is made with organza wings that flutter as Karen moved. The button just below was for her train to hook up onto for later in the day, the organza butterfly hovering just above."}
+            {:name "brabbs14" :blurb "Here you can see Karen's train hooked up for easy of walking. Her three stunning bridesmaids dresses were also created by me and can be seen in more detail <a href=\"brabbsbmaid1.html\">here</a>."}
+            {:name "brabbs15" :blurb "Detail of the finished dress showing the black lace appliqué on the purple silk background."}
+            {:name "brabbs16" :blurb "Fitting picture: Karen in her 'toile' (practice run)."}
+            {:name "brabbs17" :blurb "Fitting picture: Karen in the nearly finished dress, just the hem to do!"}
+            {:name "brabbs18" :blurb "Karen also commissioned a simple purple silk stole to wear in some photos."}
+            {:name "brabbs19" :blurb "The bride and her dressmaker."}]
+  :blurb   "Simple modern wedding dress in ivory silk dupion with contrast purple silk detail. Hand embroidered butterflies in silk thread and lace appliqué complete the picture."
+  :link    "brabbs1.html"
+  :tt      "brabbstt.jpg"
+  :classes []
+  :clean   true}
  "parkinson"
  {:title "Wedding Dress For Sofia"
   :pics [{:name "parkinson1" :blurb "Here the train is hooked up behind to keep it off the floor, all my dresses come with bustle buttons for the train."}
