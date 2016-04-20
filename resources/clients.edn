@@ -70,7 +70,7 @@
  {:title "Wedding Dress For Sofia"
   :pics [{:name "parkinson1" :blurb "Here the train is hooked up behind to keep it off the floor, all my dresses come with bustle buttons for the train."}
          {:name "parkinson2" :blurb "I also made Sofia's simple two tier veil, similar styles from £75"}
-         {:name "parkinson3"}
+         {:name "parkinson3" :blurb "<b>Sofia wrote:</b> Hi Felicity, <br/> Thank you so much for your email and getting in touch! Apologies for the delayed response but I have only just switched on my work emails after two weeks honeymooning in Thailand. The wedding was such a beautiful day, even the weather was perfect! I have to say that I absolutely loved my dress and got lovely comments about it all day and am still getting comments from people in the office about how beautiful it looked so thank you so very much for creating a perfect dress for a perfect day :-) I have attached 2 photos for you and would be happy for you to use them on your website. More photos may follow later but these are the initial ones the photographer has sent over so far. Thank you so much again! <br/> Sofia"}
          {:name "parkinson4" :blurb "Design sketch"}
          {:name "parkinson5" :blurb "We made the back of Sofia's dress with a completely hidden fastening. The satin bodice did up with a zip underneath and then the lace design poppered shut over the top, for a seamless finish."}
          {:name "parkinson6" :blurb "The bride, all dressed and ready to go!"}
@@ -89,7 +89,7 @@
  "alexandra"
  {:title " Wedding Dress for Alexandra"
   :pics [{:name "alexandra1" :blurb "I also made this veil for Alexandra, single tier, ivory tulle on a comb. Similar veils from £60"}
-         {:name "alexandra2"}
+         {:name "alexandra2" :blurb "<b>Alexandra wrote:</b> My dress was everything and more that I dreamed of. Everyone loved it, and of course I am it's biggest fan! I hope you are able to continue to help future brides like myself feel as beautiful as I did!"}
          {:name "alexandra3" :blurb "The silk tulle drape on the back of the dress was tricky to get right, but well worth the effort!"}
          {:name "alexandra4" :blurb "Alexandra's own design sketches; front and back."}
          {:name "alexandra5"}
@@ -3585,58 +3585,26 @@
  "kelly"
  {:title "Wedding dress for Sarah Kelly",
   :pics
-  [{:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>\n<hr /> \n\n<p> \nSarah's mother's dress needed to be almost completely remade to fit her taller and fuller figure. The high neckline and sleeves were removed and a new boned innner bodice was created to support and shape Sarah's figure. The dress was split along the old underbust seam and a ruched satin sash inserted to provide the extra length needed.\n</p>\n<p>\nThe bolero was made with new lace but we chose this kind, 'guipure' as it was very popular in the 1970's when the original dress was created. The bolero was a simple cut away shape with tiny cap sleeves. We used the pretty edging that came with the lace to define the neckline edge of the dress as well as the bolero. The sleeve edges were softened with hand appliquéd pieces of the guipure lace fabric.\n</p>",
-    :name "kelly1"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly2"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly3"}
-   {:blurb
-    "<hr /> \n\n<p> \nA picture of the vintage dress 'before' at it's last outing in the 1970's on Sarah's mum's wedding day. \n</p>",
+  [{:blurb "<p> Sarah's mother's dress needed to be almost completely remade to fit her taller and fuller figure. The high neckline and sleeves were removed and a new boned innner bodice was created to support and shape Sarah's figure. The dress was split along the old underbust seam and a ruched satin sash inserted to provide the extra length needed.</p><p>The bolero was made with new lace but we chose this kind, 'guipure' as it was very popular in the 1970's when the original dress was created. The bolero was a simple cut away shape with tiny cap sleeves. We used the pretty edging that came with the lace to define the neckline edge of the dress as well as the bolero. The sleeve edges were softened with hand appliquéd pieces of the guipure lace fabric.</p>",
+    :name "kelly1" :photo true}
+   {:blurb "<b>Sarah wrote:</b> The dress was perfect, thank you so much. It made my dad cry (yay!) Thank you so much. <br/> Sarah Eamer! (Kelly) xxx"
+    :name "kelly2" :photo true}
+   {:name "kelly3" :photo true}
+   {:blurb "<p> A picture of the vintage dress 'before' at it's last outing in the 1970's on Sarah's mum's wedding day. </p>",
     :name "kelly4"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly5"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>\n<hr /> \n\n<p> \nA hidden inner corset lace shut to cinch Sarah's waist and give a support the strapless shape.\n</p>",
-    :name "kelly6"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly7"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly8"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly9"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.mariannechua.com/\" target=\"_blank\"> Marianne Chua </a> </i></p>",
-    :name "kelly10"}],
-  :blurb
-  "<b>\nWedding dress restyle (vintage) and bolero for Sarah Kelly\n</b>\n\n<p>\n <b>\n Similar restyling work from £500 </b> <i>(as shown £650)</i>\n\t<br/>\n\t<b>\n\tBoleros from £130 </b> <i> (with lace as shown £290)\n </i>\n \n</p>\n\n<p>\nSarah brought me her mother's wedding dress, vintage 1970's in lace with long sleeves to be restyled for a modern bride. I also made her a pretty lace bolero to compliment the fabric of the original gown.\n</p>\n\n",
+   {:name "kelly5" :photo true}
+   {:blurb "\n<hr /> \n\n<p> \nA hidden inner corset lace shut to cinch Sarah's waist and give a support the strapless shape.\n</p>",
+    :name "kelly6" :photo true}
+   {:name "kelly7" :photo true}
+   {:name "kelly8" :photo true}
+   {:name "kelly9" :photo true}
+   {:name "kelly10" :photo true}],
+  :blurb "Wedding dress restyle (vintage) and bolero for Sarah Kelly <p><b>Similar restyling work from £500</b> <i>(as shown £650)</i><br/><b>Boleros from £130 </b> <i> (with lace as shown £290) </i> </p> <p>Sarah brought me her mother's wedding dress, vintage 1970's in lace with long sleeves to be restyled for a modern bride. I also made her a pretty lace bolero to compliment the fabric of the original gown.</p>",
   :link "kelly1.html",
   :tt "kellytt.jpg",
-  :classes
-  ["simp"
-   "vint"
-   "bolero"
-   "bride"
-   "restyle"
-   "zip"
-   "sash"
-   "ruched"
-   "floor"
-   "sweet"
-   "cap"
-   "aline"
-   "lightbone"
-   "puddle"
-   "ivory"
-   "satin"
-   "lacefab"]},
+  :photo {:url "http://www.mariannechua.com" :name "Marianne Chua"}
+  :classes ["simp" "vint" "bolero" "bride" "restyle" "zip" "sash" "ruched" "floor" "sweet" "cap" "aline" "lightbone" "puddle" "ivory" "satin" "lacefab"]
+  :clean true},
  "butler"
  {:title "Wedding dress and veil for Gerry Butler",
   :pics
