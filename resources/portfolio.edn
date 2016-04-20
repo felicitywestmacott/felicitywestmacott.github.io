@@ -1,13 +1,11 @@
 (
- ; {:client "brabbs"}
- ; {:client "brabbsbmaid"}
- ; {:client "ayesha"}
  {:label 2015}
  {:client "mckay"}
  {:client "casey"}
  {:client "caseybmaid"}
  {:client "waterhouse"}
  {:client "alexandra"}
+ {:client "ayesha"}
  {:client "snow"}
  {:client "lilac"}
  {:label 2014}
@@ -73,6 +71,8 @@
  {:client "leah"}
  {:client "irene"}
  {:client "irenemen"}
+ {:client "brabbs"}
+ {:client "brabbsbmaid"}
  {:client "matthews"}
  {:client "enna"}
  {:client "ennaunder"}
