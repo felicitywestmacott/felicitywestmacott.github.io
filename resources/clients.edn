@@ -1,4 +1,28 @@
 {
+ "ayesha"
+ {:title "Wedding dress for Ayesha"
+  :pics [{:name "ayesha1" :blurb "Ayesha's bodice had beaded guipure lace hand appliquéd onto a skin colour base. A plunging front neckline is echoed at the back with dipped skirt line to reveal as much back as possible. The lace comes round her shoulder line and arms to frame her neck and head. A stunning pearl button and loop fastening appears to float on her skin. The skirt is cut straight and slim at the front and flares into a dramatic circular train behind. The lace appliqué continues from the bodice onto the skirt and down Ayesha's hips."}
+         {:name "ayesha2"}
+         {:name "ayesha3" :blurb "The silhouette of Ayesha's figure with the dress to compliment makes for a dramatic look.\n\n"}
+         {:name "ayesha4" :blurb "Original design sketch"}
+         {:name "ayesha5"}
+         {:name "ayesha6"}
+         {:name "ayesha7"}
+         {:name "ayesha8"}
+         {:name "ayesha9" :blurb "I also made Ayesha's veil. A simple two tier tulle veil complimented the dress and finished her look."}
+         {:name "ayesha10"}
+         {:name "ayesha11"}
+         {:name "ayesha12" :blurb "The train came with a hook up for the evening and a wrist look for ease of movement in the daytime."}
+         {:name "ayesha13" :blurb "Fitting Picture: Ayesha at an early fitting in the skirt and bodice before the lace was added. Bust cups ensured her modesty and had to be covered specially to make sure the showed as little as possible. The Tulle used as the shear base of the bodice was dyed to match er skin and be as invisible as possible."}
+         {:name "ayesha14" :blurb "A final fitting picture of the back and fastening."}
+         {:name "ayesha15" :blurb "A fitting picture detail of the bodice lace."}
+         {:name "ayesha16"}
+         {:name "ayesha17"}]
+  :blurb "Stunning dress in winter white duchess satin and bold guipure lace."
+  :link "ayesha1.html"
+  :tt "ayeshatt.jpg"
+  :classes []
+  :clean true}
  "brabbsbmaid"
  {:title "Bridesmaids for Karen Williams"
   :pics [{:name "brabbsbmaid1" :blurb "The dresses are all simple boned bodices with a 'ballet pinch' detail just below the sweetheart neckline. A halterneck is flattering and provided peace of mind to the wearer. The full circle skirts lie over netting skirts in bright contrast colours of turquoise, green and fuchsia. Black silk sashes emphasise tiny waists with pre-tied bows at the back and concealed zip closure."}
