@@ -3606,81 +3606,45 @@
   :classes ["simp" "vint" "bolero" "bride" "restyle" "zip" "sash" "ruched" "floor" "sweet" "cap" "aline" "lightbone" "puddle" "ivory" "satin" "lacefab"]
   :clean true},
  "butler"
- {:title "Wedding dress and veil for Gerry Butler",
-  :pics
-  [{:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nGerry's dress was made with a fitted and boned bodice with ruched silk sweeping in a cross over design to one side. The sweetheart neckline flowed into the off the shoulder line around the top of her elbow length sleeves. The dress was gently fitted around the hips before flaring out and falling into a train. 'Godet' panels created the fullness of the skirt whist complementing the hang of the silk fabric. The dress was finished with covered buttons at the back and beaded motifs at the hip and the bottom of the back opening.\n</p>",
-    :name "butler1"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nTwo tier veil with beaded motifs\n<br/>\nSimilar styles from £120\n</p>\n<p>\nI also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor.\n</p>",
-    :name "butler2"}
-   {:blurb "<hr /> \n\n<p>\nOriginal design sketch\n</p>",
-    :name "butler3"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p>",
-    :name "butler4"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nTwo tier veil with beaded motifs\n<br/>\nSimilar styles from £100\n</p>\n<p>\nI also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor.\n</p>",
-    :name "butler5"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nTwo tier veil with beaded motifs\n<br/>\nSimilar styles from £100\n</p>\n<p>\nI also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor.\n</p>",
-    :name "butler6"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p>",
-    :name "butler7"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p>",
-    :name "butler8"}
-   {:blurb
-    "<hr /> \n\n<p>\nPictures from a mid-fitting with a partially finished dress.\n</p>",
-    :name "butler9"}
-   {:blurb
-    "<hr /> \n\n<p>\nThe ruched bodice was created by draping the silk on a stand and then carefully hand stitching all the folds in place\n</p>",
-    :name "butler10"}
-   {:blurb
-    "<hr /> \n\n<p>\nDetail of the buttons sewn next to the hidden zip and the beaded motif.\n</p>",
-    :name "butler11"}
-   {:blurb
-    "<hr /> \n\n<p>\nA wrist loop was sewn inside the train so Gerry could carry her dress safely across the grass when outside. A hidden 'something blue' was revealed when she lifted her dress up.\n</p>",
-    :name "butler12"}
-   {:blurb
-    "<hr /> \n\n<p>\nPictures from the final fitting, showing the front and back with the train spread out and bustled up for dancing.\n</p>",
-    :name "butler13"}
-   {:blurb "<hr /> \n\n<p>\nPicture from the final fitting.\n</p>",
-    :name "butler14"}
-   {:blurb
-    "<hr /> \n\n<p>\nGerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish.\n</p>\n<p>\nSimilar work from £25/h\n<br/>\nAs shown here £125 including beaded black lace.\n</p>",
-    :name "butler15"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nGerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish.\n</p>\n<p>\nSimilar work from £25/h\n<br/>\nAs shown here £125 including beaded black lace.\n</p>",
-    :name "butler16"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html\" target=\"_blank\"> Barney at Timeless Pictures </a> </i></p><hr /> \n\n<p>\nGerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish.\n</p>\n<p>\nSimilar work from £25/h\n<br/>\nAs shown here £125 including beaded black lace.\n</p>",
-    :name "butler17"}],
-  :blurb
-  "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n",
-  :link "butler1.html",
-  :tt "butlertt.jpg",
-  :classes
-  ["trad"
-   "simp"
-   "bellish"
-   "veil"
-   "bride"
-   "zip"
-   "offshould"
-   "ruched"
-   "wstraps"
-   "floor"
-   "quarter"
-   "cathedral"
-   "sweet"
-   "over"
-   "fish"
-   "lightbone"
-   "ivory"
-   "dupion"
-   "silk"]},
+ {:title "Wedding dress and veil for Gerry Butler"
+  :pics [{:blurb "Gerry's dress was made with a fitted and boned bodice with ruched silk sweeping in a cross over design to one side. The sweetheart neckline flowed into the off the shoulder line around the top of her elbow length sleeves. The dress was gently fitted around the hips before flaring out and falling into a train. 'Godet' panels created the fullness of the skirt whist complementing the hang of the silk fabric. The dress was finished with covered buttons at the back and beaded motifs at the hip and the bottom of the back opening."
+          :name "butler1" :photo true}
+         {:blurb "Two tier veil with beaded motifs <br/>\n Similar styles from £120 <br/><br/> I also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor."
+          :name "butler2" :photo true}
+         {:blurb "Original design sketch"
+          :name "butler3"}
+         {:blurb "<b>Gerry wrote:</b> Hello! <br/> \n Just so you know - the dress was a huge success. Very beautiful. Just loved it! Thanks so much for making it such a lovely experience. I really appreciate your kindness, advice and all the hard work you have put into the dress. Your quality of work is amazing, Fliss, and incredible value for money. Thank you for all that extra work. I will certainly be recommending you to anyone I hear is getting married!! So will my friends!!! Thank you for making them feel so welcome too. <br/> \n Best wishes, G <br/> \n xxx"
+          :name "butler4" :photo true}
+         {:blurb "Two tier veil with beaded motifs <br/>\n Similar styles from £120 <br/><br/> I also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor."
+          :name "butler5" :photo true}
+         {:blurb "Two tier veil with beaded motifs <br/>\n Similar styles from £120 <br/><br/> I also made a veil for Gerry in plain ivory tulle. It was cut to fall longer than her dress' train and with a blusher for over her face before the ceremony. We finished the veil with the same beaded motifs as on the dress, placed to show up where the veil spread across the floor."
+          :name "butler6" :photo true}
+         {:name "butler7" :photo true}
+         {:name "butler8" :photo true}
+         {:blurb "Pictures from a mid-fitting with a partially finished dress."
+          :name "butler9"}
+         {:blurb "The ruched bodice was created by draping the silk on a stand and then carefully hand stitching all the folds in place."
+          :name "butler10"}
+         {:blurb "Detail of the buttons sewn next to the hidden zip and the beaded motif."
+          :name "butler11"}
+         {:blurb "A wrist loop was sewn inside the train so Gerry could carry her dress safely across the grass when outside. A hidden 'something blue' was revealed when she lifted her dress up."
+          :name "butler12"}
+         {:blurb "Pictures from the final fitting, showing the front and back with the train spread out and bustled up for dancing."
+          :name "butler13"}
+         {:blurb "Picture from the final fitting."
+          :name "butler14"}
+         {:blurb "Gerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish. <br/><br/>\n Similar work from £25/h <br/>\n As shown here £125 including beaded black lace."
+          :name "butler15"}
+         {:blurb "Gerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish. <br/><br/>\n Similar work from £25/h <br/>\n As shown here £125 including beaded black lace."
+          :name "butler16" :photo true}
+         {:blurb "Gerry's lovely mother in law, Georgina Butler wanted her shop bought dress to have something extra and we came up with adding this beaded black lace to the lapel and sleeves to create a very elegant finish. <br/><br/>\n Similar work from £25/h <br/>\n As shown here £125 including beaded black lace."
+          :name "butler17" :photo true}]
+  :blurb "<b>\nWedding dress and veil for Gerry Butler\n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £2100\n </i>\n</p>\n\n<p>\n Gerry commissioned an elegant dress in ivory dupion with ruched bodice and off the shoulder sleeves. \n</p>\n\n"
+  :link "butler1.html"
+  :tt "butlertt.jpg"
+  :classes ["trad" "simp" "bellish" "veil" "bride" "zip" "offshould" "ruched" "wstraps" "floor" "quarter" "cathedral" "sweet" "over" "fish" "lightbone" "ivory" "dupion" "silk"]
+  :photo {:url "http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html" :label "Barney at Timeless Pictures"}
+  :clean true}
  "endersby"
  {:title "Wedding dress for Lou Endersby",
   :pics
@@ -3730,7 +3694,8 @@
           :name "casey1"}
          {:blurb "<p>\n The bustle back was made of tulle, delicate lace and torn chiffon.\n It buttoned onto the back of the main dress so it was removable for later in the day.\n</p>",
           :name "casey2"}
-         {:blurb "<b>Katherine wrote:</b> Hi Felicity, <br/> Thank you so much again for all of your fantastic work everyone just loved the dresses and kept commenting on how unusual mine was!!! <br/> Take care <br/> Katherine. Xxx" :name "casey3"}
+         {:blurb "<b>Katherine wrote:</b> Hi Felicity, <br/> Thank you so much again for all of your fantastic work everyone just loved the dresses and kept commenting on how unusual mine was!!! <br/> Take care <br/> Katherine. Xxx"
+          :name "casey3"}
          {:blurb "<p>\n The bridesmaid dresses I made perfectly complimented the dress I'd made for the bride and\n suited the age and figure of both grown-up and teen.\n <br/><br>\n More pictures of the bridesmaids' dresses <a href=\"portfolio/caseybmaid1.html\">here</a>.\n</p>",
           :name "casey4"}
          {:blurb "<p>\n Original Design Sketch\n</p>",
