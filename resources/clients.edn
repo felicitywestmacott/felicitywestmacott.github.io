@@ -3643,7 +3643,7 @@
   :link "butler1.html"
   :tt "butlertt.jpg"
   :classes ["trad" "simp" "bellish" "veil" "bride" "zip" "offshould" "ruched" "wstraps" "floor" "quarter" "cathedral" "sweet" "over" "fish" "lightbone" "ivory" "dupion" "silk"]
-  :photo {:url "http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html" :label "Barney at Timeless Pictures"}
+  :photo {:url "http://www.timelesspictures.co.uk/TIMELESS_PICTURES_-_STYLISH_AND_BEAUTIFUL_PHOTOGRAPHY.html" :name "Barney at Timeless Pictures"}
   :clean true}
  "endersby"
  {:title "Wedding dress for Lou Endersby",
