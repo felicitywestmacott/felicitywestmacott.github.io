@@ -82,6 +82,17 @@ div.section {
 	margin-bottom: 75px;
 }
 
+
+div.left {
+    float: left;
+}
+div.right {
+    float: right;
+}
+img.thanks {
+    max-height: 300px;
+}
+
 img.right {
 	float: right;
 	max-height: 300px;

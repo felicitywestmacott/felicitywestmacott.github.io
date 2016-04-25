@@ -1680,7 +1680,7 @@
          {:name "waterhouse2" :photo true :blurb "The neckline and sleeves were both trimmed with scalloped edging. The thistle brooch Sarah-Louise wore had family significance, such a lovely special touch!"}
          {:name "waterhouse3" :photo true :blurb "I always provide a wrist loop to make carrying the train outside easy, and pretty!"}
          {:name "waterhouse4" :blurb "Original Design Sketch"}
-         {:name "waterhousethanks" :blurb "Thank you so much for designing and making me such a beautiful dress that will be shared with generations to come. I am so pleased with the final outcome. I felt like such a beautiful bride and I have been lost without such an eye catching dress. Thank you so much for all your time and effort spent. Words cannot express how much it means to me. <br/>\n Lots of love from Sarah-Louise."}
+         {:name "waterhousethanks" :thanks true :blurb "<b> Sarah-Louise wrote: </b> Thank you so much for designing and making me such a beautiful dress that will be shared with generations to come. I am so pleased with the final outcome. I felt like such a beautiful bride and I have been lost without such an eye catching dress. Thank you so much for all your time and effort spent. Words cannot express how much it means to me. <br/>\n Lots of love from Sarah-Louise."}
          {:name "waterhouse5" :photo true}
          {:name "waterhouse6" :photo true :blurb "I was lucky enough to be invited to this wedding, here I am with my then 10 month old baby girl, Rosalind."}
          {:name "waterhouse7" :photo true :blurb "Silk flows so well..."}]
@@ -2354,6 +2354,7 @@
    {:blurb
     "<p>Caffe-latte coloured silk and black lace wedding dress. Very tight laced corset beneath ruched fishtail dress, button back and hand appliqué work.</p>\n<p>\nPhotography by <a href=\"http://www.robbinsphotographic.com/\" target=\"_blank\">Lee Robbins</a>\n</p>\n<hr />\n\n<p>Issey's dress was created over a tightly lace inner corset, integral to the dress. The silk layer then closed with real buttons and loops.</p>",
     :name "harris7"}
+   {:name "harristhanks" :thanks true :blurb "<b> Issey wrote: </b> Dear Felicity <br/> Thank you so much for making my wedding dress, it is absolutely beautiful and I had great fun swinging the train around with the hand loop! Getting it on was a mission though - you made it look easy! I will send some pictures as soon as we get them back. I might be in touch again to see if you can transform my dress into something I can wear again and again – it would be such a shame to have it hang up out of sight for the rest of it's life. Best of luck with baby number 2, I hope everything goes well for you. Love from <br/> Issey (and the 'Isabella' dress)"}
    {:blurb
     "<p>Caffe-latte coloured silk and black lace wedding dress. Very tight laced corset beneath ruched fishtail dress, button back and hand appliqué work.</p>\n<p>\nPhotography by <a href=\"http://www.robbinsphotographic.com/\" target=\"_blank\">Lee Robbins</a>\n</p>",
     :name "harris8"}
@@ -2878,61 +2879,23 @@
  "cristina"
  {:title "Wedding dress for Cristina",
   :pics
-  [{:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nThe dress has a fitted and boned bodice with round neckline and straps. Draped georgette is ruched in a cross over design across the front bodice and flows into the skirt with waterfalls from the hip. Te skirt is cut as a full circle but hangs straight to the floor in these soft fabrics. The dress fastens with a hidden zip to one side allowing the back bodice to have unbroken ruching across its width. The subtle colour 'blush' of the georgette was perfect for her summer wedding day.\n</p>",
-    :name "cristina1"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina has a perfect hourglass figure with a tiny waist but fuller hips and bust so the structure of the bodice was important. We needed to provide support for the bust while keeping the overall look of the dress soft and flowing.\n</p>",
-    :name "cristina2"}
-   {:blurb "<hr /> \n\n<p>\nDesign Sketch\n</p>", :name "cristina3"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina was kind enough to nominate me for a Bridal Industry award. here is what she said in her nomination:\n</p> \n<p>She was patient, knowledgeable, & trustworthy. She went out of her way to make the dress design & fittings a relaxed & fun experience. She listened well and completely understood the vision I had for my dress, and made me feel confident & beautiful.\" \n</p>",
-    :name "cristina4"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina5"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina opted to have her dress without a train instead the fluted look of the hip water fall and roll hem of the main skirt created enough interest and left Cristina un-encumbered for her outdoor wedding day \n</p>",
-    :name "cristina6"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina7"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina8"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina9"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina10"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina11"}
-   {:blurb
-    "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",
-    :name "cristina12"}],
-  :blurb
-  "<b>\nWedding dress for Cristina \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n Cristina commissioned a dress in palest pink silk georgette and satin draped to flatter her tiny waist and full bust. \n</p>\n\n",
+  [{:name "cristina1" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nThe dress has a fitted and boned bodice with round neckline and straps. Draped georgette is ruched in a cross over design across the front bodice and flows into the skirt with waterfalls from the hip. Te skirt is cut as a full circle but hangs straight to the floor in these soft fabrics. The dress fastens with a hidden zip to one side allowing the back bodice to have unbroken ruching across its width. The subtle colour 'blush' of the georgette was perfect for her summer wedding day.\n</p>",}
+   {:name "cristina2" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina has a perfect hourglass figure with a tiny waist but fuller hips and bust so the structure of the bodice was important. We needed to provide support for the bust while keeping the overall look of the dress soft and flowing.\n</p>",}
+   {:name "cristina3" :blurb "<hr /> \n\n<p>\nDesign Sketch\n</p>",}
+   {:name "cristina4" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina was kind enough to nominate me for a Bridal Industry award. here is what she said in her nomination:\n</p> \n<p>She was patient, knowledgeable, & trustworthy. She went out of her way to make the dress design & fittings a relaxed & fun experience. She listened well and completely understood the vision I had for my dress, and made me feel confident & beautiful.\" \n</p>",}
+   {:name "cristina5" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristinathanks" :thanks true :blurb "<b> Cristina wrote:</b> Felicity, <br/> I hope you can see from these pictures that the dress was just beautiful. You were friendly and approachable, and made the whole process just a treat. I felt glamorous and romantic yet comfortable and like myself in the dress. I couldn't ask for anything more. Thanks and best wishes to you and your family <br/> Cristina and Jason"}
+   {:name "cristina6" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>\n<hr /> \n\n<p>\nCristina opted to have her dress without a train instead the fluted look of the hip water fall and roll hem of the main skirt created enough interest and left Cristina un-encumbered for her outdoor wedding day \n</p>",}
+   {:name "cristina7" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristina8" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristina9" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristina10" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristina11" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}
+   {:name "cristina12" :blurb "<p> <i> Official photographs by <a href=\"http://www.sarahlaurenphotography.com/home.html\" target=\"_blank\"> Sarah Lauren </a> </i></p>",}],
+  :blurb "<b>\nWedding dress for Cristina \n</b>\n\n<p>\n <b>\n Similar styles from £1600\n </b>\n <br />\n <i>\n With materials and detailing as shown £1600\n </i>\n</p>\n\n<p>\n Cristina commissioned a dress in palest pink silk georgette and satin draped to flatter her tiny waist and full bust. \n</p>\n\n",
   :link "cristina1.html",
   :tt "cristinatt.jpg",
-  :classes
-  ["colour"
-   "simp"
-   "bride"
-   "zip"
-   "ruched"
-   "notrain"
-   "wstraps"
-   "floor"
-   "flow"
-   "round"
-   "water"
-   "lightbone"
-   "pink"
-   "chiffon"
-   "satin"
-   "silk"]},
+  :classes ["colour" "simp" "bride" "zip" "ruched" "notrain" "wstraps" "floor" "flow" "round" "water" "lightbone" "pink" "chiffon" "satin" "silk"]},
  "mouatt"
  {:title "Dress and Jacket for Karen Mouatt",
   :pics
@@ -3398,6 +3361,7 @@
     :name "carroll2"}
    {:blurb "", :name "carroll3"}
    {:blurb "", :name "carroll4"}
+   {:name "carrollthanks" :thanks true :blurb "<b> Madeleine wrote: </b> Dear Felicity, <br/> Thank you so so much for the amazing dress! You had the image I had in my head and made it real and I just can't thank you enough for that! Lots of love, <br/> Madeleine xxx"}
    {:blurb "", :name "carroll5"}
    {:blurb "", :name "carroll6"}
    {:blurb "", :name "carroll7"}
@@ -3541,16 +3505,13 @@
  "kelly"
  {:title "Wedding dress for Sarah Kelly",
   :pics
-  [{:blurb "<p> Sarah's mother's dress needed to be almost completely remade to fit her taller and fuller figure. The high neckline and sleeves were removed and a new boned innner bodice was created to support and shape Sarah's figure. The dress was split along the old underbust seam and a ruched satin sash inserted to provide the extra length needed.</p><p>The bolero was made with new lace but we chose this kind, 'guipure' as it was very popular in the 1970's when the original dress was created. The bolero was a simple cut away shape with tiny cap sleeves. We used the pretty edging that came with the lace to define the neckline edge of the dress as well as the bolero. The sleeve edges were softened with hand appliquéd pieces of the guipure lace fabric.</p>",
-    :name "kelly1" :photo true}
-   {:blurb "<b>Sarah wrote:</b> The dress was perfect, thank you so much. It made my dad cry (yay!) Thank you so much. <br/> Sarah Eamer! (Kelly) xxx"
-    :name "kelly2" :photo true}
+  [{:name "kelly1" :photo true :blurb "<p> Sarah's mother's dress needed to be almost completely remade to fit her taller and fuller figure. The high neckline and sleeves were removed and a new boned innner bodice was created to support and shape Sarah's figure. The dress was split along the old underbust seam and a ruched satin sash inserted to provide the extra length needed.</p><p>The bolero was made with new lace but we chose this kind, 'guipure' as it was very popular in the 1970's when the original dress was created. The bolero was a simple cut away shape with tiny cap sleeves. We used the pretty edging that came with the lace to define the neckline edge of the dress as well as the bolero. The sleeve edges were softened with hand appliquéd pieces of the guipure lace fabric.</p>",}
+   {:name "kelly2" :photo true :blurb "<b>Sarah wrote:</b> The dress was perfect, thank you so much. It made my dad cry (yay!) Thank you so much. <br/> Sarah Eamer! (Kelly) xxx"}
    {:name "kelly3" :photo true}
-   {:blurb "<p> A picture of the vintage dress 'before' at it's last outing in the 1970's on Sarah's mum's wedding day. </p>",
-    :name "kelly4"}
+   {:name "kelly4" :blurb "<p> A picture of the vintage dress 'before' at it's last outing in the 1970's on Sarah's mum's wedding day. </p>",}
+   {:name "kellythanks" :thanks true :blurb "<b>Sarah wrote:</b> Felicity, <br/> As we celebrate our first anniversary it makes the perfect opportunity for us to thank you for making our wedding day so special. I absolutely love my wedding dress and all the memories I have from having it fitted to wearing it. It's absolutely beautiful and filled with great sentiment. Thank you so much <br/> Sarah and Matthew Eamer"}
    {:name "kelly5" :photo true}
-   {:blurb "A hidden inner corset laced shut to cinch Sarah's waist and give support to the strapless shape.",
-    :name "kelly6" :photo true}
+   {:name "kelly6" :photo true :blurb "A hidden inner corset laced shut to cinch Sarah's waist and give support to the strapless shape.",}
    {:name "kelly7" :photo true}
    {:name "kelly8" :photo true}
    {:name "kelly9" :photo true}
@@ -4831,6 +4792,7 @@
     "\n\n<hr /> \n\nEllie's net underskirt was made as a seperate item so she could wear the dress and net skirt later in different ways. \nEach layer of the netting is trimmed with white or orange satin ribbon in different widths.",
     :name "hook8"}
    {:blurb "", :name "hook9"}
+   {:name "hookthanks" :thanks true :blurb "<b> Ellie wrote: </b> To Felicity <br/> Just a quick note to say thank you for creating my dream dress. Without you I would not have had such a perfect wedding dress. I can't thank you enough for all your time and effort. This dress will be something I cherish forever. Thank you again Love, <br/> Ellie"}
    {:blurb "", :name "hook10"}
    {:blurb
     "\n\n<hr /> \n\nI also made some ivory ribbon shoe bows, with Swarovski crystals sewn over orange centres \nto jazz up her undersatedly elegant shoes.",

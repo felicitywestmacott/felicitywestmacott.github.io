@@ -7,5 +7,5 @@
                  [org.clojure/core.async "0.2.374"]
                  [seesaw "1.4.5"]
                  [org.clojars.mpenet/clj-yaml "0.3.4"]
-                 ]
+                 [hiccup "1.0.5"]]
   :main gen.core)

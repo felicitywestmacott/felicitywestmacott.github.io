@@ -1,5 +1,6 @@
 (ns gen.generate
-  (:require [clojure.edn :as edn]))
+  (:require [clojure.edn :as edn]
+            [hiccup.core :refer :all]))
 
 
 (def known-filter-categories ["Theme" "Category" "Detail" "Colour" "Fabric"])
@@ -124,6 +125,30 @@
 (mapv build-client-pages (vals clients))
 
 
+
+(def thankyous
+  (apply concat
+         (for [[_ client] clients]
+           (for [{:keys [name blurb thanks]} (:pics client) :when thanks]
+             [(str name ".jpg") (:tt client) blurb]))))
+
+(def sides (cycle [{:style "left" :fn identity}
+                   {:style "right" :fn reverse}]))
+
+(defn generate-thank-you [[thanks-image tt-image text] side]
+  (html [:div {:class "section"}
+         [:div {:class (:style side)}
+          ((:fn side) (list [:img {:class "thanks" :src (str "{{ site.baseimageref }}/images/" tt-image)}]
+                            [:img {:class "thanks" :src (str "{{ site.baseimageref }}/images/" thanks-image)}]))]
+         [:div {:class "sectiontext"} text]]))
+
+
+(println
+  (.replace
+    (apply str
+           (map generate-thank-you thankyous sides))
+    ">"
+    ">\n"))
 
 (println "Done.")
 
